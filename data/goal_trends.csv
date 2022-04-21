@@ -1,0 +1,3282 @@
+Country Code ISO3,Country,Goal,Dash Value,Goal Id,Trend Value,Goal Score,Regional Goal Score
+AFG,Afghanistan,1,grey,Goal1,,,91.94543182
+AFG,Afghanistan,2,red,Goal2,Right,50.131,61.73419591
+AFG,Afghanistan,3,red,Goal3,Right,37.09835714,77.28263593
+AFG,Afghanistan,4,red,Goal4,Up Right,57.85121667,91.68278123
+AFG,Afghanistan,5,red,Goal5,Right,23.1625,60.84888406
+AFG,Afghanistan,6,red,Goal6,Up Right,46.3138,71.82457391
+AFG,Afghanistan,7,orange,Goal7,Up Right,64.8225,87.6735
+AFG,Afghanistan,8,red,Goal8,Up Right,37.75316667,69.7746442
+AFG,Afghanistan,9,red,Goal9,Right,6.546833333,40.05858986
+AFG,Afghanistan,10,grey,Goal10,,,72.3627619
+AFG,Afghanistan,11,red,Goal11,Right,31.76125,76.44322826
+AFG,Afghanistan,12,yellow,Goal12,,90.81683333,77.62934493
+AFG,Afghanistan,13,green,Goal13,Up,99.06466667,83.04191304
+AFG,Afghanistan,14,grey,Goal14,,,58.86582121
+AFG,Afghanistan,15,red,Goal15,Down,52.984,69.49956449
+AFG,Afghanistan,16,red,Goal16,Right,52.02666667,72.40393841
+AFG,Afghanistan,17,red,Goal17,Up Right,43.3595,63.38646014
+AGO,Angola,1,red,Goal1,Down,12.913,30.34416279
+AGO,Angola,2,red,Goal2,Right,55.424125,51.97774729
+AGO,Angola,3,red,Goal3,Right,37.44357143,44.14016211
+AGO,Angola,4,red,Goal4,,40.77566667,53.62485676
+AGO,Angola,5,red,Goal5,Right,51.278,53.01121023
+AGO,Angola,6,red,Goal6,Up Right,53.961,52.57983636
+AGO,Angola,7,red,Goal7,Up Right,52.43266667,37.27658333
+AGO,Angola,8,red,Goal8,Up Right,52.4855,59.98118523
+AGO,Angola,9,red,Goal9,Right,7.517,18.23981667
+AGO,Angola,10,red,Goal10,,25.2465,37.33420455
+AGO,Angola,11,red,Goal11,Right,46.71175,52.72891477
+AGO,Angola,12,green,Goal12,,92.22016667,88.02470152
+AGO,Angola,13,yellow,Goal13,Up,96.52033333,96.26652652
+AGO,Angola,14,orange,Goal14,Right,66.932,68.01049167
+AGO,Angola,15,red,Goal15,Right,64.7534,66.83500341
+AGO,Angola,16,red,Goal16,Up Right,50.6536,56.05098259
+AGO,Angola,17,orange,Goal17,Up Right,47.766,51.65295455
+ALB,Albania,1,yellow,Goal1,Up Right,91.6375,91.94543182
+ALB,Albania,2,orange,Goal2,Right,60.00485714,61.73419591
+ALB,Albania,3,orange,Goal3,Up Right,81.09271429,77.28263593
+ALB,Albania,4,green,Goal4,Up,95.155,91.68278123
+ALB,Albania,5,orange,Goal5,Right,53.57425,60.84888406
+ALB,Albania,6,orange,Goal6,Up Right,75.9076,71.82457391
+ALB,Albania,7,yellow,Goal7,Up,89.44966667,87.6735
+ALB,Albania,8,red,Goal8,Up Right,61.09533333,69.7746442
+ALB,Albania,9,orange,Goal9,Up Right,28.5805,40.05858986
+ALB,Albania,10,orange,Goal10,,68.4005,72.3627619
+ALB,Albania,11,orange,Goal11,Right,72.83833333,76.44322826
+ALB,Albania,12,orange,Goal12,,79.61733333,77.62934493
+ALB,Albania,13,green,Goal13,Up,92.126,83.04191304
+ALB,Albania,14,red,Goal14,Right,43.8784,58.86582121
+ALB,Albania,15,orange,Goal15,Right,80.5868,69.49956449
+ALB,Albania,16,orange,Goal16,Right,68.0918,72.40393841
+ALB,Albania,17,orange,Goal17,Up Right,65.335,63.38646014
+AND,Andorra,1,grey,Goal1,,,
+AND,Andorra,2,yellow,Goal2,Up Right,,
+AND,Andorra,3,grey,Goal3,,,
+AND,Andorra,4,grey,Goal4,,,
+AND,Andorra,5,green,Goal5,Up,,
+AND,Andorra,6,yellow,Goal6,Up Right,,
+AND,Andorra,7,green,Goal7,Up,,
+AND,Andorra,8,grey,Goal8,,,
+AND,Andorra,9,orange,Goal9,Up Right,,
+AND,Andorra,10,grey,Goal10,,,
+AND,Andorra,11,yellow,Goal11,Up,,
+AND,Andorra,12,orange,Goal12,,,
+AND,Andorra,13,red,Goal13,Right,,
+AND,Andorra,14,grey,Goal14,,,
+AND,Andorra,15,orange,Goal15,Up Right,,
+AND,Andorra,16,yellow,Goal16,Up,,
+AND,Andorra,17,grey,Goal17,,,
+ARE,United Arab Emirates,1,green,Goal1,Up,99.5695,92.3215
+ARE,United Arab Emirates,2,red,Goal2,Right,67.268,59.18466592
+ARE,United Arab Emirates,3,yellow,Goal3,Up,86.38807692,75.86853159
+ARE,United Arab Emirates,4,yellow,Goal4,Up,92.05933333,84.10655278
+ARE,United Arab Emirates,5,orange,Goal5,Up Right,71.19925,44.58975
+ARE,United Arab Emirates,6,red,Goal6,Up Right,56.1116,59.0447
+ARE,United Arab Emirates,7,yellow,Goal7,Up Right,90.99066667,88.10620833
+ARE,United Arab Emirates,8,red,Goal8,Up Right,60.1306,62.06568854
+ARE,United Arab Emirates,9,yellow,Goal9,Up,74.10516667,47.49391042
+ARE,United Arab Emirates,10,yellow,Goal10,,91.375,66.17809091
+ARE,United Arab Emirates,11,yellow,Goal11,Up Right,75.9755,58.92827083
+ARE,United Arab Emirates,12,red,Goal12,,51.1275,76.84214583
+ARE,United Arab Emirates,13,red,Goal13,Up Right,29.15,71.47551042
+ARE,United Arab Emirates,14,red,Goal14,Up Right,76.6002,62.77661458
+ARE,United Arab Emirates,15,grey,Goal15,,58.625,57.3562125
+ARE,United Arab Emirates,16,orange,Goal16,Up Right,79.21244444,69.0938314
+ARE,United Arab Emirates,17,orange,Goal17,Up,33.001,56.23125521
+ARG,Argentina,1,yellow,Goal1,Up Right,95.99,78.88736364
+ARG,Argentina,2,red,Goal2,Up Right,67.543125,57.59063199
+ARG,Argentina,3,orange,Goal3,Up Right,80.6,74.52407979
+ARG,Argentina,4,yellow,Goal4,Up,95.26966667,84.88684783
+ARG,Argentina,5,green,Goal5,Up,80.9855,69.22095652
+ARG,Argentina,6,orange,Goal6,Up Right,79.0636,73.03634783
+ARG,Argentina,7,yellow,Goal7,Up,92.50666667,84.79700725
+ARG,Argentina,8,red,Goal8,Right,70.2755,68.38165797
+ARG,Argentina,9,orange,Goal9,Right,45.665,31.41842826
+ARG,Argentina,10,red,Goal10,,38.402,27.90167647
+ARG,Argentina,11,orange,Goal11,Up Right,81.0045,77.0875942
+ARG,Argentina,12,orange,Goal12,,76.39166667,76.72728261
+ARG,Argentina,13,orange,Goal13,Up Right,86.24866667,85.37328261
+ARG,Argentina,14,red,Goal14,Right,57.281,62.78111429
+ARG,Argentina,15,red,Goal15,Right,60.6662,60.90421739
+ARG,Argentina,16,red,Goal16,Up Right,65.16766667,60.88893442
+ARG,Argentina,17,orange,Goal17,Up Right,64.51275,64.2951558
+ARM,Armenia,1,yellow,Goal1,Up,93.438,91.94543182
+ARM,Armenia,2,orange,Goal2,Right,60.72814286,61.73419591
+ARM,Armenia,3,orange,Goal3,Up Right,77.90721429,77.28263593
+ARM,Armenia,4,yellow,Goal4,Right,90.329,91.68278123
+ARM,Armenia,5,orange,Goal5,Up Right,57.48825,60.84888406
+ARM,Armenia,6,orange,Goal6,Up,68.9572,71.82457391
+ARM,Armenia,7,green,Goal7,Up,94.82133333,87.6735
+ARM,Armenia,8,red,Goal8,Up Right,66.2794,69.7746442
+ARM,Armenia,9,orange,Goal9,Up Right,34.40266667,40.05858986
+ARM,Armenia,10,red,Goal10,,55.069,72.3627619
+ARM,Armenia,11,orange,Goal11,Up Right,76.44475,76.44322826
+ARM,Armenia,12,yellow,Goal12,,88.68466667,77.62934493
+ARM,Armenia,13,yellow,Goal13,Right,93.07333333,83.04191304
+ARM,Armenia,14,grey,Goal14,,,58.86582121
+ARM,Armenia,15,red,Goal15,Right,61.792,69.49956449
+ARM,Armenia,16,yellow,Goal16,Up Right,80.02477778,72.40393841
+ARM,Armenia,17,orange,Goal17,Right,62.19075,63.38646014
+ATG,Antigua and Barbuda,1,grey,Goal1,,,
+ATG,Antigua and Barbuda,2,red,Goal2,Right,,
+ATG,Antigua and Barbuda,3,orange,Goal3,Up Right,,
+ATG,Antigua and Barbuda,4,green,Goal4,Up,,
+ATG,Antigua and Barbuda,5,orange,Goal5,Up Right,,
+ATG,Antigua and Barbuda,6,orange,Goal6,Right,,
+ATG,Antigua and Barbuda,7,green,Goal7,Up,,
+ATG,Antigua and Barbuda,8,yellow,Goal8,Up,,
+ATG,Antigua and Barbuda,9,orange,Goal9,Up Right,,
+ATG,Antigua and Barbuda,10,grey,Goal10,,,
+ATG,Antigua and Barbuda,11,grey,Goal11,,,
+ATG,Antigua and Barbuda,12,red,Goal12,,,
+ATG,Antigua and Barbuda,13,red,Goal13,Right,,
+ATG,Antigua and Barbuda,14,red,Goal14,Right,,
+ATG,Antigua and Barbuda,15,orange,Goal15,Right,,
+ATG,Antigua and Barbuda,16,grey,Goal16,,,
+ATG,Antigua and Barbuda,17,grey,Goal17,,,
+AUS,Australia,1,yellow,Goal1,Up Right,99.61,98.69063514
+AUS,Australia,2,red,Goal2,Right,58.740125,66.75572056
+AUS,Australia,3,green,Goal3,Up,95.58357143,90.90151376
+AUS,Australia,4,yellow,Goal4,Up Right,99.405375,98.30024837
+AUS,Australia,5,orange,Goal5,Up Right,81.00025,77.46045721
+AUS,Australia,6,yellow,Goal6,Up,94.9532,85.63096757
+AUS,Australia,7,red,Goal7,Up Right,91.339,92.46802703
+AUS,Australia,8,yellow,Goal8,Up Right,81.036,80.68087297
+AUS,Australia,9,yellow,Goal9,Up Right,89.48183333,81.25941441
+AUS,Australia,10,orange,Goal10,Down,74.2255,74.4752027
+AUS,Australia,11,yellow,Goal11,Up Right,89.0435,88.91136712
+AUS,Australia,12,red,Goal12,,44.09666667,58.05527928
+AUS,Australia,13,red,Goal13,Right,10.02433333,64.11272072
+AUS,Australia,14,red,Goal14,Right,58.99766667,63.36054624
+AUS,Australia,15,red,Goal15,Down,63.7674,74.10277568
+AUS,Australia,16,yellow,Goal16,Up Right,85.1182,82.31681502
+AUS,Australia,17,orange,Goal17,Up Right,68.3645,65.77382432
+AUT,Austria,1,green,Goal1,Up,99.467,98.69063514
+AUT,Austria,2,orange,Goal2,Right,73.767125,66.75572056
+AUT,Austria,3,yellow,Goal3,Up Right,92.10830769,90.90151376
+AUT,Austria,4,yellow,Goal4,Up Right,99.20504167,98.30024837
+AUT,Austria,5,orange,Goal5,Up Right,83.08375,77.46045721
+AUT,Austria,6,yellow,Goal6,Up Right,89.5994,85.63096757
+AUT,Austria,7,green,Goal7,Up,94.712,92.46802703
+AUT,Austria,8,yellow,Goal8,Up Right,85.49266667,80.68087297
+AUT,Austria,9,yellow,Goal9,Up Right,95.53433333,81.25941441
+AUT,Austria,10,yellow,Goal10,Up Right,91.2085,74.4752027
+AUT,Austria,11,yellow,Goal11,Up,90.85,88.91136712
+AUT,Austria,12,red,Goal12,,48.21383333,58.05527928
+AUT,Austria,13,red,Goal13,Right,53.70333333,64.11272072
+AUT,Austria,14,grey,Goal14,,,63.36054624
+AUT,Austria,15,orange,Goal15,Right,73.4328,74.10277568
+AUT,Austria,16,green,Goal16,Up,93.5696,82.31681502
+AUT,Austria,17,red,Goal17,Up Right,68.05325,65.77382432
+AZE,Azerbaijan,1,green,Goal1,Up,100,91.94543182
+AZE,Azerbaijan,2,orange,Goal2,Right,61.88028571,61.73419591
+AZE,Azerbaijan,3,orange,Goal3,Up Right,75.39557143,77.28263593
+AZE,Azerbaijan,4,yellow,Goal4,Down,87.65133333,91.68278123
+AZE,Azerbaijan,5,red,Goal5,Right,53.69575,60.84888406
+AZE,Azerbaijan,6,orange,Goal6,Up,65.5612,71.82457391
+AZE,Azerbaijan,7,yellow,Goal7,Up Right,91.144,87.6735
+AZE,Azerbaijan,8,red,Goal8,Right,65.7876,69.7746442
+AZE,Azerbaijan,9,orange,Goal9,Right,35.11933333,40.05858986
+AZE,Azerbaijan,10,orange,Goal10,,68.597,72.3627619
+AZE,Azerbaijan,11,yellow,Goal11,Up Right,85.68966667,76.44322826
+AZE,Azerbaijan,12,orange,Goal12,,83.867,77.62934493
+AZE,Azerbaijan,13,orange,Goal13,Up Right,89.21466667,83.04191304
+AZE,Azerbaijan,14,grey,Goal14,,,58.86582121
+AZE,Azerbaijan,15,red,Goal15,Right,65.5958,69.49956449
+AZE,Azerbaijan,16,red,Goal16,Up Right,72.813875,72.40393841
+AZE,Azerbaijan,17,orange,Goal17,Up Right,70.027,63.38646014
+BDI,Burundi,1,red,Goal1,Down,0,30.34416279
+BDI,Burundi,2,red,Goal2,Right,50.54016667,51.97774729
+BDI,Burundi,3,red,Goal3,Up Right,48.99971429,44.14016211
+BDI,Burundi,4,orange,Goal4,Down,58.822,53.62485676
+BDI,Burundi,5,red,Goal5,Right,59.94225,53.01121023
+BDI,Burundi,6,red,Goal6,Right,54.904,52.57983636
+BDI,Burundi,7,red,Goal7,Right,1.0585,37.27658333
+BDI,Burundi,8,red,Goal8,Up,43.4738,59.98118523
+BDI,Burundi,9,red,Goal9,Down,5.373333333,18.23981667
+BDI,Burundi,10,orange,Goal10,,58.362,37.33420455
+BDI,Burundi,11,red,Goal11,Up Right,56.584,52.72891477
+BDI,Burundi,12,orange,Goal12,,82.7985,88.02470152
+BDI,Burundi,13,green,Goal13,Up,99.802,96.26652652
+BDI,Burundi,14,grey,Goal14,,,68.01049167
+BDI,Burundi,15,orange,Goal15,Right,77.2392,66.83500341
+BDI,Burundi,16,red,Goal16,Right,54.32477778,56.05098259
+BDI,Burundi,17,orange,Goal17,Down,60.36366667,51.65295455
+BEL,Belgium,1,green,Goal1,Up,99.527,98.69063514
+BEL,Belgium,2,orange,Goal2,Up Right,70.878875,66.75572056
+BEL,Belgium,3,yellow,Goal3,Up Right,92.88283333,90.90151376
+BEL,Belgium,4,orange,Goal4,Up Right,98.88270833,98.30024837
+BEL,Belgium,5,yellow,Goal5,Up,85.71525,77.46045721
+BEL,Belgium,6,orange,Goal6,Up Right,77.3778,85.63096757
+BEL,Belgium,7,orange,Goal7,Up Right,94.15266667,92.46802703
+BEL,Belgium,8,yellow,Goal8,Up,85.4915,80.68087297
+BEL,Belgium,9,yellow,Goal9,Up Right,92.19916667,81.25941441
+BEL,Belgium,10,yellow,Goal10,Up,97.386,74.4752027
+BEL,Belgium,11,yellow,Goal11,Up Right,90.175,88.91136712
+BEL,Belgium,12,red,Goal12,,56.33533333,58.05527928
+BEL,Belgium,13,red,Goal13,Right,60.73366667,64.11272072
+BEL,Belgium,14,orange,Goal14,Up Right,61.7676,63.36054624
+BEL,Belgium,15,orange,Goal15,Up,85.1846,74.10277568
+BEL,Belgium,16,yellow,Goal16,Up Right,83.6742,82.31681502
+BEL,Belgium,17,orange,Goal17,Up Right,64.86875,65.77382432
+BEN,Benin,1,red,Goal1,Right,16.8665,30.34416279
+BEN,Benin,2,red,Goal2,Up Right,62.465375,51.97774729
+BEN,Benin,3,red,Goal3,Right,46.30092857,44.14016211
+BEN,Benin,4,red,Goal4,Down,49.56133333,53.62485676
+BEN,Benin,5,red,Goal5,Right,30.27525,53.01121023
+BEN,Benin,6,red,Goal6,Right,50.2174,52.57983636
+BEN,Benin,7,red,Goal7,Down,13.402,37.27658333
+BEN,Benin,8,red,Goal8,Up,67.17133333,59.98118523
+BEN,Benin,9,red,Goal9,Up Right,16.1966,18.23981667
+BEN,Benin,10,red,Goal10,,17.6465,37.33420455
+BEN,Benin,11,red,Goal11,Right,46.79375,52.72891477
+BEN,Benin,12,green,Goal12,,96.036,88.02470152
+BEN,Benin,13,green,Goal13,Up,98.46366667,96.26652652
+BEN,Benin,14,red,Goal14,Right,59.9694,68.01049167
+BEN,Benin,15,orange,Goal15,Right,66.239,66.83500341
+BEN,Benin,16,red,Goal16,Up Right,58.9885,56.05098259
+BEN,Benin,17,red,Goal17,Right,51.185,51.65295455
+BFA,Burkina Faso,1,red,Goal1,Right,21.15,30.34416279
+BFA,Burkina Faso,2,red,Goal2,Right,59.282625,51.97774729
+BFA,Burkina Faso,3,red,Goal3,Right,47.23035714,44.14016211
+BFA,Burkina Faso,4,red,Goal4,Up Right,35.013,53.62485676
+BFA,Burkina Faso,5,red,Goal5,Up Right,37.55,53.01121023
+BFA,Burkina Faso,6,red,Goal6,Right,44.6628,52.57983636
+BFA,Burkina Faso,7,red,Goal7,Right,6.451,37.27658333
+BFA,Burkina Faso,8,orange,Goal8,Up Right,66.4415,59.98118523
+BFA,Burkina Faso,9,red,Goal9,Up Right,17.1065,18.23981667
+BFA,Burkina Faso,10,orange,Goal10,,70.9145,37.33420455
+BFA,Burkina Faso,11,red,Goal11,Right,53.8395,52.72891477
+BFA,Burkina Faso,12,yellow,Goal12,,89.84083333,88.02470152
+BFA,Burkina Faso,13,green,Goal13,Up,99.19866667,96.26652652
+BFA,Burkina Faso,14,grey,Goal14,,,68.01049167
+BFA,Burkina Faso,15,orange,Goal15,Right,82.7128,66.83500341
+BFA,Burkina Faso,16,red,Goal16,Right,57.1718,56.05098259
+BFA,Burkina Faso,17,orange,Goal17,Up Right,53.0385,51.65295455
+BGD,Bangladesh,1,orange,Goal1,Up,64.256,83.55094444
+BGD,Bangladesh,2,orange,Goal2,Up Right,63.34128571,59.57284944
+BGD,Bangladesh,3,red,Goal3,Up Right,56.38438462,68.4056886
+BGD,Bangladesh,4,yellow,Goal4,Up,88.365,88.83601754
+BGD,Bangladesh,5,orange,Goal5,Up Right,53.14525,59.05722807
+BGD,Bangladesh,6,red,Goal6,Up Right,67.3334,67.25623158
+BGD,Bangladesh,7,orange,Goal7,Up Right,60.31166667,73.47686842
+BGD,Bangladesh,8,orange,Goal8,Right,68.3185,69.19497018
+BGD,Bangladesh,9,red,Goal9,Up Right,27.1608,42.18964211
+BGD,Bangladesh,10,orange,Goal10,,72.502,54.78688235
+BGD,Bangladesh,11,red,Goal11,Up Right,53.42725,71.62332895
+BGD,Bangladesh,12,green,Goal12,,95.2315,80.23155263
+BGD,Bangladesh,13,green,Goal13,Up,97.3855,83.69120175
+BGD,Bangladesh,14,red,Goal14,Right,65.0895,60.66508444
+BGD,Bangladesh,15,red,Goal15,Down,52.8768,54.83643246
+BGD,Bangladesh,16,red,Goal16,Right,54.5223,66.075341
+BGD,Bangladesh,17,red,Goal17,Right,39.0715,53.23046053
+BGR,Bulgaria,1,green,Goal1,Up,97.507,91.94543182
+BGR,Bulgaria,2,orange,Goal2,Up Right,66.34725,61.73419591
+BGR,Bulgaria,3,orange,Goal3,Up Right,79.553,77.28263593
+BGR,Bulgaria,4,orange,Goal4,Down,67.553,91.68278123
+BGR,Bulgaria,5,orange,Goal5,Up Right,72.472,60.84888406
+BGR,Bulgaria,6,orange,Goal6,Up Right,70.8148,71.82457391
+BGR,Bulgaria,7,green,Goal7,Up,91.049,87.6735
+BGR,Bulgaria,8,yellow,Goal8,Up Right,78.13733333,69.7746442
+BGR,Bulgaria,9,orange,Goal9,Up Right,52.55233333,40.05858986
+BGR,Bulgaria,10,red,Goal10,,48.272,72.3627619
+BGR,Bulgaria,11,orange,Goal11,Up Right,79.30433333,76.44322826
+BGR,Bulgaria,12,orange,Goal12,,74.5085,77.62934493
+BGR,Bulgaria,13,orange,Goal13,Right,79.682,83.04191304
+BGR,Bulgaria,14,red,Goal14,Right,60.4226,58.86582121
+BGR,Bulgaria,15,yellow,Goal15,Up,90.6512,69.49956449
+BGR,Bulgaria,16,orange,Goal16,Up Right,73.96455556,72.40393841
+BGR,Bulgaria,17,yellow,Goal17,Up Right,72.06225,63.38646014
+BHR,Bahrain,1,grey,Goal1,,,92.3215
+BHR,Bahrain,2,red,Goal2,Right,71.484,59.18466592
+BHR,Bahrain,3,yellow,Goal3,Up Right,89.03792308,75.86853159
+BHR,Bahrain,4,green,Goal4,Up,95.45733333,84.10655278
+BHR,Bahrain,5,red,Goal5,Right,51.6325,44.58975
+BHR,Bahrain,6,orange,Goal6,Up Right,71.3444,59.0447
+BHR,Bahrain,7,yellow,Goal7,Up,93.85866667,88.10620833
+BHR,Bahrain,8,yellow,Goal8,Up,77.615,62.06568854
+BHR,Bahrain,9,orange,Goal9,Up Right,46.64066667,47.49391042
+BHR,Bahrain,10,grey,Goal10,,,66.17809091
+BHR,Bahrain,11,orange,Goal11,Down,48.55,58.92827083
+BHR,Bahrain,12,orange,Goal12,,67.26783333,76.84214583
+BHR,Bahrain,13,red,Goal13,Up Right,51.34366667,71.47551042
+BHR,Bahrain,14,red,Goal14,Right,47.569,62.77661458
+BHR,Bahrain,15,red,Goal15,Down,45.52666667,57.3562125
+BHR,Bahrain,16,orange,Goal16,Right,71.6275,69.0938314
+BHR,Bahrain,17,grey,Goal17,,35.511,56.23125521
+BHS,"Bahamas, The",1,grey,Goal1,,,
+BHS,"Bahamas, The",2,red,Goal2,Up Right,,
+BHS,"Bahamas, The",3,orange,Goal3,Up Right,,
+BHS,"Bahamas, The",4,yellow,Goal4,,,
+BHS,"Bahamas, The",5,orange,Goal5,Up Right,,
+BHS,"Bahamas, The",6,orange,Goal6,Up,,
+BHS,"Bahamas, The",7,green,Goal7,Up,,
+BHS,"Bahamas, The",8,orange,Goal8,Up Right,,
+BHS,"Bahamas, The",9,orange,Goal9,Up Right,,
+BHS,"Bahamas, The",10,grey,Goal10,,,
+BHS,"Bahamas, The",11,grey,Goal11,,,
+BHS,"Bahamas, The",12,red,Goal12,,,
+BHS,"Bahamas, The",13,red,Goal13,Right,,
+BHS,"Bahamas, The",14,red,Goal14,Right,,
+BHS,"Bahamas, The",15,red,Goal15,Down,,
+BHS,"Bahamas, The",16,orange,Goal16,Up,,
+BHS,"Bahamas, The",17,orange,Goal17,Up Right,,
+BIH,Bosnia and Herzegovina,1,green,Goal1,Up,99.774,91.94543182
+BIH,Bosnia and Herzegovina,2,orange,Goal2,Right,65.56942857,61.73419591
+BIH,Bosnia and Herzegovina,3,orange,Goal3,Up Right,77.53869231,77.28263593
+BIH,Bosnia and Herzegovina,4,grey,Goal4,,92.63853485,91.68278123
+BIH,Bosnia and Herzegovina,5,orange,Goal5,Up Right,42.50775,60.84888406
+BIH,Bosnia and Herzegovina,6,orange,Goal6,Up Right,77.3332,71.82457391
+BIH,Bosnia and Herzegovina,7,orange,Goal7,Up Right,80.65166667,87.6735
+BIH,Bosnia and Herzegovina,8,orange,Goal8,Up Right,69.523,69.7746442
+BIH,Bosnia and Herzegovina,9,orange,Goal9,Right,31.6925,40.05858986
+BIH,Bosnia and Herzegovina,10,orange,Goal10,,79.138,72.3627619
+BIH,Bosnia and Herzegovina,11,red,Goal11,Right,74.44875,76.44322826
+BIH,Bosnia and Herzegovina,12,orange,Goal12,,78.373,77.62934493
+BIH,Bosnia and Herzegovina,13,orange,Goal13,Right,82.33133333,83.04191304
+BIH,Bosnia and Herzegovina,14,yellow,Goal14,Up Right,77.7515,58.86582121
+BIH,Bosnia and Herzegovina,15,orange,Goal15,Right,70.9104,69.49956449
+BIH,Bosnia and Herzegovina,16,orange,Goal16,Up Right,72.05255556,72.40393841
+BIH,Bosnia and Herzegovina,17,yellow,Goal17,Up,80.718,63.38646014
+BLR,Belarus,1,green,Goal1,Up,99.895,91.94543182
+BLR,Belarus,2,orange,Goal2,Up Right,64.997375,61.73419591
+BLR,Belarus,3,orange,Goal3,Up,83.72971429,77.28263593
+BLR,Belarus,4,green,Goal4,Up,98.091,91.68278123
+BLR,Belarus,5,yellow,Goal5,Up,79.75375,60.84888406
+BLR,Belarus,6,orange,Goal6,Up Right,79.7214,71.82457391
+BLR,Belarus,7,yellow,Goal7,Up Right,90.59,87.6735
+BLR,Belarus,8,red,Goal8,Up Right,67.80866667,69.7746442
+BLR,Belarus,9,orange,Goal9,Up Right,45.35016667,40.05858986
+BLR,Belarus,10,yellow,Goal10,,92.686,72.3627619
+BLR,Belarus,11,orange,Goal11,Up Right,76.0835,76.44322826
+BLR,Belarus,12,orange,Goal12,,86.4325,77.62934493
+BLR,Belarus,13,yellow,Goal13,Up Right,88.83766667,83.04191304
+BLR,Belarus,14,grey,Goal14,,,58.86582121
+BLR,Belarus,15,red,Goal15,Right,78.6014,69.49956449
+BLR,Belarus,16,orange,Goal16,Up,74.67,72.40393841
+BLR,Belarus,17,yellow,Goal17,Up,73.8475,63.38646014
+BLZ,Belize,1,red,Goal1,Down,55.346,78.88736364
+BLZ,Belize,2,orange,Goal2,Right,59.36257143,57.59063199
+BLZ,Belize,3,red,Goal3,Up Right,72.33930769,74.52407979
+BLZ,Belize,4,red,Goal4,Up Right,77.69433333,84.88684783
+BLZ,Belize,5,orange,Goal5,Up Right,56.37825,69.22095652
+BLZ,Belize,6,orange,Goal6,Up Right,75.8738,73.03634783
+BLZ,Belize,7,green,Goal7,Up,92.3135,84.79700725
+BLZ,Belize,8,red,Goal8,Right,58.4702,68.38165797
+BLZ,Belize,9,red,Goal9,Up Right,22.748,31.41842826
+BLZ,Belize,10,grey,Goal10,,,27.90167647
+BLZ,Belize,11,orange,Goal11,Up,79.086,77.0875942
+BLZ,Belize,12,orange,Goal12,,72.233,76.72728261
+BLZ,Belize,13,yellow,Goal13,Up,91.13166667,85.37328261
+BLZ,Belize,14,red,Goal14,Right,67.9176,62.78111429
+BLZ,Belize,15,red,Goal15,Down,54.1744,60.90421739
+BLZ,Belize,16,red,Goal16,Right,60.812125,60.88893442
+BLZ,Belize,17,yellow,Goal17,Up,71.505,64.2951558
+BOL,Bolivia,1,orange,Goal1,Right,85.899,78.88736364
+BOL,Bolivia,2,red,Goal2,Right,57.89614286,57.59063199
+BOL,Bolivia,3,red,Goal3,Up Right,68.49771429,74.52407979
+BOL,Bolivia,4,yellow,Goal4,Right,88.92366667,84.88684783
+BOL,Bolivia,5,orange,Goal5,Up Right,71.6935,69.22095652
+BOL,Bolivia,6,red,Goal6,Up Right,69.4056,73.03634783
+BOL,Bolivia,7,orange,Goal7,Right,73.54833333,84.79700725
+BOL,Bolivia,8,orange,Goal8,Up Right,72.19333333,68.38165797
+BOL,Bolivia,9,red,Goal9,Up Right,25.90616667,31.41842826
+BOL,Bolivia,10,red,Goal10,,40.2575,27.90167647
+BOL,Bolivia,11,orange,Goal11,Right,68.766,77.0875942
+BOL,Bolivia,12,yellow,Goal12,,85.47533333,76.72728261
+BOL,Bolivia,13,yellow,Goal13,Up,92.646,85.37328261
+BOL,Bolivia,14,grey,Goal14,,,62.78111429
+BOL,Bolivia,15,red,Goal15,Right,67.1228,60.90421739
+BOL,Bolivia,16,red,Goal16,Right,53.3699,60.88893442
+BOL,Bolivia,17,orange,Goal17,Up,64.80933333,64.2951558
+BRA,Brazil,1,yellow,Goal1,Right,86.9855,78.88736364
+BRA,Brazil,2,orange,Goal2,Right,69.89925,57.59063199
+BRA,Brazil,3,red,Goal3,Up Right,77.83657143,74.52407979
+BRA,Brazil,4,yellow,Goal4,Up,87.65766667,84.88684783
+BRA,Brazil,5,orange,Goal5,Up Right,70.29175,69.22095652
+BRA,Brazil,6,yellow,Goal6,Up,86.2456,73.03634783
+BRA,Brazil,7,green,Goal7,Up,94.76566667,84.79700725
+BRA,Brazil,8,red,Goal8,Right,65.27933333,68.38165797
+BRA,Brazil,9,orange,Goal9,Right,59.66133333,31.41842826
+BRA,Brazil,10,red,Goal10,,12.404,27.90167647
+BRA,Brazil,11,orange,Goal11,Up Right,75.9355,77.0875942
+BRA,Brazil,12,red,Goal12,,77.41133333,76.72728261
+BRA,Brazil,13,yellow,Goal13,Up,93.872,85.37328261
+BRA,Brazil,14,red,Goal14,Right,57.69283333,62.78111429
+BRA,Brazil,15,red,Goal15,Right,59.5172,60.90421739
+BRA,Brazil,16,red,Goal16,Right,61.4839,60.88893442
+BRA,Brazil,17,yellow,Goal17,Up,75.8255,64.2951558
+BRB,Barbados,1,yellow,Goal1,Right,91.8915,78.88736364
+BRB,Barbados,2,orange,Goal2,Up Right,48.91,57.59063199
+BRB,Barbados,3,yellow,Goal3,Up Right,85.39338462,74.52407979
+BRB,Barbados,4,green,Goal4,Up,99.16866667,84.88684783
+BRB,Barbados,5,orange,Goal5,Up Right,72.10225,69.22095652
+BRB,Barbados,6,red,Goal6,Up,59.2906,73.03634783
+BRB,Barbados,7,green,Goal7,Up,99.7145,84.79700725
+BRB,Barbados,8,red,Goal8,Up Right,70.0268,68.38165797
+BRB,Barbados,9,orange,Goal9,Right,33.441,31.41842826
+BRB,Barbados,10,grey,Goal10,,,27.90167647
+BRB,Barbados,11,grey,Goal11,,80.995,77.0875942
+BRB,Barbados,12,red,Goal12,,45.38216667,76.72728261
+BRB,Barbados,13,red,Goal13,Right,70.537,85.37328261
+BRB,Barbados,14,red,Goal14,Right,61.08633333,62.78111429
+BRB,Barbados,15,orange,Goal15,Down,65.65225,60.90421739
+BRB,Barbados,16,red,Goal16,Up Right,77.789,60.88893442
+BRB,Barbados,17,grey,Goal17,,74.35,64.2951558
+BRN,Brunei Darussalam,1,grey,Goal1,,,83.55094444
+BRN,Brunei Darussalam,2,red,Goal2,Right,54.70875,59.57284944
+BRN,Brunei Darussalam,3,orange,Goal3,Up Right,86.95708333,68.4056886
+BRN,Brunei Darussalam,4,green,Goal4,Up,99.40966667,88.83601754
+BRN,Brunei Darussalam,5,orange,Goal5,Up Right,61.74133333,59.05722807
+BRN,Brunei Darussalam,6,orange,Goal6,Up,76.4606,67.25623158
+BRN,Brunei Darussalam,7,yellow,Goal7,Up Right,90,73.47686842
+BRN,Brunei Darussalam,8,orange,Goal8,Right,69.29375,69.19497018
+BRN,Brunei Darussalam,9,orange,Goal9,Up,64.62016667,42.18964211
+BRN,Brunei Darussalam,10,grey,Goal10,,,54.78688235
+BRN,Brunei Darussalam,11,grey,Goal11,,100,71.62332895
+BRN,Brunei Darussalam,12,red,Goal12,,51.20133333,80.23155263
+BRN,Brunei Darussalam,13,red,Goal13,Right,14.09533333,83.69120175
+BRN,Brunei Darussalam,14,red,Goal14,Right,51.8002,60.66508444
+BRN,Brunei Darussalam,15,red,Goal15,Right,67.752,54.83643246
+BRN,Brunei Darussalam,16,orange,Goal16,Up Right,61.89033333,66.075341
+BRN,Brunei Darussalam,17,grey,Goal17,,72.4035,53.23046053
+BTN,Bhutan,1,yellow,Goal1,Up Right,90.262,83.55094444
+BTN,Bhutan,2,red,Goal2,Up Right,54.5438,59.57284944
+BTN,Bhutan,3,red,Goal3,Up Right,66.32184615,68.4056886
+BTN,Bhutan,4,yellow,Goal4,Up,87.09466667,88.83601754
+BTN,Bhutan,5,red,Goal5,Up Right,57.6885,59.05722807
+BTN,Bhutan,6,red,Goal6,Up Right,71.011,67.25623158
+BTN,Bhutan,7,yellow,Goal7,Up Right,75.7655,73.47686842
+BTN,Bhutan,8,orange,Goal8,Up,69.65875,69.19497018
+BTN,Bhutan,9,red,Goal9,Up Right,33.3342,42.18964211
+BTN,Bhutan,10,red,Goal10,,58.1365,54.78688235
+BTN,Bhutan,11,yellow,Goal11,Up Right,84.56833333,71.62332895
+BTN,Bhutan,12,orange,Goal12,,82.39216667,80.23155263
+BTN,Bhutan,13,yellow,Goal13,Right,88.72,83.69120175
+BTN,Bhutan,14,grey,Goal14,,,60.66508444
+BTN,Bhutan,15,red,Goal15,Down,65.4092,54.83643246
+BTN,Bhutan,16,yellow,Goal16,Up,84.51085714,66.075341
+BTN,Bhutan,17,orange,Goal17,Up Right,59.6045,53.23046053
+BWA,Botswana,1,red,Goal1,Down,54.784,30.34416279
+BWA,Botswana,2,red,Goal2,Right,41.411375,51.97774729
+BWA,Botswana,3,red,Goal3,Right,53.73014286,44.14016211
+BWA,Botswana,4,yellow,Goal4,,89.67133333,53.62485676
+BWA,Botswana,5,orange,Goal5,Up Right,70.16675,53.01121023
+BWA,Botswana,6,orange,Goal6,Up,70.5678,52.57983636
+BWA,Botswana,7,red,Goal7,Up Right,59.543,37.27658333
+BWA,Botswana,8,red,Goal8,Right,59.6105,59.98118523
+BWA,Botswana,9,red,Goal9,Up Right,42.63683333,18.23981667
+BWA,Botswana,10,red,Goal10,,2.4055,37.33420455
+BWA,Botswana,11,orange,Goal11,Right,80.962,52.72891477
+BWA,Botswana,12,red,Goal12,,71.8985,88.02470152
+BWA,Botswana,13,orange,Goal13,Right,80.12433333,96.26652652
+BWA,Botswana,14,grey,Goal14,,,68.01049167
+BWA,Botswana,15,red,Goal15,Right,74.1894,66.83500341
+BWA,Botswana,16,red,Goal16,Up Right,65.389,56.05098259
+BWA,Botswana,17,yellow,Goal17,Up Right,67.5965,51.65295455
+CAF,Central African Republic,1,red,Goal1,Right,0,30.34416279
+CAF,Central African Republic,2,red,Goal2,Right,43.6455,51.97774729
+CAF,Central African Republic,3,red,Goal3,Right,16.02607143,44.14016211
+CAF,Central African Republic,4,red,Goal4,,9.207,53.62485676
+CAF,Central African Republic,5,red,Goal5,Right,30.88825,53.01121023
+CAF,Central African Republic,6,red,Goal6,Right,45.5114,52.57983636
+CAF,Central African Republic,7,red,Goal7,Right,12.8275,37.27658333
+CAF,Central African Republic,8,red,Goal8,Up,47.698,59.98118523
+CAF,Central African Republic,9,red,Goal9,Down,3.526,18.23981667
+CAF,Central African Republic,10,red,Goal10,,9.641,37.33420455
+CAF,Central African Republic,11,red,Goal11,Down,19.243,52.72891477
+CAF,Central African Republic,12,red,Goal12,,72.73766667,88.02470152
+CAF,Central African Republic,13,green,Goal13,Up,99.673,96.26652652
+CAF,Central African Republic,14,grey,Goal14,,,68.01049167
+CAF,Central African Republic,15,yellow,Goal15,Up Right,89.9138,66.83500341
+CAF,Central African Republic,16,red,Goal16,Down,44.737,56.05098259
+CAF,Central African Republic,17,red,Goal17,Right,37.32433333,51.65295455
+CAN,Canada,1,yellow,Goal1,Up,99.5335,98.69063514
+CAN,Canada,2,orange,Goal2,Up Right,67.3625,66.75572056
+CAN,Canada,3,orange,Goal3,Up,93.95292308,90.90151376
+CAN,Canada,4,green,Goal4,Up,99.58704167,98.30024837
+CAN,Canada,5,orange,Goal5,Up Right,82.39025,77.46045721
+CAN,Canada,6,yellow,Goal6,Up Right,85.8998,85.63096757
+CAN,Canada,7,yellow,Goal7,Up Right,94.89266667,92.46802703
+CAN,Canada,8,yellow,Goal8,Up,81.46166667,80.68087297
+CAN,Canada,9,yellow,Goal9,Up,85.55133333,81.25941441
+CAN,Canada,10,yellow,Goal10,Up Right,83.174,74.4752027
+CAN,Canada,11,yellow,Goal11,Up,92.73725,88.91136712
+CAN,Canada,12,red,Goal12,,51.02583333,58.05527928
+CAN,Canada,13,red,Goal13,Right,47.559,64.11272072
+CAN,Canada,14,orange,Goal14,Up Right,63.661,63.36054624
+CAN,Canada,15,red,Goal15,Right,59.8556,74.10277568
+CAN,Canada,16,yellow,Goal16,Up Right,84.445,82.31681502
+CAN,Canada,17,red,Goal17,Up Right,72.5525,65.77382432
+CHE,Switzerland,1,green,Goal1,Up,99.838,98.69063514
+CHE,Switzerland,2,orange,Goal2,Up Right,70.49525,66.75572056
+CHE,Switzerland,3,yellow,Goal3,Up,96.54771429,90.90151376
+CHE,Switzerland,4,yellow,Goal4,Up Right,99.61470833,98.30024837
+CHE,Switzerland,5,yellow,Goal5,Up Right,84.887,77.46045721
+CHE,Switzerland,6,yellow,Goal6,Up Right,89.8016,85.63096757
+CHE,Switzerland,7,green,Goal7,Up,96.98866667,92.46802703
+CHE,Switzerland,8,orange,Goal8,Up Right,80.9478,80.68087297
+CHE,Switzerland,9,orange,Goal9,Up Right,97.359,81.25941441
+CHE,Switzerland,10,orange,Goal10,Right,84.209,74.4752027
+CHE,Switzerland,11,yellow,Goal11,Up Right,99.05825,88.91136712
+CHE,Switzerland,12,red,Goal12,,39.4245,58.05527928
+CHE,Switzerland,13,red,Goal13,Right,59.35666667,64.11272072
+CHE,Switzerland,14,grey,Goal14,,,63.36054624
+CHE,Switzerland,15,red,Goal15,Right,66.1382,74.10277568
+CHE,Switzerland,16,orange,Goal16,Up Right,82.345,82.31681502
+CHE,Switzerland,17,red,Goal17,Right,51.24375,65.77382432
+CHL,Chile,1,yellow,Goal1,Up Right,99.7395,98.69063514
+CHL,Chile,2,red,Goal2,Up Right,71.91475,66.75572056
+CHL,Chile,3,orange,Goal3,Up Right,85.24964286,90.90151376
+CHL,Chile,4,orange,Goal4,Up Right,97.57833333,98.30024837
+CHL,Chile,5,orange,Goal5,Up,71.17875,77.46045721
+CHL,Chile,6,yellow,Goal6,Up,93.3062,85.63096757
+CHL,Chile,7,yellow,Goal7,Up Right,90.58866667,92.46802703
+CHL,Chile,8,orange,Goal8,Up Right,77.2735,80.68087297
+CHL,Chile,9,red,Goal9,Up Right,62.483,81.25941441
+CHL,Chile,10,red,Goal10,Down,16.1575,74.4752027
+CHL,Chile,11,orange,Goal11,Up Right,86.2935,88.91136712
+CHL,Chile,12,orange,Goal12,,78.16583333,58.05527928
+CHL,Chile,13,red,Goal13,Right,85.50233333,64.11272072
+CHL,Chile,14,orange,Goal14,Up Right,78.18583333,63.36054624
+CHL,Chile,15,red,Goal15,Down,59.0926,74.10277568
+CHL,Chile,16,red,Goal16,Up Right,77.3174,82.31681502
+CHL,Chile,17,orange,Goal17,Up,81.23,65.77382432
+CHN,China,1,green,Goal1,Up,98.5565,83.55094444
+CHN,China,2,orange,Goal2,Up Right,81.1,59.57284944
+CHN,China,3,orange,Goal3,Up Right,81.68676923,68.4056886
+CHN,China,4,green,Goal4,,97.52466667,88.83601754
+CHN,China,5,orange,Goal5,Up Right,76.20425,59.05722807
+CHN,China,6,orange,Goal6,Up,68.6428,67.25623158
+CHN,China,7,orange,Goal7,Up Right,78.194,73.47686842
+CHN,China,8,orange,Goal8,Up Right,71.63366667,69.19497018
+CHN,China,9,orange,Goal9,Up Right,72.95366667,42.18964211
+CHN,China,10,red,Goal10,,30.659,54.78688235
+CHN,China,11,orange,Goal11,Up Right,77.9825,71.62332895
+CHN,China,12,yellow,Goal12,,87.09583333,80.23155263
+CHN,China,13,yellow,Goal13,Up Right,87.07733333,83.69120175
+CHN,China,14,red,Goal14,Right,54.1015,60.66508444
+CHN,China,15,red,Goal15,Down,49.6198,54.83643246
+CHN,China,16,orange,Goal16,Up Right,69.94328571,66.075341
+CHN,China,17,orange,Goal17,Right,42.07225,53.23046053
+CIV,Cote d'Ivoire,1,red,Goal1,Up Right,43.7735,30.34416279
+CIV,Cote d'Ivoire,2,red,Goal2,Right,61.657625,51.97774729
+CIV,Cote d'Ivoire,3,red,Goal3,Up Right,39.35314286,44.14016211
+CIV,Cote d'Ivoire,4,red,Goal4,Up,51.82933333,53.62485676
+CIV,Cote d'Ivoire,5,red,Goal5,Up Right,39.16025,53.01121023
+CIV,Cote d'Ivoire,6,red,Goal6,Right,55.9624,52.57983636
+CIV,Cote d'Ivoire,7,red,Goal7,Up Right,54.25733333,37.27658333
+CIV,Cote d'Ivoire,8,red,Goal8,Up Right,68.6355,59.98118523
+CIV,Cote d'Ivoire,9,red,Goal9,Up Right,27.11016667,18.23981667
+CIV,Cote d'Ivoire,10,red,Goal10,,37.946,37.33420455
+CIV,Cote d'Ivoire,11,red,Goal11,Right,52.4525,52.72891477
+CIV,Cote d'Ivoire,12,green,Goal12,,94.497,88.02470152
+CIV,Cote d'Ivoire,13,green,Goal13,Up,98.71366667,96.26652652
+CIV,Cote d'Ivoire,14,orange,Goal14,Right,79.46783333,68.01049167
+CIV,Cote d'Ivoire,15,orange,Goal15,Right,71.3156,66.83500341
+CIV,Cote d'Ivoire,16,red,Goal16,Right,57.896,56.05098259
+CIV,Cote d'Ivoire,17,red,Goal17,Right,44.53425,51.65295455
+CMR,Cameroon,1,red,Goal1,Right,42.3005,30.34416279
+CMR,Cameroon,2,red,Goal2,Right,64.80575,51.97774729
+CMR,Cameroon,3,red,Goal3,Right,40.43064286,44.14016211
+CMR,Cameroon,4,orange,Goal4,Down,63.44166667,53.62485676
+CMR,Cameroon,5,red,Goal5,Up Right,53.5235,53.01121023
+CMR,Cameroon,6,red,Goal6,Right,53.211,52.57983636
+CMR,Cameroon,7,red,Goal7,Up Right,55.90433333,37.27658333
+CMR,Cameroon,8,red,Goal8,Up Right,60.96166667,59.98118523
+CMR,Cameroon,9,red,Goal9,Up Right,16.3982,18.23981667
+CMR,Cameroon,10,red,Goal10,,21.614,37.33420455
+CMR,Cameroon,11,red,Goal11,Right,41.1735,52.72891477
+CMR,Cameroon,12,green,Goal12,,94.84316667,88.02470152
+CMR,Cameroon,13,green,Goal13,Up,99.022,96.26652652
+CMR,Cameroon,14,orange,Goal14,Right,73.856,68.01049167
+CMR,Cameroon,15,red,Goal15,Right,64.272,66.83500341
+CMR,Cameroon,16,red,Goal16,Right,48.9125,56.05098259
+CMR,Cameroon,17,red,Goal17,Right,44.77225,51.65295455
+COD,"Congo, Dem. Rep.",1,red,Goal1,Down,0,30.34416279
+COD,"Congo, Dem. Rep.",2,red,Goal2,Right,47.618,51.97774729
+COD,"Congo, Dem. Rep.",3,red,Goal3,Right,37.68771429,44.14016211
+COD,"Congo, Dem. Rep.",4,red,Goal4,,59.86798374,53.62485676
+COD,"Congo, Dem. Rep.",5,red,Goal5,Up Right,42.2625,53.01121023
+COD,"Congo, Dem. Rep.",6,red,Goal6,Right,43.4154,52.57983636
+COD,"Congo, Dem. Rep.",7,red,Goal7,Right,36.49566667,37.27658333
+COD,"Congo, Dem. Rep.",8,red,Goal8,Up Right,54.83783333,59.98118523
+COD,"Congo, Dem. Rep.",9,red,Goal9,Right,9.924333333,18.23981667
+COD,"Congo, Dem. Rep.",10,red,Goal10,,43.0615,37.33420455
+COD,"Congo, Dem. Rep.",11,red,Goal11,Right,40.39625,52.72891477
+COD,"Congo, Dem. Rep.",12,yellow,Goal12,,92.6462,88.02470152
+COD,"Congo, Dem. Rep.",13,green,Goal13,Up,99.665,96.26652652
+COD,"Congo, Dem. Rep.",14,yellow,Goal14,Right,78.776,68.01049167
+COD,"Congo, Dem. Rep.",15,red,Goal15,Right,70.8576,66.83500341
+COD,"Congo, Dem. Rep.",16,red,Goal16,Down,38.9914,56.05098259
+COD,"Congo, Dem. Rep.",17,red,Goal17,Down,41.56366667,51.65295455
+COG,"Congo, Rep.",1,red,Goal1,Down,0,30.34416279
+COG,"Congo, Rep.",2,red,Goal2,Right,46.33542857,51.97774729
+COG,"Congo, Rep.",3,red,Goal3,Right,47.88442857,44.14016211
+COG,"Congo, Rep.",4,red,Goal4,,57.52433333,53.62485676
+COG,"Congo, Rep.",5,red,Goal5,Right,53.2815,53.01121023
+COG,"Congo, Rep.",6,red,Goal6,Up Right,53.1196,52.57983636
+COG,"Congo, Rep.",7,red,Goal7,Up Right,57.864,37.27658333
+COG,"Congo, Rep.",8,red,Goal8,Up Right,54.7344,59.98118523
+COG,"Congo, Rep.",9,red,Goal9,Right,6.7144,18.23981667
+COG,"Congo, Rep.",10,red,Goal10,,15.5185,37.33420455
+COG,"Congo, Rep.",11,red,Goal11,Right,53.88825,52.72891477
+COG,"Congo, Rep.",12,green,Goal12,,93.1956,88.02470152
+COG,"Congo, Rep.",13,green,Goal13,Up,97.42833333,96.26652652
+COG,"Congo, Rep.",14,orange,Goal14,Up Right,75.9752,68.01049167
+COG,"Congo, Rep.",15,orange,Goal15,Up Right,80.2574,66.83500341
+COG,"Congo, Rep.",16,red,Goal16,Down,57.143125,56.05098259
+COG,"Congo, Rep.",17,red,Goal17,Right,49.21325,51.65295455
+COL,Colombia,1,orange,Goal1,Right,83.4345,98.69063514
+COL,Colombia,2,orange,Goal2,Up Right,64.122875,66.75572056
+COL,Colombia,3,red,Goal3,Up Right,79.49271429,90.90151376
+COL,Colombia,4,orange,Goal4,Up Right,93.53366667,98.30024837
+COL,Colombia,5,orange,Goal5,Up Right,70.20425,77.46045721
+COL,Colombia,6,red,Goal6,Up Right,81.1608,85.63096757
+COL,Colombia,7,green,Goal7,Up,91.907,92.46802703
+COL,Colombia,8,red,Goal8,Right,62.102,80.68087297
+COL,Colombia,9,red,Goal9,Up Right,41.20383333,81.25941441
+COL,Colombia,10,red,Goal10,Right,10.9575,74.4752027
+COL,Colombia,11,orange,Goal11,Right,80.7225,88.91136712
+COL,Colombia,12,yellow,Goal12,,85.65916667,58.05527928
+COL,Colombia,13,orange,Goal13,Right,89.118,64.11272072
+COL,Colombia,14,red,Goal14,Up Right,74.0935,63.36054624
+COL,Colombia,15,red,Goal15,Right,60.337,74.10277568
+COL,Colombia,16,red,Goal16,Up Right,61.8241,82.31681502
+COL,Colombia,17,orange,Goal17,Up Right,69.60075,65.77382432
+COM,Comoros,1,red,Goal1,Down,,
+COM,Comoros,2,red,Goal2,Right,,
+COM,Comoros,3,red,Goal3,Right,,
+COM,Comoros,4,red,Goal4,Down,,
+COM,Comoros,5,red,Goal5,Up Right,,
+COM,Comoros,6,red,Goal6,Right,,
+COM,Comoros,7,orange,Goal7,Up Right,,
+COM,Comoros,8,red,Goal8,Down,,
+COM,Comoros,9,red,Goal9,Right,,
+COM,Comoros,10,red,Goal10,,,
+COM,Comoros,11,orange,Goal11,Right,,
+COM,Comoros,12,grey,Goal12,,,
+COM,Comoros,13,green,Goal13,Up,,
+COM,Comoros,14,red,Goal14,Right,,
+COM,Comoros,15,red,Goal15,Down,,
+COM,Comoros,16,red,Goal16,Right,,
+COM,Comoros,17,grey,Goal17,,,
+CPV,Cabo Verde,1,orange,Goal1,Up Right,83.2205,30.34416279
+CPV,Cabo Verde,2,red,Goal2,Right,37.3956,51.97774729
+CPV,Cabo Verde,3,red,Goal3,Up Right,73.89861538,44.14016211
+CPV,Cabo Verde,4,orange,Goal4,Down,81.28366667,53.62485676
+CPV,Cabo Verde,5,orange,Goal5,Up Right,68.5915,53.01121023
+CPV,Cabo Verde,6,orange,Goal6,Up Right,73.095,52.57983636
+CPV,Cabo Verde,7,yellow,Goal7,Up Right,81.7015,37.27658333
+CPV,Cabo Verde,8,orange,Goal8,Right,73.4,59.98118523
+CPV,Cabo Verde,9,red,Goal9,Up Right,27.3484,18.23981667
+CPV,Cabo Verde,10,red,Goal10,,30.663,37.33420455
+CPV,Cabo Verde,11,orange,Goal11,Up Right,79.052,52.72891477
+CPV,Cabo Verde,12,orange,Goal12,,79.272,88.02470152
+CPV,Cabo Verde,13,green,Goal13,Up,94.35966667,96.26652652
+CPV,Cabo Verde,14,red,Goal14,Right,61.1945,68.01049167
+CPV,Cabo Verde,15,orange,Goal15,Up Right,71.0945,66.83500341
+CPV,Cabo Verde,16,orange,Goal16,Up,78.32614286,56.05098259
+CPV,Cabo Verde,17,orange,Goal17,Right,64.56325,51.65295455
+CRI,Costa Rica,1,yellow,Goal1,Up Right,95.126,78.88736364
+CRI,Costa Rica,2,red,Goal2,Up Right,52.184125,57.59063199
+CRI,Costa Rica,3,orange,Goal3,Up Right,85.93107143,74.52407979
+CRI,Costa Rica,4,yellow,Goal4,Up,88.98566667,84.88684783
+CRI,Costa Rica,5,yellow,Goal5,Up,81.49775,69.22095652
+CRI,Costa Rica,6,yellow,Goal6,Up,80.4126,73.03634783
+CRI,Costa Rica,7,green,Goal7,Up,93.99233333,84.79700725
+CRI,Costa Rica,8,orange,Goal8,Right,69.97983333,68.38165797
+CRI,Costa Rica,9,orange,Goal9,Up Right,51.61,31.41842826
+CRI,Costa Rica,10,red,Goal10,,17.727,27.90167647
+CRI,Costa Rica,11,yellow,Goal11,Up,93.5275,77.0875942
+CRI,Costa Rica,12,orange,Goal12,,81.07483333,76.72728261
+CRI,Costa Rica,13,yellow,Goal13,Up Right,83.35,85.37328261
+CRI,Costa Rica,14,red,Goal14,Right,58.38533333,62.78111429
+CRI,Costa Rica,15,red,Goal15,Down,61.5934,60.90421739
+CRI,Costa Rica,16,red,Goal16,Up Right,78.287,60.88893442
+CRI,Costa Rica,17,yellow,Goal17,Up Right,76.6875,64.2951558
+CUB,Cuba,1,grey,Goal1,,,78.88736364
+CUB,Cuba,2,orange,Goal2,Up Right,58.45928571,57.59063199
+CUB,Cuba,3,orange,Goal3,Up Right,84.87314286,74.52407979
+CUB,Cuba,4,yellow,Goal4,Up Right,95.024,84.88684783
+CUB,Cuba,5,yellow,Goal5,Right,81.69575,69.22095652
+CUB,Cuba,6,orange,Goal6,Up Right,74.5022,73.03634783
+CUB,Cuba,7,yellow,Goal7,Up,85.98966667,84.79700725
+CUB,Cuba,8,green,Goal8,Up,88.985,68.38165797
+CUB,Cuba,9,red,Goal9,Up Right,25.35233333,31.41842826
+CUB,Cuba,10,grey,Goal10,,,27.90167647
+CUB,Cuba,11,orange,Goal11,Up Right,65.671,77.0875942
+CUB,Cuba,12,yellow,Goal12,,88.222,76.72728261
+CUB,Cuba,13,yellow,Goal13,Up,89.533,85.37328261
+CUB,Cuba,14,red,Goal14,Right,73.87483333,62.78111429
+CUB,Cuba,15,red,Goal15,Right,68.637,60.90421739
+CUB,Cuba,16,red,Goal16,Right,64.5155,60.88893442
+CUB,Cuba,17,grey,Goal17,,100,64.2951558
+CYP,Cyprus,1,green,Goal1,Up,99.931,91.94543182
+CYP,Cyprus,2,orange,Goal2,Right,59.19225,61.73419591
+CYP,Cyprus,3,yellow,Goal3,Up Right,90.83415385,77.28263593
+CYP,Cyprus,4,green,Goal4,Up,97.778,91.68278123
+CYP,Cyprus,5,yellow,Goal5,Up Right,71.39133333,60.84888406
+CYP,Cyprus,6,yellow,Goal6,Up Right,77.3802,71.82457391
+CYP,Cyprus,7,yellow,Goal7,Up Right,92.548,87.6735
+CYP,Cyprus,8,yellow,Goal8,Up,80.1436,69.7746442
+CYP,Cyprus,9,orange,Goal9,Up Right,70.295,40.05858986
+CYP,Cyprus,10,orange,Goal10,,81.6345,72.3627619
+CYP,Cyprus,11,orange,Goal11,Up Right,74.7,76.44322826
+CYP,Cyprus,12,red,Goal12,,56.26283333,77.62934493
+CYP,Cyprus,13,red,Goal13,Right,63.67033333,83.04191304
+CYP,Cyprus,14,red,Goal14,Up Right,54.41066667,58.86582121
+CYP,Cyprus,15,orange,Goal15,Up Right,76.9152,69.49956449
+CYP,Cyprus,16,yellow,Goal16,Up Right,80.54375,72.40393841
+CYP,Cyprus,17,red,Goal17,Right,45.0815,63.38646014
+CZE,Czech Republic,1,green,Goal1,Up,99.795,98.69063514
+CZE,Czech Republic,2,red,Goal2,Up Right,61.56375,66.75572056
+CZE,Czech Republic,3,orange,Goal3,Up Right,89.77792308,90.90151376
+CZE,Czech Republic,4,orange,Goal4,Up Right,98.95133333,98.30024837
+CZE,Czech Republic,5,orange,Goal5,Up Right,72.9235,77.46045721
+CZE,Czech Republic,6,green,Goal6,Up,85.5684,85.63096757
+CZE,Czech Republic,7,orange,Goal7,Up Right,92.36266667,92.46802703
+CZE,Czech Republic,8,green,Goal8,Up,85.14666667,80.68087297
+CZE,Czech Republic,9,orange,Goal9,Up Right,80.3035,81.25941441
+CZE,Czech Republic,10,yellow,Goal10,Up Right,96.4885,74.4752027
+CZE,Czech Republic,11,yellow,Goal11,Up,92.488,88.91136712
+CZE,Czech Republic,12,orange,Goal12,,69.42383333,58.05527928
+CZE,Czech Republic,13,red,Goal13,Right,65.98033333,64.11272072
+CZE,Czech Republic,14,grey,Goal14,,,63.36054624
+CZE,Czech Republic,15,yellow,Goal15,Up,92.6156,74.10277568
+CZE,Czech Republic,16,orange,Goal16,Up Right,81.9,82.31681502
+CZE,Czech Republic,17,red,Goal17,Up Right,54.945,65.77382432
+DEU,Germany,1,yellow,Goal1,Up Right,99.5335,98.69063514
+DEU,Germany,2,orange,Goal2,Up Right,72.444625,66.75572056
+DEU,Germany,3,yellow,Goal3,Up Right,93.76761538,90.90151376
+DEU,Germany,4,orange,Goal4,Up Right,98.78804167,98.30024837
+DEU,Germany,5,orange,Goal5,Up Right,80.70775,77.46045721
+DEU,Germany,6,orange,Goal6,Up Right,84.7016,85.63096757
+DEU,Germany,7,yellow,Goal7,Up,93.61566667,92.46802703
+DEU,Germany,8,yellow,Goal8,Up,87.359,80.68087297
+DEU,Germany,9,yellow,Goal9,Up,92.96966667,81.25941441
+DEU,Germany,10,yellow,Goal10,Right,86.5165,74.4752027
+DEU,Germany,11,yellow,Goal11,Up Right,91.31425,88.91136712
+DEU,Germany,12,red,Goal12,,54.88866667,58.05527928
+DEU,Germany,13,red,Goal13,Up Right,60.681,64.11272072
+DEU,Germany,14,orange,Goal14,Up Right,62.64983333,63.36054624
+DEU,Germany,15,orange,Goal15,Up Right,79.7392,74.10277568
+DEU,Germany,16,yellow,Goal16,Up,84.6816,82.31681502
+DEU,Germany,17,yellow,Goal17,Up,77.832,65.77382432
+DJI,Djibouti,1,red,Goal1,Up Right,58.799,30.34416279
+DJI,Djibouti,2,red,Goal2,Right,35.43083333,51.97774729
+DJI,Djibouti,3,red,Goal3,Up Right,55.21014286,44.14016211
+DJI,Djibouti,4,red,Goal4,Right,41.41176984,53.62485676
+DJI,Djibouti,5,orange,Goal5,Up Right,51.97866667,53.01121023
+DJI,Djibouti,6,red,Goal6,Up Right,63.4212,52.57983636
+DJI,Djibouti,7,red,Goal7,Right,33.072,37.27658333
+DJI,Djibouti,8,red,Goal8,Right,59.5752,59.98118523
+DJI,Djibouti,9,red,Goal9,Up Right,26.3814,18.23981667
+DJI,Djibouti,10,red,Goal10,,28.0415,37.33420455
+DJI,Djibouti,11,red,Goal11,Right,60.0295,52.72891477
+DJI,Djibouti,12,orange,Goal12,,89.07966667,88.02470152
+DJI,Djibouti,13,green,Goal13,Up,97.86866667,96.26652652
+DJI,Djibouti,14,red,Goal14,Right,66.4734,68.01049167
+DJI,Djibouti,15,red,Goal15,Down,38.0625,66.83500341
+DJI,Djibouti,16,red,Goal16,Right,60.04628571,56.05098259
+DJI,Djibouti,17,red,Goal17,Right,49.114,51.65295455
+DMA,Dominica,1,grey,Goal1,,,
+DMA,Dominica,2,red,Goal2,Right,,
+DMA,Dominica,3,grey,Goal3,,,
+DMA,Dominica,4,yellow,Goal4,Down,,
+DMA,Dominica,5,grey,Goal5,,,
+DMA,Dominica,6,orange,Goal6,,,
+DMA,Dominica,7,green,Goal7,Up,,
+DMA,Dominica,8,grey,Goal8,,,
+DMA,Dominica,9,orange,Goal9,Up Right,,
+DMA,Dominica,10,grey,Goal10,,,
+DMA,Dominica,11,grey,Goal11,,,
+DMA,Dominica,12,grey,Goal12,,,
+DMA,Dominica,13,yellow,Goal13,Up,,
+DMA,Dominica,14,red,Goal14,Up Right,,
+DMA,Dominica,15,red,Goal15,Down,,
+DMA,Dominica,16,orange,Goal16,Right,,
+DMA,Dominica,17,yellow,Goal17,Up,,
+DNK,Denmark,1,green,Goal1,Up,99.679,98.69063514
+DNK,Denmark,2,red,Goal2,Up Right,58.859875,66.75572056
+DNK,Denmark,3,yellow,Goal3,Up Right,94.20269231,90.90151376
+DNK,Denmark,4,yellow,Goal4,Right,99.13070833,98.30024837
+DNK,Denmark,5,yellow,Goal5,Up,86.78775,77.46045721
+DNK,Denmark,6,yellow,Goal6,Up Right,90.278,85.63096757
+DNK,Denmark,7,green,Goal7,Up,94.40666667,92.46802703
+DNK,Denmark,8,yellow,Goal8,Up Right,88.8555,80.68087297
+DNK,Denmark,9,yellow,Goal9,Up,96.80216667,81.25941441
+DNK,Denmark,10,green,Goal10,Up,97.8355,74.4752027
+DNK,Denmark,11,orange,Goal11,Up Right,91.821,88.91136712
+DNK,Denmark,12,red,Goal12,,43.417,58.05527928
+DNK,Denmark,13,red,Goal13,Up Right,60.64466667,64.11272072
+DNK,Denmark,14,orange,Goal14,Up Right,73.4295,63.36054624
+DNK,Denmark,15,yellow,Goal15,Up,90.6364,74.10277568
+DNK,Denmark,16,yellow,Goal16,Up Right,93.1247,82.31681502
+DNK,Denmark,17,yellow,Goal17,Up,82.71775,65.77382432
+DOM,Dominican Republic,1,yellow,Goal1,Up,97.225,78.88736364
+DOM,Dominican Republic,2,red,Goal2,Up Right,60.186875,57.59063199
+DOM,Dominican Republic,3,red,Goal3,Up Right,66.75064286,74.52407979
+DOM,Dominican Republic,4,yellow,Goal4,Up,89.78533333,84.88684783
+DOM,Dominican Republic,5,yellow,Goal5,Up,72.91725,69.22095652
+DOM,Dominican Republic,6,orange,Goal6,Up Right,67.2944,73.03634783
+DOM,Dominican Republic,7,yellow,Goal7,Up Right,89.69833333,84.79700725
+DOM,Dominican Republic,8,orange,Goal8,Right,71.20616667,68.38165797
+DOM,Dominican Republic,9,orange,Goal9,Up Right,35.163,31.41842826
+DOM,Dominican Republic,10,red,Goal10,,23.753,27.90167647
+DOM,Dominican Republic,11,orange,Goal11,Right,83.34925,77.0875942
+DOM,Dominican Republic,12,yellow,Goal12,,84.4815,76.72728261
+DOM,Dominican Republic,13,yellow,Goal13,Up Right,91.27266667,85.37328261
+DOM,Dominican Republic,14,orange,Goal14,Up Right,84.64266667,62.78111429
+DOM,Dominican Republic,15,orange,Goal15,Right,76.0422,60.90421739
+DOM,Dominican Republic,16,red,Goal16,Right,59.1894,60.88893442
+DOM,Dominican Republic,17,red,Goal17,Right,49.96575,64.2951558
+DZA,Algeria,1,yellow,Goal1,Up Right,96.939,92.3215
+DZA,Algeria,2,red,Goal2,Up Right,56.56557143,59.18466592
+DZA,Algeria,3,red,Goal3,Up Right,75.57857143,75.86853159
+DZA,Algeria,4,yellow,Goal4,Up,91.211,84.10655278
+DZA,Algeria,5,orange,Goal5,Right,53.71425,44.58975
+DZA,Algeria,6,orange,Goal6,Up Right,61.034,59.0447
+DZA,Algeria,7,yellow,Goal7,Up Right,86.727,88.10620833
+DZA,Algeria,8,red,Goal8,Right,62.23616667,62.06568854
+DZA,Algeria,9,orange,Goal9,Up Right,45.40583333,47.49391042
+DZA,Algeria,10,yellow,Goal10,,91.491,66.17809091
+DZA,Algeria,11,orange,Goal11,Down,57.69966667,58.92827083
+DZA,Algeria,12,yellow,Goal12,,87.71183333,76.84214583
+DZA,Algeria,13,orange,Goal13,Up Right,90.15066667,71.47551042
+DZA,Algeria,14,red,Goal14,Down,52.33333333,62.77661458
+DZA,Algeria,15,red,Goal15,Right,51.4928,57.3562125
+DZA,Algeria,16,orange,Goal16,Right,70.1977,69.0938314
+DZA,Algeria,17,orange,Goal17,Up Right,74.1015,56.23125521
+ECU,Ecuador,1,orange,Goal1,Down,85.0345,78.88736364
+ECU,Ecuador,2,red,Goal2,Right,59.198125,57.59063199
+ECU,Ecuador,3,red,Goal3,Up Right,77.56378571,74.52407979
+ECU,Ecuador,4,green,Goal4,Up,97.31,84.88684783
+ECU,Ecuador,5,yellow,Goal5,Up Right,77.29775,69.22095652
+ECU,Ecuador,6,orange,Goal6,Up,75.015,73.03634783
+ECU,Ecuador,7,yellow,Goal7,Up,91.32733333,84.79700725
+ECU,Ecuador,8,orange,Goal8,Right,68.97416667,68.38165797
+ECU,Ecuador,9,orange,Goal9,Up Right,35.09666667,31.41842826
+ECU,Ecuador,10,red,Goal10,,23.6135,27.90167647
+ECU,Ecuador,11,yellow,Goal11,Up,84.4435,77.0875942
+ECU,Ecuador,12,yellow,Goal12,,84.42483333,76.72728261
+ECU,Ecuador,13,yellow,Goal13,Up,92.591,85.37328261
+ECU,Ecuador,14,orange,Goal14,Up Right,80.947,62.78111429
+ECU,Ecuador,15,red,Goal15,Right,60.0788,60.90421739
+ECU,Ecuador,16,red,Goal16,Up Right,65.0997,60.88893442
+ECU,Ecuador,17,yellow,Goal17,Up Right,75.15333333,64.2951558
+EGY,"Egypt, Arab Rep.",1,orange,Goal1,Down,74.326,92.3215
+EGY,"Egypt, Arab Rep.",2,red,Goal2,Up Right,64.32775,59.18466592
+EGY,"Egypt, Arab Rep.",3,red,Goal3,Up Right,71.22735714,75.86853159
+EGY,"Egypt, Arab Rep.",4,yellow,Goal4,Up,87.58533333,84.10655278
+EGY,"Egypt, Arab Rep.",5,red,Goal5,Right,45.5805,44.58975
+EGY,"Egypt, Arab Rep.",6,orange,Goal6,Up,66.4884,59.0447
+EGY,"Egypt, Arab Rep.",7,yellow,Goal7,Up Right,92.343,88.10620833
+EGY,"Egypt, Arab Rep.",8,red,Goal8,Up Right,56.81666667,62.06568854
+EGY,"Egypt, Arab Rep.",9,orange,Goal9,Right,47.02833333,47.49391042
+EGY,"Egypt, Arab Rep.",10,orange,Goal10,,58.437,66.17809091
+EGY,"Egypt, Arab Rep.",11,orange,Goal11,Up Right,66.0345,58.92827083
+EGY,"Egypt, Arab Rep.",12,yellow,Goal12,,87.68683333,76.84214583
+EGY,"Egypt, Arab Rep.",13,yellow,Goal13,Up Right,94.562,71.47551042
+EGY,"Egypt, Arab Rep.",14,red,Goal14,Right,50.785,62.77661458
+EGY,"Egypt, Arab Rep.",15,red,Goal15,Right,68.7944,57.3562125
+EGY,"Egypt, Arab Rep.",16,red,Goal16,Up Right,75.8265,69.0938314
+EGY,"Egypt, Arab Rep.",17,orange,Goal17,Down,59.15125,56.23125521
+ERI,Eritrea,1,grey,Goal1,,,
+ERI,Eritrea,2,red,Goal2,Right,,
+ERI,Eritrea,3,red,Goal3,Up Right,,
+ERI,Eritrea,4,red,Goal4,Down,,
+ERI,Eritrea,5,orange,Goal5,Right,,
+ERI,Eritrea,6,red,Goal6,Right,,
+ERI,Eritrea,7,red,Goal7,Up Right,,
+ERI,Eritrea,8,orange,Goal8,Up Right,,
+ERI,Eritrea,9,red,Goal9,Right,,
+ERI,Eritrea,10,grey,Goal10,,,
+ERI,Eritrea,11,red,Goal11,Down,,
+ERI,Eritrea,12,yellow,Goal12,,,
+ERI,Eritrea,13,green,Goal13,Up,,
+ERI,Eritrea,14,red,Goal14,Right,,
+ERI,Eritrea,15,red,Goal15,Down,,
+ERI,Eritrea,16,grey,Goal16,,,
+ERI,Eritrea,17,grey,Goal17,,,
+ESP,Spain,1,yellow,Goal1,Up,98.6075,98.69063514
+ESP,Spain,2,red,Goal2,Up Right,63.8845,66.75572056
+ESP,Spain,3,yellow,Goal3,Up,94.12761538,90.90151376
+ESP,Spain,4,yellow,Goal4,Right,96.55,98.30024837
+ESP,Spain,5,yellow,Goal5,Up,85.81375,77.46045721
+ESP,Spain,6,yellow,Goal6,Up,86.5834,85.63096757
+ESP,Spain,7,yellow,Goal7,Up Right,95.00566667,92.46802703
+ESP,Spain,8,orange,Goal8,Up,76.2145,80.68087297
+ESP,Spain,9,orange,Goal9,Up Right,86.87916667,81.25941441
+ESP,Spain,10,orange,Goal10,Right,73.184,74.4752027
+ESP,Spain,11,yellow,Goal11,Up Right,91.47875,88.91136712
+ESP,Spain,12,orange,Goal12,,63.05483333,58.05527928
+ESP,Spain,13,red,Goal13,Right,76.975,64.11272072
+ESP,Spain,14,orange,Goal14,Right,52.15533333,63.36054624
+ESP,Spain,15,red,Goal15,Down,66.5242,74.10277568
+ESP,Spain,16,yellow,Goal16,Up,82.9804,82.31681502
+ESP,Spain,17,orange,Goal17,Up Right,60.829,65.77382432
+EST,Estonia,1,yellow,Goal1,Up Right,99.921,98.69063514
+EST,Estonia,2,red,Goal2,Up Right,63.813,66.75572056
+EST,Estonia,3,orange,Goal3,Up Right,88.14438462,90.90151376
+EST,Estonia,4,yellow,Goal4,Up Right,97.28066667,98.30024837
+EST,Estonia,5,orange,Goal5,Up,77.237,77.46045721
+EST,Estonia,6,yellow,Goal6,Up Right,88.3378,85.63096757
+EST,Estonia,7,yellow,Goal7,Up Right,88.57033333,92.46802703
+EST,Estonia,8,yellow,Goal8,Up Right,84.19866667,80.68087297
+EST,Estonia,9,orange,Goal9,Up Right,75.77733333,81.25941441
+EST,Estonia,10,orange,Goal10,Up Right,83.678,74.4752027
+EST,Estonia,11,yellow,Goal11,Up Right,92.74625,88.91136712
+EST,Estonia,12,red,Goal12,,60.32566667,58.05527928
+EST,Estonia,13,red,Goal13,Right,61.98633333,64.11272072
+EST,Estonia,14,orange,Goal14,Up Right,85.2165,63.36054624
+EST,Estonia,15,green,Goal15,Up,96.2558,74.10277568
+EST,Estonia,16,yellow,Goal16,Up,90.838,82.31681502
+EST,Estonia,17,orange,Goal17,Right,52.46275,65.77382432
+ETH,Ethiopia,1,red,Goal1,Up,33.9255,30.34416279
+ETH,Ethiopia,2,red,Goal2,Right,61.537625,51.97774729
+ETH,Ethiopia,3,red,Goal3,Up Right,44.528,44.14016211
+ETH,Ethiopia,4,red,Goal4,,44.38133333,53.62485676
+ETH,Ethiopia,5,orange,Goal5,Right,53.71425,53.01121023
+ETH,Ethiopia,6,red,Goal6,Right,35.7508,52.57983636
+ETH,Ethiopia,7,red,Goal7,Up Right,41.51833333,37.27658333
+ETH,Ethiopia,8,red,Goal8,Up Right,61.5965,59.98118523
+ETH,Ethiopia,9,red,Goal9,Right,10.31883333,18.23981667
+ETH,Ethiopia,10,orange,Goal10,,71.6915,37.33420455
+ETH,Ethiopia,11,red,Goal11,Right,55.52275,52.72891477
+ETH,Ethiopia,12,green,Goal12,,96.15883333,88.02470152
+ETH,Ethiopia,13,green,Goal13,Up,99.46666667,96.26652652
+ETH,Ethiopia,14,grey,Goal14,,,68.01049167
+ETH,Ethiopia,15,red,Goal15,Right,57.9528,66.83500341
+ETH,Ethiopia,16,red,Goal16,Right,47.0699,56.05098259
+ETH,Ethiopia,17,orange,Goal17,Right,43.713,51.65295455
+FIN,Finland,1,green,Goal1,Up,99.848,98.69063514
+FIN,Finland,2,orange,Goal2,Up Right,64.164625,66.75572056
+FIN,Finland,3,yellow,Goal3,Up Right,94.76961538,90.90151376
+FIN,Finland,4,green,Goal4,Up,98.16070833,98.30024837
+FIN,Finland,5,yellow,Goal5,Up Right,91.371,77.46045721
+FIN,Finland,6,green,Goal6,Up,94.4406,85.63096757
+FIN,Finland,7,green,Goal7,Up,96.486,92.46802703
+FIN,Finland,8,yellow,Goal8,Up,88.27766667,80.68087297
+FIN,Finland,9,yellow,Goal9,Up Right,94.05766667,81.25941441
+FIN,Finland,10,yellow,Goal10,Up Right,96.812,74.4752027
+FIN,Finland,11,yellow,Goal11,Up Right,91.23375,88.91136712
+FIN,Finland,12,red,Goal12,,55.5985,58.05527928
+FIN,Finland,13,red,Goal13,Right,59.983,64.11272072
+FIN,Finland,14,orange,Goal14,Right,84.64983333,63.36054624
+FIN,Finland,15,orange,Goal15,Right,84.62,74.10277568
+FIN,Finland,16,yellow,Goal16,Up Right,94.6018,82.31681502
+FIN,Finland,17,orange,Goal17,Up Right,71.245,65.77382432
+FJI,Fiji,1,yellow,Goal1,Up Right,91.2535,57.553
+FJI,Fiji,2,red,Goal2,Up Right,57.3215,44.31975714
+FJI,Fiji,3,red,Goal3,Right,71.46084615,60.50539316
+FJI,Fiji,4,green,Goal4,Up,98.827,77.23033333
+FJI,Fiji,5,red,Goal5,Right,57.704,47.70455556
+FJI,Fiji,6,orange,Goal6,Up Right,76.7404,56.52025
+FJI,Fiji,7,yellow,Goal7,Up Right,68.9395,45.539
+FJI,Fiji,8,yellow,Goal8,Up,80.677,77.72163889
+FJI,Fiji,9,orange,Goal9,Up Right,39.7014,25.78646667
+FJI,Fiji,10,red,Goal10,,43.619,44.65183333
+FJI,Fiji,11,yellow,Goal11,Up Right,93.207,84.03016667
+FJI,Fiji,12,orange,Goal12,,80.46833333,77.65833333
+FJI,Fiji,13,yellow,Goal13,Right,90.29433333,93.96744444
+FJI,Fiji,14,orange,Goal14,Up Right,72.66766667,68.60755556
+FJI,Fiji,15,red,Goal15,Down,44.1426,53.58511667
+FJI,Fiji,16,grey,Goal16,,85.50225,69.65130556
+FJI,Fiji,17,orange,Goal17,Right,58.627,52.52916667
+FRA,France,1,green,Goal1,Up,99.7455,98.69063514
+FRA,France,2,orange,Goal2,Up Right,73.728625,66.75572056
+FRA,France,3,yellow,Goal3,Up Right,92.50757143,90.90151376
+FRA,France,4,orange,Goal4,Up Right,99.70970833,98.30024837
+FRA,France,5,yellow,Goal5,Up,86.97725,77.46045721
+FRA,France,6,yellow,Goal6,Up Right,86.6784,85.63096757
+FRA,France,7,yellow,Goal7,Up Right,96.966,92.46802703
+FRA,France,8,orange,Goal8,Up Right,82.42566667,80.68087297
+FRA,France,9,yellow,Goal9,Up,87.40916667,81.25941441
+FRA,France,10,yellow,Goal10,Up Right,84.3115,74.4752027
+FRA,France,11,yellow,Goal11,Up Right,89.312,88.91136712
+FRA,France,12,red,Goal12,,57.6655,58.05527928
+FRA,France,13,red,Goal13,Up Right,72.36533333,64.11272072
+FRA,France,14,red,Goal14,Up Right,61.44883333,63.36054624
+FRA,France,15,orange,Goal15,Up Right,70.846,74.10277568
+FRA,France,16,orange,Goal16,Up Right,75.1385,82.31681502
+FRA,France,17,orange,Goal17,Up Right,71.2045,65.77382432
+FSM,"Micronesia, Fed. Sts.",1,grey,Goal1,,,
+FSM,"Micronesia, Fed. Sts.",2,grey,Goal2,,,
+FSM,"Micronesia, Fed. Sts.",3,red,Goal3,Up Right,,
+FSM,"Micronesia, Fed. Sts.",4,orange,Goal4,Up,,
+FSM,"Micronesia, Fed. Sts.",5,grey,Goal5,,,
+FSM,"Micronesia, Fed. Sts.",6,red,Goal6,Up Right,,
+FSM,"Micronesia, Fed. Sts.",7,orange,Goal7,Up Right,,
+FSM,"Micronesia, Fed. Sts.",8,grey,Goal8,,,
+FSM,"Micronesia, Fed. Sts.",9,red,Goal9,Right,,
+FSM,"Micronesia, Fed. Sts.",10,red,Goal10,,,
+FSM,"Micronesia, Fed. Sts.",11,grey,Goal11,,,
+FSM,"Micronesia, Fed. Sts.",12,grey,Goal12,,,
+FSM,"Micronesia, Fed. Sts.",13,green,Goal13,Up,,
+FSM,"Micronesia, Fed. Sts.",14,red,Goal14,Right,,
+FSM,"Micronesia, Fed. Sts.",15,red,Goal15,Down,,
+FSM,"Micronesia, Fed. Sts.",16,grey,Goal16,,,
+FSM,"Micronesia, Fed. Sts.",17,yellow,Goal17,Up Right,,
+GAB,Gabon,1,orange,Goal1,Right,83.2695,30.34416279
+GAB,Gabon,2,red,Goal2,Right,51.98542857,51.97774729
+GAB,Gabon,3,red,Goal3,Right,51.66585714,44.14016211
+GAB,Gabon,4,grey,Goal4,,61.78675358,53.62485676
+GAB,Gabon,5,red,Goal5,Right,47.3055,53.01121023
+GAB,Gabon,6,red,Goal6,Right,62.8128,52.57983636
+GAB,Gabon,7,yellow,Goal7,Up,83.734,37.27658333
+GAB,Gabon,8,red,Goal8,Up Right,61.9438,59.98118523
+GAB,Gabon,9,red,Goal9,Up Right,32.64616667,18.23981667
+GAB,Gabon,10,orange,Goal10,,59.235,37.33420455
+GAB,Gabon,11,red,Goal11,Right,53.434,52.72891477
+GAB,Gabon,12,orange,Goal12,,85.6088,88.02470152
+GAB,Gabon,13,yellow,Goal13,Up,88.7255,96.26652652
+GAB,Gabon,14,orange,Goal14,Right,66.5805,68.01049167
+GAB,Gabon,15,orange,Goal15,Up Right,83.063,66.83500341
+GAB,Gabon,16,red,Goal16,Down,53.07844444,56.05098259
+GAB,Gabon,17,red,Goal17,Right,40.9825,51.65295455
+GBR,United Kingdom,1,yellow,Goal1,Up Right,99.726,98.69063514
+GBR,United Kingdom,2,red,Goal2,Right,67.30825,66.75572056
+GBR,United Kingdom,3,yellow,Goal3,Up Right,92.783,90.90151376
+GBR,United Kingdom,4,yellow,Goal4,Up Right,98.376375,98.30024837
+GBR,United Kingdom,5,yellow,Goal5,Up Right,82.97625,77.46045721
+GBR,United Kingdom,6,yellow,Goal6,Up Right,92.2898,85.63096757
+GBR,United Kingdom,7,yellow,Goal7,Up,93.76266667,92.46802703
+GBR,United Kingdom,8,yellow,Goal8,Up Right,80.48366667,80.68087297
+GBR,United Kingdom,9,green,Goal9,Up,89.824,81.25941441
+GBR,United Kingdom,10,orange,Goal10,Down,66.341,74.4752027
+GBR,United Kingdom,11,yellow,Goal11,Right,93.34275,88.91136712
+GBR,United Kingdom,12,red,Goal12,,53.30166667,58.05527928
+GBR,United Kingdom,13,red,Goal13,Up Right,57.84533333,64.11272072
+GBR,United Kingdom,14,orange,Goal14,Up Right,73.11516667,63.36054624
+GBR,United Kingdom,15,red,Goal15,Up Right,76.7162,74.10277568
+GBR,United Kingdom,16,orange,Goal16,Up Right,83.1296,82.31681502
+GBR,United Kingdom,17,red,Goal17,Up,58.21775,65.77382432
+GEO,Georgia,1,orange,Goal1,Up Right,84.215,91.94543182
+GEO,Georgia,2,orange,Goal2,Right,52.25271429,61.73419591
+GEO,Georgia,3,orange,Goal3,Up Right,73.151,77.28263593
+GEO,Georgia,4,green,Goal4,Up,99.32933333,91.68278123
+GEO,Georgia,5,red,Goal5,Up Right,58.785,60.84888406
+GEO,Georgia,6,yellow,Goal6,Up Right,83.4976,71.82457391
+GEO,Georgia,7,yellow,Goal7,Up,88.28733333,87.6735
+GEO,Georgia,8,orange,Goal8,Up Right,68.74366667,69.7746442
+GEO,Georgia,9,orange,Goal9,Right,39.71616667,40.05858986
+GEO,Georgia,10,red,Goal10,,52.1045,72.3627619
+GEO,Georgia,11,orange,Goal11,Up Right,76.3115,76.44322826
+GEO,Georgia,12,yellow,Goal12,,83.5485,77.62934493
+GEO,Georgia,13,orange,Goal13,Right,86.31366667,83.04191304
+GEO,Georgia,14,red,Goal14,Right,66.3408,58.86582121
+GEO,Georgia,15,red,Goal15,Right,67.7514,69.49956449
+GEO,Georgia,16,yellow,Goal16,Up Right,84.7023,72.40393841
+GEO,Georgia,17,orange,Goal17,Up Right,62.9175,63.38646014
+GHA,Ghana,1,orange,Goal1,Right,65.909,30.34416279
+GHA,Ghana,2,red,Goal2,Right,66.30975,51.97774729
+GHA,Ghana,3,red,Goal3,Up Right,53.51957143,44.14016211
+GHA,Ghana,4,orange,Goal4,Up Right,85.97266667,53.62485676
+GHA,Ghana,5,red,Goal5,Up Right,51.598,53.01121023
+GHA,Ghana,6,red,Goal6,Up Right,55.612,52.57983636
+GHA,Ghana,7,orange,Goal7,Up Right,59.898,37.27658333
+GHA,Ghana,8,orange,Goal8,Up Right,69.607,59.98118523
+GHA,Ghana,9,red,Goal9,Right,37.48616667,18.23981667
+GHA,Ghana,10,red,Goal10,,31.76,37.33420455
+GHA,Ghana,11,red,Goal11,Right,51.457,52.72891477
+GHA,Ghana,12,green,Goal12,,95.13283333,88.02470152
+GHA,Ghana,13,green,Goal13,Up,98.253,96.26652652
+GHA,Ghana,14,red,Goal14,Up Right,46.30033333,68.01049167
+GHA,Ghana,15,orange,Goal15,Right,76.6946,66.83500341
+GHA,Ghana,16,red,Goal16,Right,70.4133,56.05098259
+GHA,Ghana,17,orange,Goal17,Right,46.48025,51.65295455
+GIN,Guinea,1,red,Goal1,Right,30.861,30.34416279
+GIN,Guinea,2,red,Goal2,Right,49.71116667,51.97774729
+GIN,Guinea,3,red,Goal3,Right,31.58285714,44.14016211
+GIN,Guinea,4,red,Goal4,,25.26666667,53.62485676
+GIN,Guinea,5,red,Goal5,Right,39.045,53.01121023
+GIN,Guinea,6,red,Goal6,Right,50.0776,52.57983636
+GIN,Guinea,7,red,Goal7,Right,19.197,37.27658333
+GIN,Guinea,8,orange,Goal8,Up,63.47083333,59.98118523
+GIN,Guinea,9,red,Goal9,Right,6.3995,18.23981667
+GIN,Guinea,10,orange,Goal10,,71.214,37.33420455
+GIN,Guinea,11,red,Goal11,Right,52.195,52.72891477
+GIN,Guinea,12,yellow,Goal12,,94.439,88.02470152
+GIN,Guinea,13,green,Goal13,Up,99.14033333,96.26652652
+GIN,Guinea,14,red,Goal14,Up Right,63.44316667,68.01049167
+GIN,Guinea,15,orange,Goal15,Up Right,70.744,66.83500341
+GIN,Guinea,16,red,Goal16,Right,50.3649,56.05098259
+GIN,Guinea,17,red,Goal17,Right,49.19333333,51.65295455
+GMB,"Gambia, The",1,orange,Goal1,Up Right,64.264,30.34416279
+GMB,"Gambia, The",2,red,Goal2,Right,58.47025,51.97774729
+GMB,"Gambia, The",3,red,Goal3,Right,45.0055,44.14016211
+GMB,"Gambia, The",4,red,Goal4,Up Right,51.50733333,53.62485676
+GMB,"Gambia, The",5,red,Goal5,Up Right,40.54625,53.01121023
+GMB,"Gambia, The",6,red,Goal6,Right,59.0882,52.57983636
+GMB,"Gambia, The",7,red,Goal7,Right,28.8265,37.27658333
+GMB,"Gambia, The",8,orange,Goal8,Right,64.8948,59.98118523
+GMB,"Gambia, The",9,red,Goal9,Right,11.17033333,18.23981667
+GMB,"Gambia, The",10,orange,Goal10,,69.071,37.33420455
+GMB,"Gambia, The",11,red,Goal11,Right,63.10025,52.72891477
+GMB,"Gambia, The",12,yellow,Goal12,,93.51716667,88.02470152
+GMB,"Gambia, The",13,green,Goal13,Up,99.09533333,96.26652652
+GMB,"Gambia, The",14,red,Goal14,Right,72.8298,68.01049167
+GMB,"Gambia, The",15,orange,Goal15,Up Right,81.5354,66.83500341
+GMB,"Gambia, The",16,red,Goal16,Up,59.7356,56.05098259
+GMB,"Gambia, The",17,red,Goal17,Right,44.82933333,51.65295455
+GNB,Guinea-Bissau,1,red,Goal1,Right,,
+GNB,Guinea-Bissau,2,red,Goal2,Right,,
+GNB,Guinea-Bissau,3,red,Goal3,Right,,
+GNB,Guinea-Bissau,4,red,Goal4,,,
+GNB,Guinea-Bissau,5,orange,Goal5,Up Right,,
+GNB,Guinea-Bissau,6,red,Goal6,Right,,
+GNB,Guinea-Bissau,7,red,Goal7,Right,,
+GNB,Guinea-Bissau,8,orange,Goal8,Up,,
+GNB,Guinea-Bissau,9,red,Goal9,Right,,
+GNB,Guinea-Bissau,10,red,Goal10,,,
+GNB,Guinea-Bissau,11,red,Goal11,Right,,
+GNB,Guinea-Bissau,12,grey,Goal12,,,
+GNB,Guinea-Bissau,13,green,Goal13,Up,,
+GNB,Guinea-Bissau,14,red,Goal14,Right,,
+GNB,Guinea-Bissau,15,red,Goal15,Up Right,,
+GNB,Guinea-Bissau,16,red,Goal16,Up Right,,
+GNB,Guinea-Bissau,17,red,Goal17,Right,,
+GNQ,Equatorial Guinea,1,grey,Goal1,,,
+GNQ,Equatorial Guinea,2,red,Goal2,Right,,
+GNQ,Equatorial Guinea,3,red,Goal3,Right,,
+GNQ,Equatorial Guinea,4,red,Goal4,,,
+GNQ,Equatorial Guinea,5,red,Goal5,Right,,
+GNQ,Equatorial Guinea,6,red,Goal6,Right,,
+GNQ,Equatorial Guinea,7,red,Goal7,Right,,
+GNQ,Equatorial Guinea,8,orange,Goal8,Down,,
+GNQ,Equatorial Guinea,9,red,Goal9,Right,,
+GNQ,Equatorial Guinea,10,grey,Goal10,,,
+GNQ,Equatorial Guinea,11,red,Goal11,Down,,
+GNQ,Equatorial Guinea,12,grey,Goal12,,,
+GNQ,Equatorial Guinea,13,grey,Goal13,,,
+GNQ,Equatorial Guinea,14,orange,Goal14,Up Right,,
+GNQ,Equatorial Guinea,15,orange,Goal15,Up Right,,
+GNQ,Equatorial Guinea,16,red,Goal16,Up Right,,
+GNQ,Equatorial Guinea,17,orange,Goal17,Down,,
+GRC,Greece,1,yellow,Goal1,Up,97.8405,98.69063514
+GRC,Greece,2,orange,Goal2,Right,66.169125,66.75572056
+GRC,Greece,3,orange,Goal3,Up Right,88.28016667,90.90151376
+GRC,Greece,4,red,Goal4,Up Right,97.15866667,98.30024837
+GRC,Greece,5,orange,Goal5,Up Right,64.093,77.46045721
+GRC,Greece,6,yellow,Goal6,Up,86.817,85.63096757
+GRC,Greece,7,orange,Goal7,Up Right,91.18766667,92.46802703
+GRC,Greece,8,orange,Goal8,Up,64.97433333,80.68087297
+GRC,Greece,9,orange,Goal9,Up Right,71.89316667,81.25941441
+GRC,Greece,10,orange,Goal10,Up Right,68.284,74.4752027
+GRC,Greece,11,orange,Goal11,Up Right,78.27275,88.91136712
+GRC,Greece,12,red,Goal12,,59.03583333,58.05527928
+GRC,Greece,13,red,Goal13,Up Right,72.59533333,64.11272072
+GRC,Greece,14,red,Goal14,Right,56.78266667,63.36054624
+GRC,Greece,15,orange,Goal15,Up Right,81.0886,74.10277568
+GRC,Greece,16,yellow,Goal16,Up Right,76.82,82.31681502
+GRC,Greece,17,orange,Goal17,Right,60.6275,65.77382432
+GRD,Grenada,1,grey,Goal1,,,
+GRD,Grenada,2,red,Goal2,Right,,
+GRD,Grenada,3,orange,Goal3,Up Right,,
+GRD,Grenada,4,green,Goal4,Up,,
+GRD,Grenada,5,yellow,Goal5,Up,,
+GRD,Grenada,6,orange,Goal6,Right,,
+GRD,Grenada,7,yellow,Goal7,Up,,
+GRD,Grenada,8,grey,Goal8,,,
+GRD,Grenada,9,orange,Goal9,Up,,
+GRD,Grenada,10,grey,Goal10,,,
+GRD,Grenada,11,yellow,Goal11,Right,,
+GRD,Grenada,12,grey,Goal12,,,
+GRD,Grenada,13,yellow,Goal13,Right,,
+GRD,Grenada,14,red,Goal14,Right,,
+GRD,Grenada,15,red,Goal15,Down,,
+GRD,Grenada,16,orange,Goal16,Right,,
+GRD,Grenada,17,orange,Goal17,Down,,
+GTM,Guatemala,1,orange,Goal1,Right,74.105,78.88736364
+GTM,Guatemala,2,red,Goal2,Right,38.93975,57.59063199
+GTM,Guatemala,3,red,Goal3,Up Right,69.01007143,74.52407979
+GTM,Guatemala,4,orange,Goal4,Right,71.09866667,84.88684783
+GTM,Guatemala,5,red,Goal5,Up Right,56.51925,69.22095652
+GTM,Guatemala,6,red,Goal6,Up Right,71.3998,73.03634783
+GTM,Guatemala,7,orange,Goal7,Up Right,72.47633333,84.79700725
+GTM,Guatemala,8,red,Goal8,Up Right,63.38833333,68.38165797
+GTM,Guatemala,9,red,Goal9,Right,17.97133333,31.41842826
+GTM,Guatemala,10,red,Goal10,,10.783,27.90167647
+GTM,Guatemala,11,orange,Goal11,Up Right,80.52075,77.0875942
+GTM,Guatemala,12,green,Goal12,,90.19166667,76.72728261
+GTM,Guatemala,13,green,Goal13,Up,95.76333333,85.37328261
+GTM,Guatemala,14,red,Goal14,Up Right,57.50616667,62.78111429
+GTM,Guatemala,15,red,Goal15,Down,46.7026,60.90421739
+GTM,Guatemala,16,red,Goal16,Up Right,55.3194,60.88893442
+GTM,Guatemala,17,orange,Goal17,Right,46.85425,64.2951558
+GUY,Guyana,1,orange,Goal1,Up Right,86.545,78.88736364
+GUY,Guyana,2,orange,Goal2,Up Right,68.722,57.59063199
+GUY,Guyana,3,red,Goal3,Up Right,63.30957143,74.52407979
+GUY,Guyana,4,yellow,Goal4,,88.19066667,84.88684783
+GUY,Guyana,5,orange,Goal5,Up Right,66.56725,69.22095652
+GUY,Guyana,6,red,Goal6,Up Right,55.3602,73.03634783
+GUY,Guyana,7,yellow,Goal7,Up,82.4965,84.79700725
+GUY,Guyana,8,red,Goal8,Up Right,51.1574,68.38165797
+GUY,Guyana,9,red,Goal9,Right,16.9966,31.41842826
+GUY,Guyana,10,grey,Goal10,,,27.90167647
+GUY,Guyana,11,orange,Goal11,Up Right,78.85025,77.0875942
+GUY,Guyana,12,red,Goal12,,21.23683333,76.72728261
+GUY,Guyana,13,orange,Goal13,Down,61.57666667,85.37328261
+GUY,Guyana,14,red,Goal14,Right,32.2298,62.78111429
+GUY,Guyana,15,orange,Goal15,Right,55.689,60.90421739
+GUY,Guyana,16,red,Goal16,Up,66.31711111,60.88893442
+GUY,Guyana,17,orange,Goal17,Up Right,61.03133333,64.2951558
+HND,Honduras,1,red,Goal1,Right,56.4505,78.88736364
+HND,Honduras,2,red,Goal2,Right,52.44525,57.59063199
+HND,Honduras,3,red,Goal3,Up Right,74.48971429,74.52407979
+HND,Honduras,4,orange,Goal4,Right,65.90266667,84.88684783
+HND,Honduras,5,orange,Goal5,Up Right,65.41075,69.22095652
+HND,Honduras,6,orange,Goal6,Up,74.4912,73.03634783
+HND,Honduras,7,orange,Goal7,Up Right,75.54166667,84.79700725
+HND,Honduras,8,orange,Goal8,Up Right,64.643,68.38165797
+HND,Honduras,9,red,Goal9,Up Right,20.40966667,31.41842826
+HND,Honduras,10,red,Goal10,,15.0495,27.90167647
+HND,Honduras,11,orange,Goal11,Up Right,80.06275,77.0875942
+HND,Honduras,12,yellow,Goal12,,89.3025,76.72728261
+HND,Honduras,13,green,Goal13,Up,95.47533333,85.37328261
+HND,Honduras,14,red,Goal14,Right,65.55433333,62.78111429
+HND,Honduras,15,red,Goal15,Down,60.68175,60.90421739
+HND,Honduras,16,red,Goal16,Right,48.1892,60.88893442
+HND,Honduras,17,orange,Goal17,Right,63.03775,64.2951558
+HRV,Croatia,1,green,Goal1,Up,98.61,91.94543182
+HRV,Croatia,2,orange,Goal2,Up Right,74.993625,61.73419591
+HRV,Croatia,3,yellow,Goal3,Up Right,87.7385,77.28263593
+HRV,Croatia,4,green,Goal4,Up,98.12833333,91.68278123
+HRV,Croatia,5,orange,Goal5,Up Right,67.7405,60.84888406
+HRV,Croatia,6,green,Goal6,Up,86.7926,71.82457391
+HRV,Croatia,7,yellow,Goal7,Up,90.97466667,87.6735
+HRV,Croatia,8,yellow,Goal8,Up Right,80.17516667,69.7746442
+HRV,Croatia,9,orange,Goal9,Up,63.67133333,40.05858986
+HRV,Croatia,10,orange,Goal10,,80.774,72.3627619
+HRV,Croatia,11,orange,Goal11,Up Right,77.32266667,76.44322826
+HRV,Croatia,12,orange,Goal12,,70.91716667,77.62934493
+HRV,Croatia,13,red,Goal13,Right,78.304,83.04191304
+HRV,Croatia,14,orange,Goal14,Right,81.5495,58.86582121
+HRV,Croatia,15,yellow,Goal15,Right,84.5428,69.49956449
+HRV,Croatia,16,orange,Goal16,Up Right,78.279,72.40393841
+HRV,Croatia,17,yellow,Goal17,Right,65.86966667,63.38646014
+HTI,Haiti,1,red,Goal1,Down,30.3445,78.88736364
+HTI,Haiti,2,red,Goal2,Right,42.45614286,57.59063199
+HTI,Haiti,3,red,Goal3,Right,41.15107143,74.52407979
+HTI,Haiti,4,grey,Goal4,,76.43816667,84.88684783
+HTI,Haiti,5,red,Goal5,Right,40.17225,69.22095652
+HTI,Haiti,6,red,Goal6,Right,53.769,73.03634783
+HTI,Haiti,7,red,Goal7,Right,29.12466667,84.79700725
+HTI,Haiti,8,red,Goal8,Up Right,55.629,68.38165797
+HTI,Haiti,9,red,Goal9,Up Right,12.1715,31.41842826
+HTI,Haiti,10,red,Goal10,,46.633,27.90167647
+HTI,Haiti,11,red,Goal11,Right,36.4635,77.0875942
+HTI,Haiti,12,yellow,Goal12,,92.479,76.72728261
+HTI,Haiti,13,green,Goal13,Up,99.11933333,85.37328261
+HTI,Haiti,14,red,Goal14,Up Right,73.907,62.78111429
+HTI,Haiti,15,red,Goal15,Right,48.3354,60.90421739
+HTI,Haiti,16,red,Goal16,Right,47.658,60.88893442
+HTI,Haiti,17,red,Goal17,Right,47.12266667,64.2951558
+HUN,Hungary,1,orange,Goal1,Up Right,98.7725,98.69063514
+HUN,Hungary,2,red,Goal2,Right,72.647375,66.75572056
+HUN,Hungary,3,orange,Goal3,Up Right,83.50115385,90.90151376
+HUN,Hungary,4,orange,Goal4,Right,94.195,98.30024837
+HUN,Hungary,5,orange,Goal5,Up Right,64.58775,77.46045721
+HUN,Hungary,6,yellow,Goal6,Up,88.716,85.63096757
+HUN,Hungary,7,orange,Goal7,Up Right,92.034,92.46802703
+HUN,Hungary,8,yellow,Goal8,Up Right,80.64183333,80.68087297
+HUN,Hungary,9,red,Goal9,Up Right,66.50083333,81.25941441
+HUN,Hungary,10,orange,Goal10,Right,79.8415,74.4752027
+HUN,Hungary,11,yellow,Goal11,Up Right,89.30675,88.91136712
+HUN,Hungary,12,orange,Goal12,,73.0895,58.05527928
+HUN,Hungary,13,red,Goal13,Right,79.98966667,64.11272072
+HUN,Hungary,14,grey,Goal14,,,63.36054624
+HUN,Hungary,15,yellow,Goal15,Right,86.21,74.10277568
+HUN,Hungary,16,orange,Goal16,Right,74.4299,82.31681502
+HUN,Hungary,17,orange,Goal17,Up Right,51.371,65.77382432
+IDN,Indonesia,1,orange,Goal1,Up Right,78.9745,83.55094444
+IDN,Indonesia,2,red,Goal2,Up Right,64.467125,59.57284944
+IDN,Indonesia,3,red,Goal3,Up Right,62.16438462,68.4056886
+IDN,Indonesia,4,yellow,Goal4,Up,91.68833333,88.83601754
+IDN,Indonesia,5,orange,Goal5,Up Right,62.85225,59.05722807
+IDN,Indonesia,6,red,Goal6,Up,66.0278,67.25623158
+IDN,Indonesia,7,orange,Goal7,Up Right,73.90933333,73.47686842
+IDN,Indonesia,8,orange,Goal8,Up,71.90783333,69.19497018
+IDN,Indonesia,9,red,Goal9,Up Right,40.46266667,42.18964211
+IDN,Indonesia,10,red,Goal10,,40.547,54.78688235
+IDN,Indonesia,11,red,Goal11,Right,65.9835,71.62332895
+IDN,Indonesia,12,yellow,Goal12,,87.20683333,80.23155263
+IDN,Indonesia,13,yellow,Goal13,Right,91.70966667,83.69120175
+IDN,Indonesia,14,red,Goal14,Right,62.34716667,60.66508444
+IDN,Indonesia,15,red,Goal15,Right,46.3394,54.83643246
+IDN,Indonesia,16,red,Goal16,Up Right,70.21733333,66.075341
+IDN,Indonesia,17,orange,Goal17,Right,51.02425,53.23046053
+IND,India,1,orange,Goal1,Up Right,59.5765,83.55094444
+IND,India,2,red,Goal2,Right,52.439125,59.57284944
+IND,India,3,red,Goal3,Up Right,57.97046154,68.4056886
+IND,India,4,yellow,Goal4,Down,86.47733333,88.83601754
+IND,India,5,red,Goal5,Right,34.08225,59.05722807
+IND,India,6,red,Goal6,Up,56.1306,67.25623158
+IND,India,7,orange,Goal7,Up Right,69.93866667,73.47686842
+IND,India,8,orange,Goal8,Up Right,71.09266667,69.19497018
+IND,India,9,red,Goal9,Up Right,42.1865,42.18964211
+IND,India,10,red,Goal10,,27.855,54.78688235
+IND,India,11,red,Goal11,Right,53.17825,71.62332895
+IND,India,12,yellow,Goal12,,91.72616667,80.23155263
+IND,India,13,green,Goal13,Up,96.06933333,83.69120175
+IND,India,14,red,Goal14,Up Right,62.23183333,60.66508444
+IND,India,15,red,Goal15,Down,50.7006,54.83643246
+IND,India,16,red,Goal16,Right,58.8817,66.075341
+IND,India,17,red,Goal17,Right,50.738,53.23046053
+IRL,Ireland,1,green,Goal1,Up,99.795,98.69063514
+IRL,Ireland,2,red,Goal2,Up Right,75.894875,66.75572056
+IRL,Ireland,3,yellow,Goal3,Up Right,93.23184615,90.90151376
+IRL,Ireland,4,yellow,Goal4,Up Right,99.73870833,98.30024837
+IRL,Ireland,5,orange,Goal5,Up Right,76.39025,77.46045721
+IRL,Ireland,6,yellow,Goal6,Up Right,87.2854,85.63096757
+IRL,Ireland,7,orange,Goal7,Up,93.42933333,92.46802703
+IRL,Ireland,8,yellow,Goal8,Up,87.3286,80.68087297
+IRL,Ireland,9,orange,Goal9,Up Right,82.017,81.25941441
+IRL,Ireland,10,yellow,Goal10,Up Right,86.423,74.4752027
+IRL,Ireland,11,yellow,Goal11,Right,88.75525,88.91136712
+IRL,Ireland,12,red,Goal12,,45.179,58.05527928
+IRL,Ireland,13,red,Goal13,Up Right,58.19633333,64.11272072
+IRL,Ireland,14,orange,Goal14,Up Right,71.89516667,63.36054624
+IRL,Ireland,15,yellow,Goal15,Up,89.083,74.10277568
+IRL,Ireland,16,green,Goal16,Up,90.43433333,82.31681502
+IRL,Ireland,17,red,Goal17,Right,51.30775,65.77382432
+IRN,"Iran, Islamic Rep.",1,yellow,Goal1,Up Right,95.4645,92.3215
+IRN,"Iran, Islamic Rep.",2,red,Goal2,Up Right,63.628,59.18466592
+IRN,"Iran, Islamic Rep.",3,red,Goal3,Up Right,79.24278571,75.86853159
+IRN,"Iran, Islamic Rep.",4,green,Goal4,,94.707,84.10655278
+IRN,"Iran, Islamic Rep.",5,red,Goal5,Up Right,43.2175,44.58975
+IRN,"Iran, Islamic Rep.",6,red,Goal6,Right,59.5702,59.0447
+IRN,"Iran, Islamic Rep.",7,yellow,Goal7,Up Right,88.24333333,88.10620833
+IRN,"Iran, Islamic Rep.",8,red,Goal8,Up Right,50.78666667,62.06568854
+IRN,"Iran, Islamic Rep.",9,orange,Goal9,Up,60.44233333,47.49391042
+IRN,"Iran, Islamic Rep.",10,red,Goal10,,47.7005,66.17809091
+IRN,"Iran, Islamic Rep.",11,red,Goal11,Right,73.706,58.92827083
+IRN,"Iran, Islamic Rep.",12,orange,Goal12,,83.3765,76.84214583
+IRN,"Iran, Islamic Rep.",13,orange,Goal13,Right,78.551,71.47551042
+IRN,"Iran, Islamic Rep.",14,orange,Goal14,Up Right,77.447,62.77661458
+IRN,"Iran, Islamic Rep.",15,red,Goal15,Down,67.3972,57.3562125
+IRN,"Iran, Islamic Rep.",16,red,Goal16,Right,65.17444444,69.0938314
+IRN,"Iran, Islamic Rep.",17,orange,Goal17,Up,61.59775,56.23125521
+IRQ,Iraq,1,orange,Goal1,Down,79.5535,92.3215
+IRQ,Iraq,2,red,Goal2,Up Right,51.97985714,59.18466592
+IRQ,Iraq,3,red,Goal3,Up Right,63.07130769,75.86853159
+IRQ,Iraq,4,orange,Goal4,,69.874,84.10655278
+IRQ,Iraq,5,red,Goal5,Right,35.9155,44.58975
+IRQ,Iraq,6,orange,Goal6,Up,71.5454,59.0447
+IRQ,Iraq,7,yellow,Goal7,Up Right,88.00466667,88.10620833
+IRQ,Iraq,8,red,Goal8,Up Right,56.5885,62.06568854
+IRQ,Iraq,9,red,Goal9,Right,26.4685,47.49391042
+IRQ,Iraq,10,orange,Goal10,,74.1845,66.17809091
+IRQ,Iraq,11,red,Goal11,Right,54.756,58.92827083
+IRQ,Iraq,12,yellow,Goal12,,85.80433333,76.84214583
+IRQ,Iraq,13,yellow,Goal13,Up Right,88.78,71.47551042
+IRQ,Iraq,14,red,Goal14,Right,60.8218,62.77661458
+IRQ,Iraq,15,red,Goal15,Down,40.42125,57.3562125
+IRQ,Iraq,16,red,Goal16,Right,67.69875,69.0938314
+IRQ,Iraq,17,yellow,Goal17,Right,69.38733333,56.23125521
+ISL,Iceland,1,green,Goal1,Up,99.798,98.69063514
+ISL,Iceland,2,orange,Goal2,Up Right,58.23585714,66.75572056
+ISL,Iceland,3,yellow,Goal3,Up,96.00192308,90.90151376
+ISL,Iceland,4,orange,Goal4,Up Right,99.26204167,98.30024837
+ISL,Iceland,5,yellow,Goal5,Right,85.62666667,77.46045721
+ISL,Iceland,6,orange,Goal6,Up Right,74.643,85.63096757
+ISL,Iceland,7,green,Goal7,Up,99.44633333,92.46802703
+ISL,Iceland,8,yellow,Goal8,Up Right,79.449,80.68087297
+ISL,Iceland,9,yellow,Goal9,Up,85.72416667,81.25941441
+ISL,Iceland,10,green,Goal10,Up,96.897,74.4752027
+ISL,Iceland,11,orange,Goal11,Up Right,91.23375,88.91136712
+ISL,Iceland,12,red,Goal12,,28.53433333,58.05527928
+ISL,Iceland,13,red,Goal13,Up Right,50.33833333,64.11272072
+ISL,Iceland,14,red,Goal14,Right,65.03016667,63.36054624
+ISL,Iceland,15,red,Goal15,Down,53.2175,74.10277568
+ISL,Iceland,16,green,Goal16,Up,94.291,82.31681502
+ISL,Iceland,17,red,Goal17,Up Right,71.1695,65.77382432
+ISR,Israel,1,orange,Goal1,Up,99.2465,98.69063514
+ISR,Israel,2,red,Goal2,Up Right,61.956125,66.75572056
+ISR,Israel,3,green,Goal3,Up,95.25775,90.90151376
+ISR,Israel,4,red,Goal4,Right,98.18104167,98.30024837
+ISR,Israel,5,orange,Goal5,Right,74.94975,77.46045721
+ISR,Israel,6,orange,Goal6,Up,72.7828,85.63096757
+ISR,Israel,7,orange,Goal7,Up Right,94.80233333,92.46802703
+ISR,Israel,8,yellow,Goal8,Up,84.2896,80.68087297
+ISR,Israel,9,yellow,Goal9,Up,94.04133333,81.25941441
+ISR,Israel,10,red,Goal10,Up Right,62.879,74.4752027
+ISR,Israel,11,orange,Goal11,Up Right,86.65525,88.91136712
+ISR,Israel,12,red,Goal12,,61.14866667,58.05527928
+ISR,Israel,13,red,Goal13,Right,73.281,64.11272072
+ISR,Israel,14,red,Goal14,Right,30.7008,63.36054624
+ISR,Israel,15,red,Goal15,Right,50.9032,74.10277568
+ISR,Israel,16,orange,Goal16,Up,73.59588889,82.31681502
+ISR,Israel,17,red,Goal17,Up Right,60.972,65.77382432
+ITA,Italy,1,yellow,Goal1,Up Right,98.06,98.69063514
+ITA,Italy,2,orange,Goal2,Up Right,71.018625,66.75572056
+ITA,Italy,3,yellow,Goal3,Up,94.043,90.90151376
+ITA,Italy,4,orange,Goal4,Right,96.70833333,98.30024837
+ITA,Italy,5,orange,Goal5,Up Right,72.829,77.46045721
+ITA,Italy,6,yellow,Goal6,Up,82.135,85.63096757
+ITA,Italy,7,yellow,Goal7,Up,93.84733333,92.46802703
+ITA,Italy,8,orange,Goal8,Up Right,76.572,80.68087297
+ITA,Italy,9,red,Goal9,Up,83.6045,81.25941441
+ITA,Italy,10,orange,Goal10,Right,71.545,74.4752027
+ITA,Italy,11,orange,Goal11,Up Right,82.34125,88.91136712
+ITA,Italy,12,orange,Goal12,,63.60966667,58.05527928
+ITA,Italy,13,red,Goal13,Up Right,76.82,64.11272072
+ITA,Italy,14,red,Goal14,Down,53.54116667,63.36054624
+ITA,Italy,15,orange,Goal15,Down,80.2214,74.10277568
+ITA,Italy,16,yellow,Goal16,Up Right,78.9895,82.31681502
+ITA,Italy,17,orange,Goal17,Up Right,62.95275,65.77382432
+JAM,Jamaica,1,orange,Goal1,Down,83.3785,78.88736364
+JAM,Jamaica,2,red,Goal2,Right,55.84625,57.59063199
+JAM,Jamaica,3,orange,Goal3,Up Right,79.97407143,74.52407979
+JAM,Jamaica,4,yellow,Goal4,Down,82.612,84.88684783
+JAM,Jamaica,5,yellow,Goal5,Up,78.205,69.22095652
+JAM,Jamaica,6,orange,Goal6,Up Right,73.9316,73.03634783
+JAM,Jamaica,7,yellow,Goal7,Up Right,85.27566667,84.79700725
+JAM,Jamaica,8,orange,Goal8,Up,74.81683333,68.38165797
+JAM,Jamaica,9,orange,Goal9,Right,37.34383333,31.41842826
+JAM,Jamaica,10,red,Goal10,,37.701,27.90167647
+JAM,Jamaica,11,orange,Goal11,Right,74.06025,77.0875942
+JAM,Jamaica,12,orange,Goal12,,77.95933333,76.72728261
+JAM,Jamaica,13,yellow,Goal13,Right,88.94933333,85.37328261
+JAM,Jamaica,14,red,Goal14,Right,56.7745,62.78111429
+JAM,Jamaica,15,red,Goal15,Down,51.452,60.90421739
+JAM,Jamaica,16,red,Goal16,Right,66.6288,60.88893442
+JAM,Jamaica,17,orange,Goal17,Up Right,67.606,64.2951558
+JOR,Jordan,1,yellow,Goal1,Up Right,95.3335,92.3215
+JOR,Jordan,2,orange,Goal2,Right,59.558375,59.18466592
+JOR,Jordan,3,orange,Goal3,Up Right,75.67730769,75.86853159
+JOR,Jordan,4,orange,Goal4,Right,71.63133333,84.10655278
+JOR,Jordan,5,red,Goal5,Right,42.96675,44.58975
+JOR,Jordan,6,orange,Goal6,Up,57.5152,59.0447
+JOR,Jordan,7,yellow,Goal7,Up,92.943,88.10620833
+JOR,Jordan,8,red,Goal8,Right,58.02733333,62.06568854
+JOR,Jordan,9,orange,Goal9,Up,50.50133333,47.49391042
+JOR,Jordan,10,red,Goal10,,66.6885,66.17809091
+JOR,Jordan,11,orange,Goal11,Right,74.954,58.92827083
+JOR,Jordan,12,yellow,Goal12,,87.37883333,76.84214583
+JOR,Jordan,13,yellow,Goal13,Up Right,89.354,71.47551042
+JOR,Jordan,14,orange,Goal14,Right,78.98,62.77661458
+JOR,Jordan,15,red,Goal15,Right,55.32675,57.3562125
+JOR,Jordan,16,orange,Goal16,Up Right,76.6074,69.0938314
+JOR,Jordan,17,orange,Goal17,Right,58.88175,56.23125521
+JPN,Japan,1,yellow,Goal1,Up,99.2295,98.69063514
+JPN,Japan,2,orange,Goal2,Up Right,75.19625,66.75572056
+JPN,Japan,3,yellow,Goal3,Up,94.05923077,90.90151376
+JPN,Japan,4,green,Goal4,Up,99.74004167,98.30024837
+JPN,Japan,5,red,Goal5,Up Right,61.47975,77.46045721
+JPN,Japan,6,yellow,Goal6,Up,84.869,85.63096757
+JPN,Japan,7,orange,Goal7,Up Right,93.65533333,92.46802703
+JPN,Japan,8,yellow,Goal8,Up,86.81166667,80.68087297
+JPN,Japan,9,green,Goal9,Up,89.539,81.25941441
+JPN,Japan,10,orange,Goal10,,75.3425,74.4752027
+JPN,Japan,11,yellow,Goal11,Up,85.833,88.91136712
+JPN,Japan,12,orange,Goal12,,66.61616667,58.05527928
+JPN,Japan,13,red,Goal13,Right,66.40966667,64.11272072
+JPN,Japan,14,red,Goal14,Right,51.71033333,63.36054624
+JPN,Japan,15,red,Goal15,Down,63.853,74.10277568
+JPN,Japan,16,green,Goal16,Up,91.6019,82.31681502
+JPN,Japan,17,red,Goal17,Up Right,71.48025,65.77382432
+KAZ,Kazakhstan,1,green,Goal1,Up,99.9155,91.94543182
+KAZ,Kazakhstan,2,red,Goal2,Right,59.17025,61.73419591
+KAZ,Kazakhstan,3,orange,Goal3,Up,79.52628571,77.28263593
+KAZ,Kazakhstan,4,yellow,Goal4,Right,93.00166667,91.68278123
+KAZ,Kazakhstan,5,yellow,Goal5,Right,71.13675,60.84888406
+KAZ,Kazakhstan,6,yellow,Goal6,Up,78.0362,71.82457391
+KAZ,Kazakhstan,7,yellow,Goal7,Up Right,86.528,87.6735
+KAZ,Kazakhstan,8,orange,Goal8,Up Right,70.205,69.7746442
+KAZ,Kazakhstan,9,orange,Goal9,Up Right,44.00733333,40.05858986
+KAZ,Kazakhstan,10,yellow,Goal10,,77.43,72.3627619
+KAZ,Kazakhstan,11,yellow,Goal11,Up Right,83.715,76.44322826
+KAZ,Kazakhstan,12,orange,Goal12,,74.85416667,77.62934493
+KAZ,Kazakhstan,13,orange,Goal13,Right,61.15933333,83.04191304
+KAZ,Kazakhstan,14,grey,Goal14,,,58.86582121
+KAZ,Kazakhstan,15,red,Goal15,Right,56.9586,69.49956449
+KAZ,Kazakhstan,16,red,Goal16,Up Right,69.06644444,72.40393841
+KAZ,Kazakhstan,17,red,Goal17,Right,54.292,63.38646014
+KEN,Kenya,1,red,Goal1,Up Right,49.093,30.34416279
+KEN,Kenya,2,red,Goal2,Right,57.485125,51.97774729
+KEN,Kenya,3,red,Goal3,Up Right,54.766,44.14016211
+KEN,Kenya,4,orange,Goal4,,70.59966667,53.62485676
+KEN,Kenya,5,orange,Goal5,Up Right,68.74375,53.01121023
+KEN,Kenya,6,red,Goal6,Right,45.5168,52.57983636
+KEN,Kenya,7,red,Goal7,Up Right,53.276,37.27658333
+KEN,Kenya,8,orange,Goal8,Up Right,74.1495,59.98118523
+KEN,Kenya,9,red,Goal9,Up Right,32.36166667,18.23981667
+KEN,Kenya,10,red,Goal10,,38.7645,37.33420455
+KEN,Kenya,11,red,Goal11,Right,61.27025,52.72891477
+KEN,Kenya,12,yellow,Goal12,,88.89816667,88.02470152
+KEN,Kenya,13,green,Goal13,Up,97.94133333,96.26652652
+KEN,Kenya,14,red,Goal14,Down,67.86466667,68.01049167
+KEN,Kenya,15,red,Goal15,Down,59.2926,66.83500341
+KEN,Kenya,16,red,Goal16,Right,59.31522222,56.05098259
+KEN,Kenya,17,orange,Goal17,Right,50.823,51.65295455
+KGZ,Kyrgyz Republic,1,yellow,Goal1,Up Right,84.523,91.94543182
+KGZ,Kyrgyz Republic,2,orange,Goal2,Right,61.88657143,61.73419591
+KGZ,Kyrgyz Republic,3,orange,Goal3,Up,75.1875,77.28263593
+KGZ,Kyrgyz Republic,4,green,Goal4,Up,98.68966667,91.68278123
+KGZ,Kyrgyz Republic,5,orange,Goal5,Right,60.48775,60.84888406
+KGZ,Kyrgyz Republic,6,orange,Goal6,Up Right,65.1486,71.82457391
+KGZ,Kyrgyz Republic,7,yellow,Goal7,Up,89.75233333,87.6735
+KGZ,Kyrgyz Republic,8,orange,Goal8,Up Right,65.4935,69.7746442
+KGZ,Kyrgyz Republic,9,red,Goal9,Up Right,29.42616667,40.05858986
+KGZ,Kyrgyz Republic,10,yellow,Goal10,,89.075,72.3627619
+KGZ,Kyrgyz Republic,11,yellow,Goal11,Up Right,88.65575,76.44322826
+KGZ,Kyrgyz Republic,12,yellow,Goal12,,86.505,77.62934493
+KGZ,Kyrgyz Republic,13,yellow,Goal13,Up,92.20966667,83.04191304
+KGZ,Kyrgyz Republic,14,grey,Goal14,,,58.86582121
+KGZ,Kyrgyz Republic,15,red,Goal15,Right,71.3522,69.49956449
+KGZ,Kyrgyz Republic,16,red,Goal16,Up Right,68.1686,72.40393841
+KGZ,Kyrgyz Republic,17,yellow,Goal17,Right,72.58925,63.38646014
+KHM,Cambodia,1,yellow,Goal1,Up,81.951,83.55094444
+KHM,Cambodia,2,orange,Goal2,Up Right,63.845875,59.57284944
+KHM,Cambodia,3,red,Goal3,Up Right,61.87685714,68.4056886
+KHM,Cambodia,4,orange,Goal4,Right,71.336,88.83601754
+KHM,Cambodia,5,red,Goal5,Right,55.6975,59.05722807
+KHM,Cambodia,6,red,Goal6,Up,63.6216,67.25623158
+KHM,Cambodia,7,orange,Goal7,Up Right,61.38533333,73.47686842
+KHM,Cambodia,8,red,Goal8,Up Right,57.245,69.19497018
+KHM,Cambodia,9,red,Goal9,Up Right,27.29116667,42.18964211
+KHM,Cambodia,10,orange,Goal10,,77.614,54.78688235
+KHM,Cambodia,11,orange,Goal11,Up Right,70.631,71.62332895
+KHM,Cambodia,12,green,Goal12,,93.4075,80.23155263
+KHM,Cambodia,13,green,Goal13,Up,96.97366667,83.69120175
+KHM,Cambodia,14,red,Goal14,Right,57.87266667,60.66508444
+KHM,Cambodia,15,red,Goal15,Down,43.829,54.83643246
+KHM,Cambodia,16,red,Goal16,Up Right,60.8003,66.075341
+KHM,Cambodia,17,orange,Goal17,Right,51.8035,53.23046053
+KIR,Kiribati,1,grey,Goal1,,,
+KIR,Kiribati,2,red,Goal2,Right,,
+KIR,Kiribati,3,red,Goal3,Up Right,,
+KIR,Kiribati,4,yellow,Goal4,,,
+KIR,Kiribati,5,red,Goal5,Right,,
+KIR,Kiribati,6,red,Goal6,Up Right,,
+KIR,Kiribati,7,yellow,Goal7,Up Right,,
+KIR,Kiribati,8,grey,Goal8,,,
+KIR,Kiribati,9,red,Goal9,Right,,
+KIR,Kiribati,10,orange,Goal10,,,
+KIR,Kiribati,11,grey,Goal11,,,
+KIR,Kiribati,12,grey,Goal12,,,
+KIR,Kiribati,13,green,Goal13,Up,,
+KIR,Kiribati,14,yellow,Goal14,Up Right,,
+KIR,Kiribati,15,grey,Goal15,,,
+KIR,Kiribati,16,orange,Goal16,,,
+KIR,Kiribati,17,yellow,Goal17,Up Right,,
+KNA,St. Kitts and Nevis,1,grey,Goal1,,,
+KNA,St. Kitts and Nevis,2,orange,Goal2,Right,,
+KNA,St. Kitts and Nevis,3,grey,Goal3,,,
+KNA,St. Kitts and Nevis,4,green,Goal4,,,
+KNA,St. Kitts and Nevis,5,grey,Goal5,,,
+KNA,St. Kitts and Nevis,6,orange,Goal6,,,
+KNA,St. Kitts and Nevis,7,green,Goal7,Up,,
+KNA,St. Kitts and Nevis,8,grey,Goal8,,,
+KNA,St. Kitts and Nevis,9,orange,Goal9,Up Right,,
+KNA,St. Kitts and Nevis,10,grey,Goal10,,,
+KNA,St. Kitts and Nevis,11,grey,Goal11,,,
+KNA,St. Kitts and Nevis,12,grey,Goal12,,,
+KNA,St. Kitts and Nevis,13,yellow,Goal13,Right,,
+KNA,St. Kitts and Nevis,14,red,Goal14,Right,,
+KNA,St. Kitts and Nevis,15,red,Goal15,Up Right,,
+KNA,St. Kitts and Nevis,16,grey,Goal16,,,
+KNA,St. Kitts and Nevis,17,grey,Goal17,,,
+KOR,"Korea, Rep.",1,yellow,Goal1,Up Right,99.041,98.69063514
+KOR,"Korea, Rep.",2,orange,Goal2,Up Right,82.46325,66.75572056
+KOR,"Korea, Rep.",3,yellow,Goal3,Up Right,92.003,90.90151376
+KOR,"Korea, Rep.",4,green,Goal4,Up,98.951,98.30024837
+KOR,"Korea, Rep.",5,red,Goal5,Up Right,65.284,77.46045721
+KOR,"Korea, Rep.",6,orange,Goal6,Up,75.1418,85.63096757
+KOR,"Korea, Rep.",7,orange,Goal7,Up Right,92.79166667,92.46802703
+KOR,"Korea, Rep.",8,yellow,Goal8,Up Right,80.24033333,80.68087297
+KOR,"Korea, Rep.",9,yellow,Goal9,Up Right,98.78466667,81.25941441
+KOR,"Korea, Rep.",10,red,Goal10,Right,78.877,74.4752027
+KOR,"Korea, Rep.",11,yellow,Goal11,Right,86.49133333,88.91136712
+KOR,"Korea, Rep.",12,orange,Goal12,,69.68516667,58.05527928
+KOR,"Korea, Rep.",13,red,Goal13,Up Right,61.986,64.11272072
+KOR,"Korea, Rep.",14,red,Goal14,Right,58.74966667,63.36054624
+KOR,"Korea, Rep.",15,red,Goal15,Down,54.5014,74.10277568
+KOR,"Korea, Rep.",16,yellow,Goal16,Up Right,79.02366667,82.31681502
+KOR,"Korea, Rep.",17,red,Goal17,Up Right,62.07375,65.77382432
+KWT,Kuwait,1,grey,Goal1,,,92.3215
+KWT,Kuwait,2,orange,Goal2,Right,70.023875,59.18466592
+KWT,Kuwait,3,orange,Goal3,Up Right,82.79853846,75.86853159
+KWT,Kuwait,4,yellow,Goal4,Right,83.91833333,84.10655278
+KWT,Kuwait,5,orange,Goal5,Right,53.76075,44.58975
+KWT,Kuwait,6,red,Goal6,Up Right,48.62,59.0447
+KWT,Kuwait,7,yellow,Goal7,Up,92.88133333,88.10620833
+KWT,Kuwait,8,orange,Goal8,Up Right,59.08975,62.06568854
+KWT,Kuwait,9,orange,Goal9,Up Right,53.56583333,47.49391042
+KWT,Kuwait,10,grey,Goal10,,,66.17809091
+KWT,Kuwait,11,orange,Goal11,Right,48.7535,58.92827083
+KWT,Kuwait,12,red,Goal12,,36.53216667,76.84214583
+KWT,Kuwait,13,red,Goal13,Right,33.333,71.47551042
+KWT,Kuwait,14,red,Goal14,Right,40.6652,62.77661458
+KWT,Kuwait,15,red,Goal15,Right,52.58666667,57.3562125
+KWT,Kuwait,16,orange,Goal16,Right,79.33314286,69.0938314
+KWT,Kuwait,17,yellow,Goal17,Up,68.90133333,56.23125521
+LAO,Lao PDR,1,orange,Goal1,Up Right,54.866,83.55094444
+LAO,Lao PDR,2,orange,Goal2,Up Right,64.25716667,59.57284944
+LAO,Lao PDR,3,red,Goal3,Up Right,53.45742857,68.4056886
+LAO,Lao PDR,4,orange,Goal4,Right,75.19966667,88.83601754
+LAO,Lao PDR,5,orange,Goal5,Up Right,72.7345,59.05722807
+LAO,Lao PDR,6,red,Goal6,Up,68.221,67.25623158
+LAO,Lao PDR,7,orange,Goal7,Up Right,64.124,73.47686842
+LAO,Lao PDR,8,orange,Goal8,Up,69.2992,69.19497018
+LAO,Lao PDR,9,red,Goal9,Up Right,18.65383333,42.18964211
+LAO,Lao PDR,10,red,Goal10,,52.261,54.78688235
+LAO,Lao PDR,11,orange,Goal11,Up,81.55775,71.62332895
+LAO,Lao PDR,12,green,Goal12,,94.997,80.23155263
+LAO,Lao PDR,13,yellow,Goal13,Right,91.491,83.69120175
+LAO,Lao PDR,14,grey,Goal14,,,60.66508444
+LAO,Lao PDR,15,red,Goal15,Down,52.8888,54.83643246
+LAO,Lao PDR,16,red,Goal16,Right,52.268,66.075341
+LAO,Lao PDR,17,red,Goal17,Right,44.26725,53.23046053
+LBN,Lebanon,1,green,Goal1,Up,99.009,92.3215
+LBN,Lebanon,2,red,Goal2,Right,57.215375,59.18466592
+LBN,Lebanon,3,orange,Goal3,Up Right,78.14571429,75.86853159
+LBN,Lebanon,4,grey,Goal4,,86.59884444,84.10655278
+LBN,Lebanon,5,red,Goal5,Right,41.2705,44.58975
+LBN,Lebanon,6,orange,Goal6,Up Right,65.0832,59.0447
+LBN,Lebanon,7,yellow,Goal7,Up,89.246,88.10620833
+LBN,Lebanon,8,red,Goal8,Right,62.56433333,62.06568854
+LBN,Lebanon,9,orange,Goal9,Up Right,51.2744,47.49391042
+LBN,Lebanon,10,orange,Goal10,,78.2885,66.17809091
+LBN,Lebanon,11,red,Goal11,Down,40.49333333,58.92827083
+LBN,Lebanon,12,orange,Goal12,,80.48133333,76.84214583
+LBN,Lebanon,13,orange,Goal13,Up Right,83.862,71.47551042
+LBN,Lebanon,14,red,Goal14,Right,61.0898,62.77661458
+LBN,Lebanon,15,red,Goal15,Right,60.6652,57.3562125
+LBN,Lebanon,16,orange,Goal16,Right,62.00266667,69.0938314
+LBN,Lebanon,17,orange,Goal17,Up Right,38.953,56.23125521
+LBR,Liberia,1,red,Goal1,Down,20.0205,30.34416279
+LBR,Liberia,2,red,Goal2,Right,45.57628571,51.97774729
+LBR,Liberia,3,red,Goal3,Right,36.57578571,44.14016211
+LBR,Liberia,4,red,Goal4,,34.78233333,53.62485676
+LBR,Liberia,5,red,Goal5,Up Right,40.8245,53.01121023
+LBR,Liberia,6,red,Goal6,Right,52.5276,52.57983636
+LBR,Liberia,7,red,Goal7,Right,9.251,37.27658333
+LBR,Liberia,8,red,Goal8,Up Right,59.49333333,59.98118523
+LBR,Liberia,9,red,Goal9,Down,5.1745,18.23981667
+LBR,Liberia,10,orange,Goal10,,66.7075,37.33420455
+LBR,Liberia,11,red,Goal11,Down,27.45525,52.72891477
+LBR,Liberia,12,green,Goal12,,95.9148,88.02470152
+LBR,Liberia,13,green,Goal13,Up,99.40766667,96.26652652
+LBR,Liberia,14,orange,Goal14,Up Right,85.25483333,68.01049167
+LBR,Liberia,15,red,Goal15,Right,49.3748,66.83500341
+LBR,Liberia,16,red,Goal16,Right,50.016,56.05098259
+LBR,Liberia,17,red,Goal17,Up Right,48.6375,51.65295455
+LBY,Libya,1,grey,Goal1,,,
+LBY,Libya,2,red,Goal2,Down,,
+LBY,Libya,3,red,Goal3,Right,,
+LBY,Libya,4,grey,Goal4,,,
+LBY,Libya,5,red,Goal5,Right,,
+LBY,Libya,6,red,Goal6,Up,,
+LBY,Libya,7,orange,Goal7,Down,,
+LBY,Libya,8,orange,Goal8,Right,,
+LBY,Libya,9,red,Goal9,Right,,
+LBY,Libya,10,grey,Goal10,,,
+LBY,Libya,11,orange,Goal11,Down,,
+LBY,Libya,12,orange,Goal12,,,
+LBY,Libya,13,orange,Goal13,Up Right,,
+LBY,Libya,14,red,Goal14,Down,,
+LBY,Libya,15,orange,Goal15,Up Right,,
+LBY,Libya,16,red,Goal16,Right,,
+LBY,Libya,17,orange,Goal17,Down,,
+LCA,St. Lucia,1,orange,Goal1,Up Right,,
+LCA,St. Lucia,2,orange,Goal2,Right,,
+LCA,St. Lucia,3,orange,Goal3,Right,,
+LCA,St. Lucia,4,green,Goal4,Up,,
+LCA,St. Lucia,5,orange,Goal5,Up Right,,
+LCA,St. Lucia,6,orange,Goal6,Up Right,,
+LCA,St. Lucia,7,green,Goal7,Up,,
+LCA,St. Lucia,8,orange,Goal8,Up Right,,
+LCA,St. Lucia,9,orange,Goal9,Up Right,,
+LCA,St. Lucia,10,red,Goal10,,,
+LCA,St. Lucia,11,orange,Goal11,Up Right,,
+LCA,St. Lucia,12,grey,Goal12,,,
+LCA,St. Lucia,13,green,Goal13,Up,,
+LCA,St. Lucia,14,red,Goal14,Right,,
+LCA,St. Lucia,15,orange,Goal15,Down,,
+LCA,St. Lucia,16,red,Goal16,Right,,
+LCA,St. Lucia,17,orange,Goal17,Down,,
+LIE,Liechtenstein,1,grey,Goal1,,,
+LIE,Liechtenstein,2,grey,Goal2,,,
+LIE,Liechtenstein,3,grey,Goal3,,,
+LIE,Liechtenstein,4,green,Goal4,Up,,
+LIE,Liechtenstein,5,grey,Goal5,,,
+LIE,Liechtenstein,6,yellow,Goal6,Up,,
+LIE,Liechtenstein,7,grey,Goal7,,,
+LIE,Liechtenstein,8,grey,Goal8,,,
+LIE,Liechtenstein,9,yellow,Goal9,Up,,
+LIE,Liechtenstein,10,grey,Goal10,,,
+LIE,Liechtenstein,11,grey,Goal11,,,
+LIE,Liechtenstein,12,red,Goal12,,,
+LIE,Liechtenstein,13,orange,Goal13,Up Right,,
+LIE,Liechtenstein,14,grey,Goal14,,,
+LIE,Liechtenstein,15,yellow,Goal15,Up Right,,
+LIE,Liechtenstein,16,yellow,Goal16,Up Right,,
+LIE,Liechtenstein,17,grey,Goal17,,,
+LKA,Sri Lanka,1,yellow,Goal1,Up,91.544,83.55094444
+LKA,Sri Lanka,2,red,Goal2,Up Right,62.129625,59.57284944
+LKA,Sri Lanka,3,red,Goal3,Up Right,77.81457143,68.4056886
+LKA,Sri Lanka,4,green,Goal4,Up,97.41366667,88.83601754
+LKA,Sri Lanka,5,red,Goal5,Right,52.00425,59.05722807
+LKA,Sri Lanka,6,red,Goal6,Up Right,56.627,67.25623158
+LKA,Sri Lanka,7,orange,Goal7,Up Right,66.94766667,73.47686842
+LKA,Sri Lanka,8,orange,Goal8,Up Right,76.2195,69.19497018
+LKA,Sri Lanka,9,red,Goal9,Up Right,34.15916667,42.18964211
+LKA,Sri Lanka,10,red,Goal10,,36.333,54.78688235
+LKA,Sri Lanka,11,orange,Goal11,Right,82.97066667,71.62332895
+LKA,Sri Lanka,12,orange,Goal12,,85.36016667,80.23155263
+LKA,Sri Lanka,13,green,Goal13,Up,95.152,83.69120175
+LKA,Sri Lanka,14,red,Goal14,Right,71.7165,60.66508444
+LKA,Sri Lanka,15,red,Goal15,Down,55.9466,54.83643246
+LKA,Sri Lanka,16,red,Goal16,Right,66.2264,66.075341
+LKA,Sri Lanka,17,red,Goal17,Right,49.136,53.23046053
+LSO,Lesotho,1,red,Goal1,Right,31.594,30.34416279
+LSO,Lesotho,2,red,Goal2,Right,50.695375,51.97774729
+LSO,Lesotho,3,red,Goal3,Right,24.96178571,44.14016211
+LSO,Lesotho,4,orange,Goal4,,68.72166667,53.62485676
+LSO,Lesotho,5,yellow,Goal5,Up Right,74.665,53.01121023
+LSO,Lesotho,6,red,Goal6,Up Right,56.2906,52.57983636
+LSO,Lesotho,7,red,Goal7,Up Right,37.995,37.27658333
+LSO,Lesotho,8,red,Goal8,Right,47.9138,59.98118523
+LSO,Lesotho,9,red,Goal9,Right,18.21016667,18.23981667
+LSO,Lesotho,10,red,Goal10,,2.038,37.33420455
+LSO,Lesotho,11,red,Goal11,Right,63.367,52.72891477
+LSO,Lesotho,12,yellow,Goal12,,89.69416667,88.02470152
+LSO,Lesotho,13,green,Goal13,Up,93.694,96.26652652
+LSO,Lesotho,14,grey,Goal14,,,68.01049167
+LSO,Lesotho,15,orange,Goal15,Up Right,74.465,66.83500341
+LSO,Lesotho,16,red,Goal16,Down,47.43233333,56.05098259
+LSO,Lesotho,17,yellow,Goal17,Up Right,78.215,51.65295455
+LTU,Lithuania,1,yellow,Goal1,Up Right,98.49,98.69063514
+LTU,Lithuania,2,red,Goal2,Right,63.92625,66.75572056
+LTU,Lithuania,3,orange,Goal3,Up,84.80385714,90.90151376
+LTU,Lithuania,4,orange,Goal4,Up Right,99.78333333,98.30024837
+LTU,Lithuania,5,orange,Goal5,Up Right,72.6495,77.46045721
+LTU,Lithuania,6,yellow,Goal6,Up,83.6842,85.63096757
+LTU,Lithuania,7,orange,Goal7,Up Right,78.72866667,92.46802703
+LTU,Lithuania,8,yellow,Goal8,Up,81.4586,80.68087297
+LTU,Lithuania,9,red,Goal9,Up Right,62.34266667,81.25941441
+LTU,Lithuania,10,red,Goal10,Right,58.0965,74.4752027
+LTU,Lithuania,11,orange,Goal11,Up Right,82.3185,88.91136712
+LTU,Lithuania,12,red,Goal12,,62.86466667,58.05527928
+LTU,Lithuania,13,red,Goal13,Down,73.54433333,64.11272072
+LTU,Lithuania,14,orange,Goal14,Right,75.0214,63.36054624
+LTU,Lithuania,15,green,Goal15,Up,95.166,74.10277568
+LTU,Lithuania,16,orange,Goal16,Up,77.83633333,82.31681502
+LTU,Lithuania,17,orange,Goal17,Right,53.19825,65.77382432
+LUX,Luxembourg,1,yellow,Goal1,Up Right,99.444,98.69063514
+LUX,Luxembourg,2,red,Goal2,Up Right,59.691375,66.75572056
+LUX,Luxembourg,3,green,Goal3,Up,96.16446154,90.90151376
+LUX,Luxembourg,4,orange,Goal4,Up Right,97.834375,98.30024837
+LUX,Luxembourg,5,yellow,Goal5,Up Right,76.759,77.46045721
+LUX,Luxembourg,6,orange,Goal6,Up Right,79.132,85.63096757
+LUX,Luxembourg,7,red,Goal7,Right,66.66666667,92.46802703
+LUX,Luxembourg,8,orange,Goal8,Up Right,70.5202,80.68087297
+LUX,Luxembourg,9,orange,Goal9,Up Right,87.11966667,81.25941441
+LUX,Luxembourg,10,orange,Goal10,Down,80.38,74.4752027
+LUX,Luxembourg,11,yellow,Goal11,Up,97.55325,88.91136712
+LUX,Luxembourg,12,red,Goal12,,21.59433333,58.05527928
+LUX,Luxembourg,13,red,Goal13,Up Right,40.18166667,64.11272072
+LUX,Luxembourg,14,grey,Goal14,,,63.36054624
+LUX,Luxembourg,15,red,Goal15,Right,66.9152,74.10277568
+LUX,Luxembourg,16,yellow,Goal16,Up Right,90.59255556,82.31681502
+LUX,Luxembourg,17,red,Goal17,Up Right,67.64875,65.77382432
+LVA,Latvia,1,orange,Goal1,Up Right,98.9435,98.69063514
+LVA,Latvia,2,red,Goal2,Right,64.927125,66.75572056
+LVA,Latvia,3,orange,Goal3,Up Right,84.29228571,90.90151376
+LVA,Latvia,4,yellow,Goal4,Up Right,98.50833333,98.30024837
+LVA,Latvia,5,orange,Goal5,Up,78.008,77.46045721
+LVA,Latvia,6,yellow,Goal6,Up,92.4604,85.63096757
+LVA,Latvia,7,yellow,Goal7,Up,92.24766667,92.46802703
+LVA,Latvia,8,yellow,Goal8,Up,84.284,80.68087297
+LVA,Latvia,9,red,Goal9,Up Right,62.11516667,81.25941441
+LVA,Latvia,10,red,Goal10,Right,67.4695,74.4752027
+LVA,Latvia,11,yellow,Goal11,Up Right,89.719,88.91136712
+LVA,Latvia,12,red,Goal12,,63.76883333,58.05527928
+LVA,Latvia,13,red,Goal13,Down,75.216,64.11272072
+LVA,Latvia,14,red,Goal14,Right,71.25283333,63.36054624
+LVA,Latvia,15,green,Goal15,Up,97.8584,74.10277568
+LVA,Latvia,16,orange,Goal16,Up Right,78.173,82.31681502
+LVA,Latvia,17,red,Goal17,Right,46.342,65.77382432
+MAR,Morocco,1,yellow,Goal1,Up Right,93.6295,92.3215
+MAR,Morocco,2,red,Goal2,Up Right,62.490375,59.18466592
+MAR,Morocco,3,red,Goal3,Up Right,74.96785714,75.86853159
+MAR,Morocco,4,yellow,Goal4,Right,83.85066667,84.10655278
+MAR,Morocco,5,red,Goal5,Right,41.99525,44.58975
+MAR,Morocco,6,orange,Goal6,Up,64.9764,59.0447
+MAR,Morocco,7,yellow,Goal7,Up Right,88.646,88.10620833
+MAR,Morocco,8,red,Goal8,Right,62.9565,62.06568854
+MAR,Morocco,9,orange,Goal9,Up Right,41.51683333,47.49391042
+MAR,Morocco,10,orange,Goal10,,53.5875,66.17809091
+MAR,Morocco,11,orange,Goal11,Right,76.271,58.92827083
+MAR,Morocco,12,green,Goal12,,90.71033333,76.84214583
+MAR,Morocco,13,green,Goal13,Up,94.58833333,71.47551042
+MAR,Morocco,14,red,Goal14,Right,58.41133333,62.77661458
+MAR,Morocco,15,orange,Goal15,Right,77.1668,57.3562125
+MAR,Morocco,16,orange,Goal16,Up Right,71.60811111,69.0938314
+MAR,Morocco,17,orange,Goal17,Right,61.58875,56.23125521
+MCO,Monaco,1,grey,Goal1,,,
+MCO,Monaco,2,grey,Goal2,,,
+MCO,Monaco,3,grey,Goal3,,,
+MCO,Monaco,4,grey,Goal4,,,
+MCO,Monaco,5,grey,Goal5,,,
+MCO,Monaco,6,yellow,Goal6,Up Right,,
+MCO,Monaco,7,green,Goal7,Up,,
+MCO,Monaco,8,grey,Goal8,,,
+MCO,Monaco,9,orange,Goal9,Up,,
+MCO,Monaco,10,grey,Goal10,,,
+MCO,Monaco,11,yellow,Goal11,Up,,
+MCO,Monaco,12,red,Goal12,,,
+MCO,Monaco,13,grey,Goal13,,,
+MCO,Monaco,14,grey,Goal14,,,
+MCO,Monaco,15,grey,Goal15,,,
+MCO,Monaco,16,grey,Goal16,,,
+MCO,Monaco,17,grey,Goal17,,,
+MDA,Moldova,1,green,Goal1,Up,99.509,91.94543182
+MDA,Moldova,2,orange,Goal2,Right,58.84716667,61.73419591
+MDA,Moldova,3,orange,Goal3,Up Right,77.39957143,77.28263593
+MDA,Moldova,4,yellow,Goal4,Down,86.01133333,91.68278123
+MDA,Moldova,5,orange,Goal5,Up Right,71.22,60.84888406
+MDA,Moldova,6,orange,Goal6,Up Right,72.8392,71.82457391
+MDA,Moldova,7,yellow,Goal7,Up Right,88.49633333,87.6735
+MDA,Moldova,8,red,Goal8,Up Right,69.31033333,69.7746442
+MDA,Moldova,9,orange,Goal9,Right,27.36833333,40.05858986
+MDA,Moldova,10,yellow,Goal10,,94.4655,72.3627619
+MDA,Moldova,11,orange,Goal11,Up Right,69.8525,76.44322826
+MDA,Moldova,12,orange,Goal12,,80.07883333,77.62934493
+MDA,Moldova,13,green,Goal13,Up,97.42866667,83.04191304
+MDA,Moldova,14,grey,Goal14,,,58.86582121
+MDA,Moldova,15,red,Goal15,Right,58.424,69.49956449
+MDA,Moldova,16,red,Goal16,Up Right,69.73566667,72.40393841
+MDA,Moldova,17,yellow,Goal17,Up Right,72.64275,63.38646014
+MDG,Madagascar,1,red,Goal1,Down,0,30.34416279
+MDG,Madagascar,2,red,Goal2,Up Right,57.10925,51.97774729
+MDG,Madagascar,3,red,Goal3,Right,42.55714286,44.14016211
+MDG,Madagascar,4,red,Goal4,Down,60.65766667,53.62485676
+MDG,Madagascar,5,orange,Goal5,Up Right,71.2615,53.01121023
+MDG,Madagascar,6,red,Goal6,Right,44.869,52.57983636
+MDG,Madagascar,7,red,Goal7,Right,9.2455,37.27658333
+MDG,Madagascar,8,red,Goal8,Up Right,60.7475,59.98118523
+MDG,Madagascar,9,red,Goal9,Right,8.075333333,18.23981667
+MDG,Madagascar,10,red,Goal10,,27.415,37.33420455
+MDG,Madagascar,11,red,Goal11,Up Right,55.5025,52.72891477
+MDG,Madagascar,12,yellow,Goal12,,94.0335,88.02470152
+MDG,Madagascar,13,green,Goal13,Up,99.262,96.26652652
+MDG,Madagascar,14,red,Goal14,Right,65.641,68.01049167
+MDG,Madagascar,15,red,Goal15,Down,45.7004,66.83500341
+MDG,Madagascar,16,red,Goal16,Right,48.1638,56.05098259
+MDG,Madagascar,17,red,Goal17,Up Right,42.855,51.65295455
+MDV,Maldives,1,green,Goal1,Up,99.683,83.55094444
+MDV,Maldives,2,red,Goal2,Up Right,40.012,59.57284944
+MDV,Maldives,3,orange,Goal3,Up Right,85.59815385,68.4056886
+MDV,Maldives,4,green,Goal4,Up,97.796,88.83601754
+MDV,Maldives,5,red,Goal5,Right,39.10275,59.05722807
+MDV,Maldives,6,orange,Goal6,Up,76.0322,67.25623158
+MDV,Maldives,7,green,Goal7,Up,96.852,73.47686842
+MDV,Maldives,8,yellow,Goal8,Right,77.267,69.19497018
+MDV,Maldives,9,orange,Goal9,Up Right,32.8552,42.18964211
+MDV,Maldives,10,orange,Goal10,,46.4675,54.78688235
+MDV,Maldives,11,yellow,Goal11,Up,86.422,71.62332895
+MDV,Maldives,12,red,Goal12,,61.4705,80.23155263
+MDV,Maldives,13,orange,Goal13,Up Right,86.41266667,83.69120175
+MDV,Maldives,14,red,Goal14,Up Right,67.35016667,60.66508444
+MDV,Maldives,15,orange,Goal15,Down,52.61666667,54.83643246
+MDV,Maldives,16,orange,Goal16,Up,73.095,66.075341
+MDV,Maldives,17,orange,Goal17,Up Right,58.58675,53.23046053
+MEX,Mexico,1,orange,Goal1,Up,90.7065,98.69063514
+MEX,Mexico,2,red,Goal2,Right,61.031,66.75572056
+MEX,Mexico,3,red,Goal3,Up Right,77.10315385,90.90151376
+MEX,Mexico,4,orange,Goal4,Up Right,99.08066667,98.30024837
+MEX,Mexico,5,orange,Goal5,Up Right,78.15525,77.46045721
+MEX,Mexico,6,red,Goal6,Up Right,78.6278,85.63096757
+MEX,Mexico,7,orange,Goal7,Up Right,86.81933333,92.46802703
+MEX,Mexico,8,red,Goal8,Right,65.87466667,80.68087297
+MEX,Mexico,9,red,Goal9,Right,47.353,81.25941441
+MEX,Mexico,10,red,Goal10,Right,10.7635,74.4752027
+MEX,Mexico,11,orange,Goal11,Up Right,81.9275,88.91136712
+MEX,Mexico,12,orange,Goal12,,79.9955,58.05527928
+MEX,Mexico,13,orange,Goal13,Up Right,89.15233333,64.11272072
+MEX,Mexico,14,red,Goal14,Right,57.30816667,63.36054624
+MEX,Mexico,15,red,Goal15,Down,52.011,74.10277568
+MEX,Mexico,16,red,Goal16,Right,54.0882,82.31681502
+MEX,Mexico,17,orange,Goal17,Right,65.22575,65.77382432
+MHL,Marshall Islands,1,grey,Goal1,,,
+MHL,Marshall Islands,2,red,Goal2,Down,,
+MHL,Marshall Islands,3,grey,Goal3,,,
+MHL,Marshall Islands,4,yellow,Goal4,Down,,
+MHL,Marshall Islands,5,orange,Goal5,Down,,
+MHL,Marshall Islands,6,orange,Goal6,Up Right,,
+MHL,Marshall Islands,7,yellow,Goal7,Up Right,,
+MHL,Marshall Islands,8,grey,Goal8,,,
+MHL,Marshall Islands,9,red,Goal9,Right,,
+MHL,Marshall Islands,10,grey,Goal10,,,
+MHL,Marshall Islands,11,grey,Goal11,,,
+MHL,Marshall Islands,12,grey,Goal12,,,
+MHL,Marshall Islands,13,grey,Goal13,,,
+MHL,Marshall Islands,14,grey,Goal14,,,
+MHL,Marshall Islands,15,grey,Goal15,,,
+MHL,Marshall Islands,16,grey,Goal16,,,
+MHL,Marshall Islands,17,orange,Goal17,Up Right,,
+MKD,North Macedonia,1,yellow,Goal1,Up,91.758,91.94543182
+MKD,North Macedonia,2,orange,Goal2,Up Right,64.42985714,61.73419591
+MKD,North Macedonia,3,orange,Goal3,Up Right,78.64453846,77.28263593
+MKD,North Macedonia,4,yellow,Goal4,Right,93.02666667,91.68278123
+MKD,North Macedonia,5,orange,Goal5,Up Right,59.0965,60.84888406
+MKD,North Macedonia,6,orange,Goal6,Up Right,76.353,71.82457391
+MKD,North Macedonia,7,orange,Goal7,Up Right,81.016,87.6735
+MKD,North Macedonia,8,orange,Goal8,Up Right,64.58716667,69.7746442
+MKD,North Macedonia,9,orange,Goal9,Right,35.40583333,40.05858986
+MKD,North Macedonia,10,red,Goal10,,63.313,72.3627619
+MKD,North Macedonia,11,orange,Goal11,Up Right,77.34125,76.44322826
+MKD,North Macedonia,12,orange,Goal12,,76.20683333,77.62934493
+MKD,North Macedonia,13,orange,Goal13,Right,87.826,83.04191304
+MKD,North Macedonia,14,grey,Goal14,,,58.86582121
+MKD,North Macedonia,15,orange,Goal15,Up Right,81.0766,69.49956449
+MKD,North Macedonia,16,orange,Goal16,Up Right,76.2144,72.40393841
+MKD,North Macedonia,17,yellow,Goal17,Up Right,67.85975,63.38646014
+MLI,Mali,1,red,Goal1,Right,22.314,30.34416279
+MLI,Mali,2,red,Goal2,Up Right,60.006,51.97774729
+MLI,Mali,3,red,Goal3,Up Right,35.01392308,44.14016211
+MLI,Mali,4,red,Goal4,Down,11.51733333,53.62485676
+MLI,Mali,5,red,Goal5,Up Right,43.11625,53.01121023
+MLI,Mali,6,red,Goal6,Up Right,59.2642,52.57983636
+MLI,Mali,7,red,Goal7,Up Right,22.9925,37.27658333
+MLI,Mali,8,red,Goal8,Up Right,67.2785,59.98118523
+MLI,Mali,9,red,Goal9,Right,14.24283333,18.23981667
+MLI,Mali,10,orange,Goal10,,74.842,37.33420455
+MLI,Mali,11,red,Goal11,Up Right,56.8715,52.72891477
+MLI,Mali,12,yellow,Goal12,,91.58566667,88.02470152
+MLI,Mali,13,green,Goal13,Up,99.347,96.26652652
+MLI,Mali,14,grey,Goal14,,,68.01049167
+MLI,Mali,15,red,Goal15,Right,56.9692,66.83500341
+MLI,Mali,16,red,Goal16,Right,56.7295,56.05098259
+MLI,Mali,17,red,Goal17,Right,46.64425,51.65295455
+MLT,Malta,1,green,Goal1,Up,99.8285,91.94543182
+MLT,Malta,2,red,Goal2,Up Right,67.044125,61.73419591
+MLT,Malta,3,yellow,Goal3,Up Right,91.48130769,77.28263593
+MLT,Malta,4,green,Goal4,Up,99.21833333,91.68278123
+MLT,Malta,5,orange,Goal5,Up Right,62.2455,60.84888406
+MLT,Malta,6,orange,Goal6,Up Right,75.549,71.82457391
+MLT,Malta,7,green,Goal7,Up,95.29366667,87.6735
+MLT,Malta,8,yellow,Goal8,Up,86.30775,69.7746442
+MLT,Malta,9,orange,Goal9,Up Right,65.61983333,40.05858986
+MLT,Malta,10,yellow,Goal10,,91.899,72.3627619
+MLT,Malta,11,yellow,Goal11,Up,87.04,76.44322826
+MLT,Malta,12,red,Goal12,,43.87033333,77.62934493
+MLT,Malta,13,orange,Goal13,Up Right,65.18266667,83.04191304
+MLT,Malta,14,red,Goal14,Up Right,48.8225,58.86582121
+MLT,Malta,15,yellow,Goal15,Up Right,81.56333333,69.49956449
+MLT,Malta,16,yellow,Goal16,Right,76.046,72.40393841
+MLT,Malta,17,red,Goal17,Up Right,50.6555,63.38646014
+MMR,Myanmar,1,yellow,Goal1,Up,90.1265,83.55094444
+MMR,Myanmar,2,orange,Goal2,Right,61.208875,59.57284944
+MMR,Myanmar,3,red,Goal3,Up Right,55.02378571,68.4056886
+MMR,Myanmar,4,red,Goal4,Up,75.00066667,88.83601754
+MMR,Myanmar,5,orange,Goal5,Right,59.9685,59.05722807
+MMR,Myanmar,6,red,Goal6,Up Right,66.0236,67.25623158
+MMR,Myanmar,7,red,Goal7,Right,52.394,73.47686842
+MMR,Myanmar,8,red,Goal8,Up Right,60.4375,69.19497018
+MMR,Myanmar,9,red,Goal9,Right,23.47616667,42.18964211
+MMR,Myanmar,10,orange,Goal10,,75.846,54.78688235
+MMR,Myanmar,11,red,Goal11,Right,62.0265,71.62332895
+MMR,Myanmar,12,green,Goal12,,94.541,80.23155263
+MMR,Myanmar,13,yellow,Goal13,Up,98.60566667,83.69120175
+MMR,Myanmar,14,red,Goal14,Right,59.90366667,60.66508444
+MMR,Myanmar,15,red,Goal15,Down,55.1676,54.83643246
+MMR,Myanmar,16,red,Goal16,Right,68.77488889,66.075341
+MMR,Myanmar,17,red,Goal17,Up Right,45.57775,53.23046053
+MNE,Montenegro,1,yellow,Goal1,Up Right,93.666,91.94543182
+MNE,Montenegro,2,red,Goal2,Right,50.29542857,61.73419591
+MNE,Montenegro,3,orange,Goal3,Up Right,76.84535714,77.28263593
+MNE,Montenegro,4,yellow,Goal4,Up Right,95.367,91.68278123
+MNE,Montenegro,5,orange,Goal5,Right,52.63525,60.84888406
+MNE,Montenegro,6,orange,Goal6,Up,69.834,71.82457391
+MNE,Montenegro,7,yellow,Goal7,Up Right,85.72733333,87.6735
+MNE,Montenegro,8,orange,Goal8,Up Right,70.2276,69.7746442
+MNE,Montenegro,9,orange,Goal9,Up Right,45.9585,40.05858986
+MNE,Montenegro,10,red,Goal10,,55.3735,72.3627619
+MNE,Montenegro,11,orange,Goal11,Right,71.9335,76.44322826
+MNE,Montenegro,12,red,Goal12,,59.92766667,77.62934493
+MNE,Montenegro,13,orange,Goal13,Right,85.16033333,83.04191304
+MNE,Montenegro,14,red,Goal14,Right,37.7902,58.86582121
+MNE,Montenegro,15,red,Goal15,Down,52.25525,69.49956449
+MNE,Montenegro,16,orange,Goal16,Up Right,75.71744444,72.40393841
+MNE,Montenegro,17,yellow,Goal17,Up,80.79266667,63.38646014
+MNG,Mongolia,1,yellow,Goal1,Up,96.8105,83.55094444
+MNG,Mongolia,2,red,Goal2,Right,41.55128571,59.57284944
+MNG,Mongolia,3,red,Goal3,Up Right,64.83178571,68.4056886
+MNG,Mongolia,4,green,Goal4,Up,98.72233333,88.83601754
+MNG,Mongolia,5,orange,Goal5,Up Right,65.20575,59.05722807
+MNG,Mongolia,6,red,Goal6,Up Right,65.1768,67.25623158
+MNG,Mongolia,7,red,Goal7,Up Right,60.49733333,73.47686842
+MNG,Mongolia,8,orange,Goal8,Up Right,72.00166667,69.19497018
+MNG,Mongolia,9,red,Goal9,Right,29.51216667,42.18964211
+MNG,Mongolia,10,orange,Goal10,,70.0385,54.78688235
+MNG,Mongolia,11,red,Goal11,Right,47.8615,71.62332895
+MNG,Mongolia,12,red,Goal12,,61.93766667,80.23155263
+MNG,Mongolia,13,red,Goal13,Right,41.42066667,83.69120175
+MNG,Mongolia,14,grey,Goal14,,,60.66508444
+MNG,Mongolia,15,red,Goal15,Right,73.485,54.83643246
+MNG,Mongolia,16,red,Goal16,Right,66.4858,66.075341
+MNG,Mongolia,17,yellow,Goal17,Up Right,68.16075,53.23046053
+MOZ,Mozambique,1,red,Goal1,Right,8.182,30.34416279
+MOZ,Mozambique,2,red,Goal2,Right,45.31728571,51.97774729
+MOZ,Mozambique,3,red,Goal3,Up Right,36.50864286,44.14016211
+MOZ,Mozambique,4,red,Goal4,Up Right,49.77366667,53.62485676
+MOZ,Mozambique,5,red,Goal5,Up Right,64.902,53.01121023
+MOZ,Mozambique,6,red,Goal6,Up Right,49.5802,52.57983636
+MOZ,Mozambique,7,red,Goal7,Right,39.94133333,37.27658333
+MOZ,Mozambique,8,red,Goal8,Up,58.69583333,59.98118523
+MOZ,Mozambique,9,red,Goal9,Down,10.50466667,18.23981667
+MOZ,Mozambique,10,red,Goal10,,12.7885,37.33420455
+MOZ,Mozambique,11,red,Goal11,Up Right,57.419,52.72891477
+MOZ,Mozambique,12,green,Goal12,,96.11916667,88.02470152
+MOZ,Mozambique,13,yellow,Goal13,Up,98.58833333,96.26652652
+MOZ,Mozambique,14,red,Goal14,Right,68.37133333,68.01049167
+MOZ,Mozambique,15,red,Goal15,Down,52.9928,66.83500341
+MOZ,Mozambique,16,red,Goal16,Right,55.01477778,56.05098259
+MOZ,Mozambique,17,orange,Goal17,Up Right,63.229,51.65295455
+MRT,Mauritania,1,orange,Goal1,Down,70.742,30.34416279
+MRT,Mauritania,2,red,Goal2,Right,43.19457143,51.97774729
+MRT,Mauritania,3,red,Goal3,Right,41.84015385,44.14016211
+MRT,Mauritania,4,red,Goal4,Up Right,39.399,53.62485676
+MRT,Mauritania,5,red,Goal5,Right,32.27375,53.01121023
+MRT,Mauritania,6,red,Goal6,Up Right,58.3254,52.57983636
+MRT,Mauritania,7,red,Goal7,Right,42.2215,37.27658333
+MRT,Mauritania,8,red,Goal8,Right,45.02616667,59.98118523
+MRT,Mauritania,9,red,Goal9,Right,17.47483333,18.23981667
+MRT,Mauritania,10,orange,Goal10,,81.838,37.33420455
+MRT,Mauritania,11,red,Goal11,Right,40.36025,52.72891477
+MRT,Mauritania,12,yellow,Goal12,,89.013,88.02470152
+MRT,Mauritania,13,green,Goal13,Up,95.74,96.26652652
+MRT,Mauritania,14,red,Goal14,Right,65.95166667,68.01049167
+MRT,Mauritania,15,orange,Goal15,Up Right,76.103,66.83500341
+MRT,Mauritania,16,red,Goal16,Right,52.6346,56.05098259
+MRT,Mauritania,17,red,Goal17,Right,51.45066667,51.65295455
+MUS,Mauritius,1,green,Goal1,Up,98.3815,30.34416279
+MUS,Mauritius,2,orange,Goal2,Right,73.732,51.97774729
+MUS,Mauritius,3,orange,Goal3,Up Right,78.11314286,44.14016211
+MUS,Mauritius,4,yellow,Goal4,Up,94.02033333,53.62485676
+MUS,Mauritius,5,orange,Goal5,Up Right,53.6565,53.01121023
+MUS,Mauritius,6,red,Goal6,Up Right,62.7606,52.57983636
+MUS,Mauritius,7,yellow,Goal7,Up Right,88.96933333,37.27658333
+MUS,Mauritius,8,orange,Goal8,Right,71.68716667,59.98118523
+MUS,Mauritius,9,orange,Goal9,Up Right,37.10416667,18.23981667
+MUS,Mauritius,10,red,Goal10,,46.2545,37.33420455
+MUS,Mauritius,11,yellow,Goal11,Up Right,92.60066667,52.72891477
+MUS,Mauritius,12,red,Goal12,,58.04583333,88.02470152
+MUS,Mauritius,13,orange,Goal13,Right,76.45266667,96.26652652
+MUS,Mauritius,14,red,Goal14,Right,53.05233333,68.01049167
+MUS,Mauritius,15,red,Goal15,Down,26.4265,66.83500341
+MUS,Mauritius,16,orange,Goal16,Right,72.932625,56.05098259
+MUS,Mauritius,17,orange,Goal17,Right,49.90433333,51.65295455
+MWI,Malawi,1,red,Goal1,Down,0,30.34416279
+MWI,Malawi,2,red,Goal2,Right,64.00125,51.97774729
+MWI,Malawi,3,red,Goal3,Up Right,49.95907143,44.14016211
+MWI,Malawi,4,red,Goal4,Up,50.31,53.62485676
+MWI,Malawi,5,orange,Goal5,Up,75.092,53.01121023
+MWI,Malawi,6,red,Goal6,Up Right,52.043,52.57983636
+MWI,Malawi,7,red,Goal7,Right,5.1615,37.27658333
+MWI,Malawi,8,red,Goal8,Up Right,58.29066667,59.98118523
+MWI,Malawi,9,red,Goal9,Right,11.66433333,18.23981667
+MWI,Malawi,10,red,Goal10,,23.756,37.33420455
+MWI,Malawi,11,orange,Goal11,Right,55.75375,52.72891477
+MWI,Malawi,12,yellow,Goal12,,94.0065,88.02470152
+MWI,Malawi,13,green,Goal13,Up,99.42,96.26652652
+MWI,Malawi,14,grey,Goal14,,,68.01049167
+MWI,Malawi,15,red,Goal15,Right,55.0058,66.83500341
+MWI,Malawi,16,red,Goal16,Up Right,56.4485,56.05098259
+MWI,Malawi,17,orange,Goal17,Right,54.42775,51.65295455
+MYS,Malaysia,1,green,Goal1,Up,99.9805,83.55094444
+MYS,Malaysia,2,red,Goal2,Right,47.363625,59.57284944
+MYS,Malaysia,3,red,Goal3,Up Right,79.52828571,68.4056886
+MYS,Malaysia,4,yellow,Goal4,Right,91.69666667,88.83601754
+MYS,Malaysia,5,red,Goal5,Up Right,57.14975,59.05722807
+MYS,Malaysia,6,orange,Goal6,Up Right,77.5482,67.25623158
+MYS,Malaysia,7,yellow,Goal7,Up,90.685,73.47686842
+MYS,Malaysia,8,yellow,Goal8,Up,75.775,69.19497018
+MYS,Malaysia,9,yellow,Goal9,Up,72.369,42.18964211
+MYS,Malaysia,10,red,Goal10,,44.7205,54.78688235
+MYS,Malaysia,11,yellow,Goal11,Up Right,84.418,71.62332895
+MYS,Malaysia,12,orange,Goal12,,75.26933333,80.23155263
+MYS,Malaysia,13,orange,Goal13,Right,76.49466667,83.69120175
+MYS,Malaysia,14,red,Goal14,Right,63.865,60.66508444
+MYS,Malaysia,15,red,Goal15,Down,39.7548,54.83643246
+MYS,Malaysia,16,yellow,Goal16,Up Right,71.680625,66.075341
+MYS,Malaysia,17,orange,Goal17,Right,56.74575,53.23046053
+NAM,Namibia,1,red,Goal1,Down,50.8985,30.34416279
+NAM,Namibia,2,red,Goal2,Right,49.629875,51.97774729
+NAM,Namibia,3,red,Goal3,Up Right,47.95828571,44.14016211
+NAM,Namibia,4,yellow,Goal4,,86.49466667,53.62485676
+NAM,Namibia,5,green,Goal5,Up,86.79725,53.01121023
+NAM,Namibia,6,red,Goal6,Right,59.8482,52.57983636
+NAM,Namibia,7,red,Goal7,Right,44.883,37.27658333
+NAM,Namibia,8,red,Goal8,Up Right,61.61216667,59.98118523
+NAM,Namibia,9,orange,Goal9,Up Right,30.51083333,18.23981667
+NAM,Namibia,10,red,Goal10,,0,37.33420455
+NAM,Namibia,11,red,Goal11,Down,65.073,52.72891477
+NAM,Namibia,12,red,Goal12,,73.724,88.02470152
+NAM,Namibia,13,yellow,Goal13,Up Right,85.06933333,96.26652652
+NAM,Namibia,14,yellow,Goal14,Up Right,80.27983333,68.01049167
+NAM,Namibia,15,yellow,Goal15,Up,86.0408,66.83500341
+NAM,Namibia,16,red,Goal16,Right,67.07811111,56.05098259
+NAM,Namibia,17,yellow,Goal17,Up Right,74.2095,51.65295455
+NER,Niger,1,red,Goal1,Right,21.894,30.34416279
+NER,Niger,2,red,Goal2,Right,44.035,51.97774729
+NER,Niger,3,red,Goal3,Up Right,40.51478571,44.14016211
+NER,Niger,4,red,Goal4,Down,3.733666667,53.62485676
+NER,Niger,5,red,Goal5,Right,36.378,53.01121023
+NER,Niger,6,red,Goal6,Right,44.2284,52.57983636
+NER,Niger,7,red,Goal7,Right,14.03233333,37.27658333
+NER,Niger,8,red,Goal8,Up Right,64.16433333,59.98118523
+NER,Niger,9,red,Goal9,Right,4.013666667,18.23981667
+NER,Niger,10,orange,Goal10,,75.537,37.33420455
+NER,Niger,11,red,Goal11,Right,47.77725,52.72891477
+NER,Niger,12,yellow,Goal12,,92.7098,88.02470152
+NER,Niger,13,green,Goal13,Up,99.395,96.26652652
+NER,Niger,14,grey,Goal14,,,68.01049167
+NER,Niger,15,red,Goal15,Right,68.7528,66.83500341
+NER,Niger,16,red,Goal16,Right,55.96233333,56.05098259
+NER,Niger,17,orange,Goal17,Right,60.856,51.65295455
+NGA,Nigeria,1,red,Goal1,Down,20.503,30.34416279
+NGA,Nigeria,2,red,Goal2,Right,60.130625,51.97774729
+NGA,Nigeria,3,red,Goal3,Right,28.90371429,44.14016211
+NGA,Nigeria,4,red,Goal4,,38.75066667,53.62485676
+NGA,Nigeria,5,red,Goal5,Right,38.2065,53.01121023
+NGA,Nigeria,6,red,Goal6,Up Right,56.8784,52.57983636
+NGA,Nigeria,7,red,Goal7,Right,34.60866667,37.27658333
+NGA,Nigeria,8,red,Goal8,Right,55.6692,59.98118523
+NGA,Nigeria,9,red,Goal9,Right,33.435,18.23981667
+NGA,Nigeria,10,red,Goal10,,20.212,37.33420455
+NGA,Nigeria,11,red,Goal11,Down,26.74,52.72891477
+NGA,Nigeria,12,green,Goal12,,93.42683333,88.02470152
+NGA,Nigeria,13,green,Goal13,Up,97.79566667,96.26652652
+NGA,Nigeria,14,red,Goal14,Right,62.39233333,68.01049167
+NGA,Nigeria,15,orange,Goal15,Right,77.2926,66.83500341
+NGA,Nigeria,16,red,Goal16,Right,40.7573,56.05098259
+NGA,Nigeria,17,orange,Goal17,Right,46.03333333,51.65295455
+NIC,Nicaragua,1,orange,Goal1,Down,81.659,78.88736364
+NIC,Nicaragua,2,red,Goal2,Up Right,54.50025,57.59063199
+NIC,Nicaragua,3,red,Goal3,Up Right,77.01735714,74.52407979
+NIC,Nicaragua,4,orange,Goal4,,78.567,84.88684783
+NIC,Nicaragua,5,yellow,Goal5,Up Right,82.3635,69.22095652
+NIC,Nicaragua,6,red,Goal6,Up Right,68.0172,73.03634783
+NIC,Nicaragua,7,orange,Goal7,Up Right,73.223,84.79700725
+NIC,Nicaragua,8,red,Goal8,Right,59.555,68.38165797
+NIC,Nicaragua,9,red,Goal9,Right,14.564,31.41842826
+NIC,Nicaragua,10,red,Goal10,,23.7815,27.90167647
+NIC,Nicaragua,11,orange,Goal11,Up Right,83.3795,77.0875942
+NIC,Nicaragua,12,yellow,Goal12,,89.20366667,76.72728261
+NIC,Nicaragua,13,green,Goal13,Up,96.941,85.37328261
+NIC,Nicaragua,14,red,Goal14,Right,62.00833333,62.78111429
+NIC,Nicaragua,15,orange,Goal15,Down,68.9592,60.90421739
+NIC,Nicaragua,16,red,Goal16,Right,55.8908,60.88893442
+NIC,Nicaragua,17,orange,Goal17,Up Right,57.28175,64.2951558
+NLD,Netherlands,1,green,Goal1,Up,99.5695,98.69063514
+NLD,Netherlands,2,red,Goal2,Up Right,66.262125,66.75572056
+NLD,Netherlands,3,yellow,Goal3,Up Right,95.5905,90.90151376
+NLD,Netherlands,4,yellow,Goal4,Up Right,99.34070833,98.30024837
+NLD,Netherlands,5,yellow,Goal5,Up Right,81.4615,77.46045721
+NLD,Netherlands,6,yellow,Goal6,Up Right,89.0152,85.63096757
+NLD,Netherlands,7,orange,Goal7,Up Right,92.966,92.46802703
+NLD,Netherlands,8,yellow,Goal8,Up,86.88483333,80.68087297
+NLD,Netherlands,9,yellow,Goal9,Up,91.93733333,81.25941441
+NLD,Netherlands,10,yellow,Goal10,Up,94.0445,74.4752027
+NLD,Netherlands,11,yellow,Goal11,Up,96.54975,88.91136712
+NLD,Netherlands,12,red,Goal12,,49.0625,58.05527928
+NLD,Netherlands,13,red,Goal13,Up Right,55.165,64.11272072
+NLD,Netherlands,14,red,Goal14,Up Right,56.05383333,63.36054624
+NLD,Netherlands,15,orange,Goal15,Up,84.1302,74.10277568
+NLD,Netherlands,16,orange,Goal16,Up,85.2815,82.31681502
+NLD,Netherlands,17,red,Goal17,Up Right,63.17375,65.77382432
+NOR,Norway,1,green,Goal1,Up,99.4705,98.69063514
+NOR,Norway,2,red,Goal2,Right,60.46425,66.75572056
+NOR,Norway,3,green,Goal3,Up,96.82384615,90.90151376
+NOR,Norway,4,orange,Goal4,Up Right,99.44404167,98.30024837
+NOR,Norway,5,green,Goal5,Up,88.88575,77.46045721
+NOR,Norway,6,orange,Goal6,Up Right,80.4042,85.63096757
+NOR,Norway,7,green,Goal7,Up,98.887,92.46802703
+NOR,Norway,8,yellow,Goal8,Up Right,87.65833333,80.68087297
+NOR,Norway,9,yellow,Goal9,Up,91.491,81.25941441
+NOR,Norway,10,green,Goal10,Up,100,74.4752027
+NOR,Norway,11,yellow,Goal11,Up,93.194,88.91136712
+NOR,Norway,12,red,Goal12,,44.54066667,58.05527928
+NOR,Norway,13,red,Goal13,Up Right,20.18333333,64.11272072
+NOR,Norway,14,orange,Goal14,Right,73.83916667,63.36054624
+NOR,Norway,15,red,Goal15,Up Right,73.4716,74.10277568
+NOR,Norway,16,yellow,Goal16,Up,88.1894,82.31681502
+NOR,Norway,17,green,Goal17,Up,96.698,65.77382432
+NPL,Nepal,1,orange,Goal1,Right,62.796,83.55094444
+NPL,Nepal,2,red,Goal2,Up Right,59.12114286,59.57284944
+NPL,Nepal,3,red,Goal3,Up Right,58.60521429,68.4056886
+NPL,Nepal,4,yellow,Goal4,Up Right,92.48233333,88.83601754
+NPL,Nepal,5,orange,Goal5,Up Right,67.682,59.05722807
+NPL,Nepal,6,red,Goal6,Up,67.5396,67.25623158
+NPL,Nepal,7,red,Goal7,Right,60.36033333,73.47686842
+NPL,Nepal,8,orange,Goal8,Up,73.54283333,69.19497018
+NPL,Nepal,9,red,Goal9,Up Right,28.66383333,42.18964211
+NPL,Nepal,10,orange,Goal10,,79.3705,54.78688235
+NPL,Nepal,11,red,Goal11,Right,44.6995,71.62332895
+NPL,Nepal,12,green,Goal12,,94.16916667,80.23155263
+NPL,Nepal,13,green,Goal13,Up,98.41933333,83.69120175
+NPL,Nepal,14,grey,Goal14,,,60.66508444
+NPL,Nepal,15,red,Goal15,Down,68.0638,54.83643246
+NPL,Nepal,16,red,Goal16,Right,58.42322222,66.075341
+NPL,Nepal,17,orange,Goal17,Up Right,56.2105,53.23046053
+NRU,Nauru,1,grey,Goal1,,,
+NRU,Nauru,2,red,Goal2,Right,,
+NRU,Nauru,3,grey,Goal3,,,
+NRU,Nauru,4,yellow,Goal4,Up,,
+NRU,Nauru,5,red,Goal5,Right,,
+NRU,Nauru,6,red,Goal6,Up Right,,
+NRU,Nauru,7,green,Goal7,Up,,
+NRU,Nauru,8,grey,Goal8,,,
+NRU,Nauru,9,red,Goal9,Right,,
+NRU,Nauru,10,yellow,Goal10,,,
+NRU,Nauru,11,orange,Goal11,Up Right,,
+NRU,Nauru,12,grey,Goal12,,,
+NRU,Nauru,13,yellow,Goal13,Right,,
+NRU,Nauru,14,red,Goal14,Up Right,,
+NRU,Nauru,15,grey,Goal15,,,
+NRU,Nauru,16,grey,Goal16,,,
+NRU,Nauru,17,grey,Goal17,,,
+NZL,New Zealand,1,yellow,Goal1,Up,99.9735,98.69063514
+NZL,New Zealand,2,orange,Goal2,Up Right,66.61142857,66.75572056
+NZL,New Zealand,3,yellow,Goal3,Up Right,93.12271429,90.90151376
+NZL,New Zealand,4,yellow,Goal4,Up Right,98.86002315,98.30024837
+NZL,New Zealand,5,yellow,Goal5,Up,86.13225,77.46045721
+NZL,New Zealand,6,yellow,Goal6,Up,92.3374,85.63096757
+NZL,New Zealand,7,green,Goal7,Up,95.83066667,92.46802703
+NZL,New Zealand,8,yellow,Goal8,Up,86.91366667,80.68087297
+NZL,New Zealand,9,yellow,Goal9,Up Right,87.9205,81.25941441
+NZL,New Zealand,10,orange,Goal10,,66.875,74.4752027
+NZL,New Zealand,11,yellow,Goal11,Up Right,87.17525,88.91136712
+NZL,New Zealand,12,red,Goal12,,44.463,58.05527928
+NZL,New Zealand,13,red,Goal13,Up Right,66.902,64.11272072
+NZL,New Zealand,14,orange,Goal14,Right,57.17766667,63.36054624
+NZL,New Zealand,15,red,Goal15,Down,50.5754,74.10277568
+NZL,New Zealand,16,orange,Goal16,Up Right,92.3054,82.31681502
+NZL,New Zealand,17,red,Goal17,Up Right,72.048,65.77382432
+OMN,Oman,1,grey,Goal1,,,92.3215
+OMN,Oman,2,red,Goal2,Right,62.097,59.18466592
+OMN,Oman,3,orange,Goal3,Up Right,85.13414286,75.86853159
+OMN,Oman,4,green,Goal4,Up,97.13033333,84.10655278
+OMN,Oman,5,red,Goal5,Up Right,39.1275,44.58975
+OMN,Oman,6,red,Goal6,Up Right,48.9,59.0447
+OMN,Oman,7,yellow,Goal7,Up Right,87.40233333,88.10620833
+OMN,Oman,8,orange,Goal8,Up,70.41525,62.06568854
+OMN,Oman,9,orange,Goal9,Up Right,56.46916667,47.49391042
+OMN,Oman,10,grey,Goal10,,,66.17809091
+OMN,Oman,11,orange,Goal11,Right,76.35166667,58.92827083
+OMN,Oman,12,orange,Goal12,,71.53433333,76.84214583
+OMN,Oman,13,red,Goal13,Up Right,57.99466667,71.47551042
+OMN,Oman,14,red,Goal14,Right,74.41316667,62.77661458
+OMN,Oman,15,orange,Goal15,Down,59.11933333,57.3562125
+OMN,Oman,16,yellow,Goal16,Up Right,80.3685,69.0938314
+OMN,Oman,17,yellow,Goal17,Up Right,67.33166667,56.23125521
+PAK,Pakistan,1,orange,Goal1,Up Right,71.241,83.55094444
+PAK,Pakistan,2,red,Goal2,Right,51.03,59.57284944
+PAK,Pakistan,3,red,Goal3,Up Right,50.09828571,68.4056886
+PAK,Pakistan,4,red,Goal4,Right,61.816,88.83601754
+PAK,Pakistan,5,red,Goal5,Right,28.6825,59.05722807
+PAK,Pakistan,6,red,Goal6,Up Right,48.2206,67.25623158
+PAK,Pakistan,7,red,Goal7,Right,62.50466667,73.47686842
+PAK,Pakistan,8,red,Goal8,Up Right,50.4804,69.19497018
+PAK,Pakistan,9,red,Goal9,Right,26.83283333,42.18964211
+PAK,Pakistan,10,red,Goal10,,63.4225,54.78688235
+PAK,Pakistan,11,red,Goal11,Right,50.367,71.62332895
+PAK,Pakistan,12,yellow,Goal12,,91.22316667,80.23155263
+PAK,Pakistan,13,green,Goal13,Up,97.72033333,83.69120175
+PAK,Pakistan,14,red,Goal14,Right,61.07766667,60.66508444
+PAK,Pakistan,15,red,Goal15,Down,66.7812,54.83643246
+PAK,Pakistan,16,red,Goal16,Up Right,52.5298,66.075341
+PAK,Pakistan,17,red,Goal17,Up Right,47.2675,53.23046053
+PAN,Panama,1,yellow,Goal1,Up Right,93.584,78.88736364
+PAN,Panama,2,red,Goal2,Up Right,50.402125,57.59063199
+PAN,Panama,3,orange,Goal3,Up Right,79.44553846,74.52407979
+PAN,Panama,4,orange,Goal4,,80.48633333,84.88684783
+PAN,Panama,5,orange,Goal5,Up Right,65.409,69.22095652
+PAN,Panama,6,orange,Goal6,Up,78.512,73.03634783
+PAN,Panama,7,green,Goal7,Up,91.49366667,84.79700725
+PAN,Panama,8,red,Goal8,Up Right,72.26316667,68.38165797
+PAN,Panama,9,red,Goal9,Up Right,39.26783333,31.41842826
+PAN,Panama,10,red,Goal10,,14.6945,27.90167647
+PAN,Panama,11,yellow,Goal11,Up,88.2065,77.0875942
+PAN,Panama,12,orange,Goal12,,76.54016667,76.72728261
+PAN,Panama,13,orange,Goal13,Right,84.85366667,85.37328261
+PAN,Panama,14,red,Goal14,Up Right,66.8085,62.78111429
+PAN,Panama,15,red,Goal15,Down,59.367,60.90421739
+PAN,Panama,16,red,Goal16,Up Right,65.9807,60.88893442
+PAN,Panama,17,orange,Goal17,Up Right,48.38433333,64.2951558
+PER,Peru,1,yellow,Goal1,Right,88.06,78.88736364
+PER,Peru,2,orange,Goal2,Right,69.976375,57.59063199
+PER,Peru,3,red,Goal3,Up Right,79.89114286,74.52407979
+PER,Peru,4,green,Goal4,Up,98.11266667,84.88684783
+PER,Peru,5,orange,Goal5,Up Right,67.1655,69.22095652
+PER,Peru,6,orange,Goal6,Up Right,80.3272,73.03634783
+PER,Peru,7,yellow,Goal7,Up,84.45733333,84.79700725
+PER,Peru,8,red,Goal8,Right,66.20016667,68.38165797
+PER,Peru,9,orange,Goal9,Right,36.42683333,31.41842826
+PER,Peru,10,red,Goal10,,30.256,27.90167647
+PER,Peru,11,orange,Goal11,Up Right,72.362,77.0875942
+PER,Peru,12,yellow,Goal12,,86.651,76.72728261
+PER,Peru,13,yellow,Goal13,Up,93.85333333,85.37328261
+PER,Peru,14,red,Goal14,Up Right,76.39116667,62.78111429
+PER,Peru,15,red,Goal15,Right,58.2252,60.90421739
+PER,Peru,16,red,Goal16,Right,60.623,60.88893442
+PER,Peru,17,orange,Goal17,Right,59.53175,64.2951558
+PHL,Philippines,1,orange,Goal1,Up Right,69.707,83.55094444
+PHL,Philippines,2,red,Goal2,Up Right,63.8545,59.57284944
+PHL,Philippines,3,red,Goal3,Up Right,56.50664286,68.4056886
+PHL,Philippines,4,yellow,Goal4,Down,89.31933333,88.83601754
+PHL,Philippines,5,orange,Goal5,Right,64.0185,59.05722807
+PHL,Philippines,6,orange,Goal6,Up Right,68.8012,67.25623158
+PHL,Philippines,7,orange,Goal7,Right,70.90266667,73.47686842
+PHL,Philippines,8,red,Goal8,Up Right,62.75133333,69.19497018
+PHL,Philippines,9,red,Goal9,Up Right,37.734,42.18964211
+PHL,Philippines,10,red,Goal10,,23.8445,54.78688235
+PHL,Philippines,11,red,Goal11,Right,58.2235,71.62332895
+PHL,Philippines,12,green,Goal12,,91.8675,80.23155263
+PHL,Philippines,13,yellow,Goal13,Up,95.89633333,83.69120175
+PHL,Philippines,14,red,Goal14,Right,71.77283333,60.66508444
+PHL,Philippines,15,red,Goal15,Down,55.9078,54.83643246
+PHL,Philippines,16,red,Goal16,Right,61.9203,66.075341
+PHL,Philippines,17,orange,Goal17,Right,53.591,53.23046053
+PLW,Palau,1,grey,Goal1,,,
+PLW,Palau,2,orange,Goal2,Right,,
+PLW,Palau,3,grey,Goal3,,,
+PLW,Palau,4,yellow,Goal4,,,
+PLW,Palau,5,grey,Goal5,,,
+PLW,Palau,6,yellow,Goal6,Up,,
+PLW,Palau,7,green,Goal7,Up,,
+PLW,Palau,8,grey,Goal8,,,
+PLW,Palau,9,red,Goal9,Up Right,,
+PLW,Palau,10,grey,Goal10,,,
+PLW,Palau,11,yellow,Goal11,Up,,
+PLW,Palau,12,grey,Goal12,,,
+PLW,Palau,13,grey,Goal13,,,
+PLW,Palau,14,orange,Goal14,Up Right,,
+PLW,Palau,15,red,Goal15,Down,,
+PLW,Palau,16,grey,Goal16,,,
+PLW,Palau,17,grey,Goal17,,,
+PNG,Papua New Guinea,1,red,Goal1,Down,29.0085,57.553
+PNG,Papua New Guinea,2,red,Goal2,Right,29.5572,44.31975714
+PNG,Papua New Guinea,3,red,Goal3,Right,45.642,60.50539316
+PNG,Papua New Guinea,4,red,Goal4,,59.79066667,77.23033333
+PNG,Papua New Guinea,5,red,Goal5,Right,48.287,47.70455556
+PNG,Papua New Guinea,6,red,Goal6,Right,40.9736,56.52025
+PNG,Papua New Guinea,7,red,Goal7,Up Right,33.261,45.539
+PNG,Papua New Guinea,8,red,Goal8,Up,73.33725,77.72163889
+PNG,Papua New Guinea,9,red,Goal9,Right,6.1875,25.78646667
+PNG,Papua New Guinea,10,red,Goal10,,28.066,44.65183333
+PNG,Papua New Guinea,11,orange,Goal11,Right,73.3275,84.03016667
+PNG,Papua New Guinea,12,yellow,Goal12,,86.39983333,77.65833333
+PNG,Papua New Guinea,13,green,Goal13,Up,95.605,93.96744444
+PNG,Papua New Guinea,14,red,Goal14,Right,64.63833333,68.60755556
+PNG,Papua New Guinea,15,orange,Goal15,Down,63.78775,53.58511667
+PNG,Papua New Guinea,16,red,Goal16,Right,55.0355,69.65130556
+PNG,Papua New Guinea,17,red,Goal17,Up Right,39.7255,52.52916667
+POL,Poland,1,green,Goal1,Up,99.4655,98.69063514
+POL,Poland,2,orange,Goal2,Up Right,68.159875,66.75572056
+POL,Poland,3,yellow,Goal3,Up Right,85.26992308,90.90151376
+POL,Poland,4,yellow,Goal4,Up,98.29866667,98.30024837
+POL,Poland,5,orange,Goal5,Up Right,72.18,77.46045721
+POL,Poland,6,yellow,Goal6,Up,84.9112,85.63096757
+POL,Poland,7,red,Goal7,Right,89.26566667,92.46802703
+POL,Poland,8,yellow,Goal8,Up Right,84.40533333,80.68087297
+POL,Poland,9,orange,Goal9,Up,71.76,81.25941441
+POL,Poland,10,orange,Goal10,Right,75.4285,74.4752027
+POL,Poland,11,orange,Goal11,Right,82.428,88.91136712
+POL,Poland,12,orange,Goal12,,75.86933333,58.05527928
+POL,Poland,13,red,Goal13,Right,75.097,64.11272072
+POL,Poland,14,red,Goal14,Up Right,65.122,63.36054624
+POL,Poland,15,green,Goal15,Up,92.32,74.10277568
+POL,Poland,16,yellow,Goal16,Up Right,81.4482,82.31681502
+POL,Poland,17,red,Goal17,Right,62.381,65.77382432
+PRK,"Korea, Dem. Rep.",1,grey,Goal1,,,
+PRK,"Korea, Dem. Rep.",2,red,Goal2,Right,,
+PRK,"Korea, Dem. Rep.",3,red,Goal3,Up Right,,
+PRK,"Korea, Dem. Rep.",4,green,Goal4,,,
+PRK,"Korea, Dem. Rep.",5,yellow,Goal5,Up Right,,
+PRK,"Korea, Dem. Rep.",6,orange,Goal6,Up Right,,
+PRK,"Korea, Dem. Rep.",7,red,Goal7,Up Right,,
+PRK,"Korea, Dem. Rep.",8,orange,Goal8,Up,,
+PRK,"Korea, Dem. Rep.",9,red,Goal9,Right,,
+PRK,"Korea, Dem. Rep.",10,grey,Goal10,,,
+PRK,"Korea, Dem. Rep.",11,orange,Goal11,Right,,
+PRK,"Korea, Dem. Rep.",12,green,Goal12,,,
+PRK,"Korea, Dem. Rep.",13,green,Goal13,Up,,
+PRK,"Korea, Dem. Rep.",14,red,Goal14,Right,,
+PRK,"Korea, Dem. Rep.",15,red,Goal15,Right,,
+PRK,"Korea, Dem. Rep.",16,red,Goal16,Right,,
+PRK,"Korea, Dem. Rep.",17,grey,Goal17,,,
+PRT,Portugal,1,yellow,Goal1,Up,99.3815,98.69063514
+PRT,Portugal,2,red,Goal2,Up Right,64.1045,66.75572056
+PRT,Portugal,3,yellow,Goal3,Up Right,90.95476923,90.90151376
+PRT,Portugal,4,yellow,Goal4,Up Right,99.00333333,98.30024837
+PRT,Portugal,5,yellow,Goal5,Up,83.27275,77.46045721
+PRT,Portugal,6,yellow,Goal6,Up,84.1368,85.63096757
+PRT,Portugal,7,green,Goal7,Up,95.02266667,92.46802703
+PRT,Portugal,8,yellow,Goal8,Up,82.15533333,80.68087297
+PRT,Portugal,9,orange,Goal9,Up Right,75.41766667,81.25941441
+PRT,Portugal,10,orange,Goal10,Up Right,69.697,74.4752027
+PRT,Portugal,11,yellow,Goal11,Up Right,88.422,88.91136712
+PRT,Portugal,12,orange,Goal12,,63.0565,58.05527928
+PRT,Portugal,13,red,Goal13,Up Right,75.81966667,64.11272072
+PRT,Portugal,14,red,Goal14,Down,43.065,63.36054624
+PRT,Portugal,15,red,Goal15,Down,72.673,74.10277568
+PRT,Portugal,16,yellow,Goal16,Up Right,88.0677,82.31681502
+PRT,Portugal,17,orange,Goal17,Up Right,62.67875,65.77382432
+PRY,Paraguay,1,yellow,Goal1,Up Right,94.0245,78.88736364
+PRY,Paraguay,2,orange,Goal2,Up Right,73.7635,57.59063199
+PRY,Paraguay,3,red,Goal3,Up Right,72.98285714,74.52407979
+PRY,Paraguay,4,orange,Goal4,,80.396,84.88684783
+PRY,Paraguay,5,orange,Goal5,Up Right,66.94425,69.22095652
+PRY,Paraguay,6,orange,Goal6,Up,77.2152,73.03634783
+PRY,Paraguay,7,yellow,Goal7,Up Right,87.742,84.79700725
+PRY,Paraguay,8,red,Goal8,Right,72.3782,68.38165797
+PRY,Paraguay,9,red,Goal9,Up Right,30.62216667,31.41842826
+PRY,Paraguay,10,red,Goal10,,17.5705,27.90167647
+PRY,Paraguay,11,orange,Goal11,Up Right,81.5595,77.0875942
+PRY,Paraguay,12,orange,Goal12,,75.41833333,76.72728261
+PRY,Paraguay,13,yellow,Goal13,Up,87.237,85.37328261
+PRY,Paraguay,14,grey,Goal14,,,62.78111429
+PRY,Paraguay,15,red,Goal15,Right,51.6936,60.90421739
+PRY,Paraguay,16,red,Goal16,Up Right,51.88033333,60.88893442
+PRY,Paraguay,17,orange,Goal17,Right,53.80625,64.2951558
+QAT,Qatar,1,grey,Goal1,,,92.3215
+QAT,Qatar,2,red,Goal2,Up Right,71.82871429,59.18466592
+QAT,Qatar,3,yellow,Goal3,Up Right,86.30530769,75.86853159
+QAT,Qatar,4,yellow,Goal4,Up,93.25866667,84.10655278
+QAT,Qatar,5,orange,Goal5,Right,57.1475,44.58975
+QAT,Qatar,6,red,Goal6,Up Right,57.1292,59.0447
+QAT,Qatar,7,yellow,Goal7,Up Right,88.605,88.10620833
+QAT,Qatar,8,yellow,Goal8,Up,76.899,62.06568854
+QAT,Qatar,9,orange,Goal9,Up Right,72.08833333,47.49391042
+QAT,Qatar,10,grey,Goal10,,,66.17809091
+QAT,Qatar,11,orange,Goal11,Right,35.7145,58.92827083
+QAT,Qatar,12,red,Goal12,,68.5575,76.84214583
+QAT,Qatar,13,red,Goal13,Up Right,15.146,71.47551042
+QAT,Qatar,14,red,Goal14,Right,71.598,62.77661458
+QAT,Qatar,15,orange,Goal15,Down,61.25833333,57.3562125
+QAT,Qatar,16,orange,Goal16,Up Right,79.875,69.0938314
+QAT,Qatar,17,grey,Goal17,,40.535,56.23125521
+ROU,Romania,1,yellow,Goal1,Up,94.798,91.94543182
+ROU,Romania,2,orange,Goal2,Up Right,70.6615,61.73419591
+ROU,Romania,3,orange,Goal3,Up Right,80.5645,77.28263593
+ROU,Romania,4,yellow,Goal4,Down,85.75933333,91.68278123
+ROU,Romania,5,orange,Goal5,Up Right,57.48175,60.84888406
+ROU,Romania,6,orange,Goal6,Up Right,81.4748,71.82457391
+ROU,Romania,7,yellow,Goal7,Up Right,88.63233333,87.6735
+ROU,Romania,8,yellow,Goal8,Up Right,82.72816667,69.7746442
+ROU,Romania,9,orange,Goal9,Up Right,55.0225,40.05858986
+ROU,Romania,10,red,Goal10,,58.9595,72.3627619
+ROU,Romania,11,yellow,Goal11,Right,81.09775,76.44322826
+ROU,Romania,12,orange,Goal12,,76.29183333,77.62934493
+ROU,Romania,13,orange,Goal13,Right,87.526,83.04191304
+ROU,Romania,14,red,Goal14,Right,66.2332,58.86582121
+ROU,Romania,15,orange,Goal15,Right,82.8116,69.49956449
+ROU,Romania,16,orange,Goal16,Up Right,75.98455556,72.40393841
+ROU,Romania,17,orange,Goal17,Up Right,48.5385,63.38646014
+RUS,Russian Federation,1,green,Goal1,Up,99.896,91.94543182
+RUS,Russian Federation,2,orange,Goal2,Right,57.5145,61.73419591
+RUS,Russian Federation,3,orange,Goal3,Up Right,78.77907692,77.28263593
+RUS,Russian Federation,4,green,Goal4,Up,99.698,91.68278123
+RUS,Russian Federation,5,orange,Goal5,Up Right,66.436,60.84888406
+RUS,Russian Federation,6,orange,Goal6,Up Right,72.011,71.82457391
+RUS,Russian Federation,7,yellow,Goal7,Up Right,90.82266667,87.6735
+RUS,Russian Federation,8,yellow,Goal8,Up Right,75.40483333,69.7746442
+RUS,Russian Federation,9,orange,Goal9,Up Right,67.7395,40.05858986
+RUS,Russian Federation,10,orange,Goal10,,64.8675,72.3627619
+RUS,Russian Federation,11,yellow,Goal11,Up Right,85.867,76.44322826
+RUS,Russian Federation,12,orange,Goal12,,76.669,77.62934493
+RUS,Russian Federation,13,orange,Goal13,Right,73.44066667,83.04191304
+RUS,Russian Federation,14,red,Goal14,Right,52.3205,58.86582121
+RUS,Russian Federation,15,red,Goal15,Right,66.1826,69.49956449
+RUS,Russian Federation,16,red,Goal16,Up Right,55.83066667,72.40393841
+RUS,Russian Federation,17,yellow,Goal17,Up,70.29075,63.38646014
+RWA,Rwanda,1,red,Goal1,Right,18.905,30.34416279
+RWA,Rwanda,2,red,Goal2,Right,58.787625,51.97774729
+RWA,Rwanda,3,red,Goal3,Up Right,61.83442857,44.14016211
+RWA,Rwanda,4,orange,Goal4,Right,63.834,53.62485676
+RWA,Rwanda,5,orange,Goal5,Up Right,80.868,53.01121023
+RWA,Rwanda,6,red,Goal6,Up Right,58.375,52.57983636
+RWA,Rwanda,7,red,Goal7,Right,14.091,37.27658333
+RWA,Rwanda,8,orange,Goal8,Up,72.56733333,59.98118523
+RWA,Rwanda,9,red,Goal9,Up Right,22.19333333,18.23981667
+RWA,Rwanda,10,red,Goal10,,25.8915,37.33420455
+RWA,Rwanda,11,red,Goal11,Right,56.03825,52.72891477
+RWA,Rwanda,12,orange,Goal12,,80.761,88.02470152
+RWA,Rwanda,13,green,Goal13,Up,99.37433333,96.26652652
+RWA,Rwanda,14,grey,Goal14,,,68.01049167
+RWA,Rwanda,15,red,Goal15,Right,62.3512,66.83500341
+RWA,Rwanda,16,red,Goal16,Up Right,78.0616,56.05098259
+RWA,Rwanda,17,orange,Goal17,Up Right,56.86475,51.65295455
+SAU,Saudi Arabia,1,grey,Goal1,,,92.3215
+SAU,Saudi Arabia,2,red,Goal2,Up Right,58.5555,59.18466592
+SAU,Saudi Arabia,3,orange,Goal3,Up Right,78.57461538,75.86853159
+SAU,Saudi Arabia,4,green,Goal4,Up,98.24333333,84.10655278
+SAU,Saudi Arabia,5,red,Goal5,Right,41.73625,44.58975
+SAU,Saudi Arabia,6,red,Goal6,Up Right,48.2818,59.0447
+SAU,Saudi Arabia,7,yellow,Goal7,Up,90.81233333,88.10620833
+SAU,Saudi Arabia,8,orange,Goal8,Up Right,71.17725,62.06568854
+SAU,Saudi Arabia,9,orange,Goal9,Up Right,68.10116667,47.49391042
+SAU,Saudi Arabia,10,grey,Goal10,,,66.17809091
+SAU,Saudi Arabia,11,orange,Goal11,Up Right,54.38966667,58.92827083
+SAU,Saudi Arabia,12,orange,Goal12,,64.73766667,76.84214583
+SAU,Saudi Arabia,13,red,Goal13,Up Right,55.47766667,71.47551042
+SAU,Saudi Arabia,14,red,Goal14,Right,61.7615,62.77661458
+SAU,Saudi Arabia,15,red,Goal15,Right,49.389,57.3562125
+SAU,Saudi Arabia,16,orange,Goal16,Up Right,70.55414286,69.0938314
+SAU,Saudi Arabia,17,orange,Goal17,Up Right,56.86725,56.23125521
+SDN,Sudan,1,red,Goal1,Down,34.9105,30.34416279
+SDN,Sudan,2,red,Goal2,Right,24.608,51.97774729
+SDN,Sudan,3,red,Goal3,Up Right,51.88364286,44.14016211
+SDN,Sudan,4,red,Goal4,Up,42.603,53.62485676
+SDN,Sudan,5,red,Goal5,Right,41.513,53.01121023
+SDN,Sudan,6,red,Goal6,Up Right,32.7054,52.57983636
+SDN,Sudan,7,red,Goal7,Up Right,58.662,37.27658333
+SDN,Sudan,8,red,Goal8,Right,41.6638,59.98118523
+SDN,Sudan,9,red,Goal9,Right,16.95183333,18.23981667
+SDN,Sudan,10,red,Goal10,,66.396,37.33420455
+SDN,Sudan,11,red,Goal11,Right,30.72475,52.72891477
+SDN,Sudan,12,yellow,Goal12,,87.24966667,88.02470152
+SDN,Sudan,13,green,Goal13,Up,99.105,96.26652652
+SDN,Sudan,14,red,Goal14,Up Right,65.6328,68.01049167
+SDN,Sudan,15,red,Goal15,Right,49.2825,66.83500341
+SDN,Sudan,16,red,Goal16,Up Right,62.205,56.05098259
+SDN,Sudan,17,red,Goal17,Right,35.137,51.65295455
+SEN,Senegal,1,red,Goal1,Right,30.124,30.34416279
+SEN,Senegal,2,red,Goal2,Up Right,61.41375,51.97774729
+SEN,Senegal,3,red,Goal3,Up Right,57.51964286,44.14016211
+SEN,Senegal,4,red,Goal4,Down,37.40433333,53.62485676
+SEN,Senegal,5,red,Goal5,Up Right,44.8995,53.01121023
+SEN,Senegal,6,red,Goal6,Up Right,62.7228,52.57983636
+SEN,Senegal,7,red,Goal7,Up Right,54.52233333,37.27658333
+SEN,Senegal,8,red,Goal8,Up Right,69.9145,59.98118523
+SEN,Senegal,9,red,Goal9,Up Right,24.05666667,18.23981667
+SEN,Senegal,10,red,Goal10,,40.402,37.33420455
+SEN,Senegal,11,red,Goal11,Up Right,63.5725,52.72891477
+SEN,Senegal,12,green,Goal12,,92.79966667,88.02470152
+SEN,Senegal,13,green,Goal13,Up,98.21366667,96.26652652
+SEN,Senegal,14,red,Goal14,Up Right,60.304,68.01049167
+SEN,Senegal,15,orange,Goal15,Up Right,75.25325,66.83500341
+SEN,Senegal,16,red,Goal16,Up Right,64.7176,56.05098259
+SEN,Senegal,17,orange,Goal17,Right,55.548,51.65295455
+SGP,Singapore,1,green,Goal1,Up,98.4435,83.55094444
+SGP,Singapore,2,orange,Goal2,Up Right,76.10533333,59.57284944
+SGP,Singapore,3,yellow,Goal3,Up Right,94.58821429,68.4056886
+SGP,Singapore,4,green,Goal4,Up,99.66666667,88.83601754
+SGP,Singapore,5,yellow,Goal5,Up Right,72.6505,59.05722807
+SGP,Singapore,6,red,Goal6,Up Right,64.389,67.25623158
+SGP,Singapore,7,green,Goal7,Up,94.65533333,73.47686842
+SGP,Singapore,8,orange,Goal8,Up Right,70.1775,69.19497018
+SGP,Singapore,9,green,Goal9,Up,90.20683333,42.18964211
+SGP,Singapore,10,grey,Goal10,,,54.78688235
+SGP,Singapore,11,yellow,Goal11,Up Right,94.737,71.62332895
+SGP,Singapore,12,red,Goal12,,16.31233333,80.23155263
+SGP,Singapore,13,red,Goal13,Up Right,55.48333333,83.69120175
+SGP,Singapore,14,red,Goal14,Right,43.4994,60.66508444
+SGP,Singapore,15,red,Goal15,Down,31.56075,54.83643246
+SGP,Singapore,16,orange,Goal16,Up Right,86.88233333,66.075341
+SGP,Singapore,17,orange,Goal17,Up Right,43.963,53.23046053
+SLB,Solomon Islands,1,red,Goal1,Right,,
+SLB,Solomon Islands,2,red,Goal2,Right,,
+SLB,Solomon Islands,3,red,Goal3,Up Right,,
+SLB,Solomon Islands,4,orange,Goal4,Down,,
+SLB,Solomon Islands,5,red,Goal5,Right,,
+SLB,Solomon Islands,6,red,Goal6,Down,,
+SLB,Solomon Islands,7,red,Goal7,Up Right,,
+SLB,Solomon Islands,8,grey,Goal8,,,
+SLB,Solomon Islands,9,red,Goal9,Right,,
+SLB,Solomon Islands,10,red,Goal10,,,
+SLB,Solomon Islands,11,orange,Goal11,Right,,
+SLB,Solomon Islands,12,grey,Goal12,,,
+SLB,Solomon Islands,13,green,Goal13,Up,,
+SLB,Solomon Islands,14,orange,Goal14,Right,,
+SLB,Solomon Islands,15,red,Goal15,Down,,
+SLB,Solomon Islands,16,orange,Goal16,Right,,
+SLB,Solomon Islands,17,orange,Goal17,Up Right,,
+SLE,Sierra Leone,1,red,Goal1,Right,20.303,30.34416279
+SLE,Sierra Leone,2,red,Goal2,Right,49.78857143,51.97774729
+SLE,Sierra Leone,3,red,Goal3,Up Right,28.80192857,44.14016211
+SLE,Sierra Leone,4,red,Goal4,Up,67.441,53.62485676
+SLE,Sierra Leone,5,red,Goal5,Right,50.7865,53.01121023
+SLE,Sierra Leone,6,red,Goal6,Up Right,48.163,52.57983636
+SLE,Sierra Leone,7,red,Goal7,Right,9.351,37.27658333
+SLE,Sierra Leone,8,red,Goal8,Up Right,59.485,59.98118523
+SLE,Sierra Leone,9,red,Goal9,Right,5.1355,18.23981667
+SLE,Sierra Leone,10,orange,Goal10,,68.04,37.33420455
+SLE,Sierra Leone,11,red,Goal11,Right,39.739,52.72891477
+SLE,Sierra Leone,12,green,Goal12,,95.158,88.02470152
+SLE,Sierra Leone,13,green,Goal13,Up,99.42766667,96.26652652
+SLE,Sierra Leone,14,red,Goal14,Right,61.39816667,68.01049167
+SLE,Sierra Leone,15,red,Goal15,Right,60.2838,66.83500341
+SLE,Sierra Leone,16,red,Goal16,Right,59.863,56.05098259
+SLE,Sierra Leone,17,orange,Goal17,Up Right,55.59825,51.65295455
+SLV,El Salvador,1,yellow,Goal1,Up Right,90.159,78.88736364
+SLV,El Salvador,2,red,Goal2,Up Right,54.954875,57.59063199
+SLV,El Salvador,3,red,Goal3,Up Right,78.27107143,74.52407979
+SLV,El Salvador,4,orange,Goal4,Down,79.705,84.88684783
+SLV,El Salvador,5,yellow,Goal5,Right,68.5145,69.22095652
+SLV,El Salvador,6,orange,Goal6,Up Right,75.8056,73.03634783
+SLV,El Salvador,7,yellow,Goal7,Up Right,87.63333333,84.79700725
+SLV,El Salvador,8,orange,Goal8,Right,63.32316667,68.38165797
+SLV,El Salvador,9,red,Goal9,Right,20.19883333,31.41842826
+SLV,El Salvador,10,red,Goal10,,50.641,27.90167647
+SLV,El Salvador,11,orange,Goal11,Up Right,84.5265,77.0875942
+SLV,El Salvador,12,yellow,Goal12,,86.308,76.72728261
+SLV,El Salvador,13,green,Goal13,Up,93.96966667,85.37328261
+SLV,El Salvador,14,red,Goal14,Down,27.856,62.78111429
+SLV,El Salvador,15,orange,Goal15,Down,66.719,60.90421739
+SLV,El Salvador,16,red,Goal16,Up Right,61.3626,60.88893442
+SLV,El Salvador,17,yellow,Goal17,Up Right,64.801,64.2951558
+SMR,San Marino,1,grey,Goal1,,,
+SMR,San Marino,2,grey,Goal2,,,
+SMR,San Marino,3,grey,Goal3,,,
+SMR,San Marino,4,yellow,Goal4,,,
+SMR,San Marino,5,grey,Goal5,,,
+SMR,San Marino,6,red,Goal6,Up Right,,
+SMR,San Marino,7,green,Goal7,Up,,
+SMR,San Marino,8,grey,Goal8,,,
+SMR,San Marino,9,orange,Goal9,Up,,
+SMR,San Marino,10,grey,Goal10,,,
+SMR,San Marino,11,grey,Goal11,,,
+SMR,San Marino,12,red,Goal12,,,
+SMR,San Marino,13,grey,Goal13,,,
+SMR,San Marino,14,grey,Goal14,,,
+SMR,San Marino,15,grey,Goal15,,,
+SMR,San Marino,16,grey,Goal16,,,
+SMR,San Marino,17,grey,Goal17,,,
+SOM,Somalia,1,red,Goal1,Down,8.0715,30.34416279
+SOM,Somalia,2,red,Goal2,Right,32.2824,51.97774729
+SOM,Somalia,3,red,Goal3,Right,24.97578571,44.14016211
+SOM,Somalia,4,grey,Goal4,,,53.62485676
+SOM,Somalia,5,red,Goal5,Up Right,19.46533333,53.01121023
+SOM,Somalia,6,red,Goal6,Up Right,47.7372,52.57983636
+SOM,Somalia,7,red,Goal7,Right,14.5605,37.27658333
+SOM,Somalia,8,red,Goal8,Up Right,53.30575,59.98118523
+SOM,Somalia,9,red,Goal9,Right,1.805666667,18.23981667
+SOM,Somalia,10,orange,Goal10,,73.803,37.33420455
+SOM,Somalia,11,red,Goal11,Up Right,56.81975,52.72891477
+SOM,Somalia,12,yellow,Goal12,,89.0762,88.02470152
+SOM,Somalia,13,green,Goal13,Up,99.906,96.26652652
+SOM,Somalia,14,red,Goal14,Up Right,59.34933333,68.01049167
+SOM,Somalia,15,red,Goal15,Right,54.6546,66.83500341
+SOM,Somalia,16,red,Goal16,Up Right,52.61483333,56.05098259
+SOM,Somalia,17,red,Goal17,Up Right,33.33333333,51.65295455
+SRB,Serbia,1,green,Goal1,Up,99.72,91.94543182
+SRB,Serbia,2,orange,Goal2,Up Right,71.179125,61.73419591
+SRB,Serbia,3,orange,Goal3,Up Right,82.96514286,77.28263593
+SRB,Serbia,4,green,Goal4,Up,97.29266667,91.68278123
+SRB,Serbia,5,orange,Goal5,Up Right,65.00175,60.84888406
+SRB,Serbia,6,orange,Goal6,Up Right,73.1114,71.82457391
+SRB,Serbia,7,yellow,Goal7,Up Right,84.68266667,87.6735
+SRB,Serbia,8,orange,Goal8,Up Right,76.227,69.7746442
+SRB,Serbia,9,orange,Goal9,Up Right,51.975,40.05858986
+SRB,Serbia,10,orange,Goal10,,73.0185,72.3627619
+SRB,Serbia,11,orange,Goal11,Right,78.72925,76.44322826
+SRB,Serbia,12,orange,Goal12,,76.20533333,77.62934493
+SRB,Serbia,13,yellow,Goal13,Right,85.32333333,83.04191304
+SRB,Serbia,14,grey,Goal14,,,58.86582121
+SRB,Serbia,15,red,Goal15,Right,60.4622,69.49956449
+SRB,Serbia,16,orange,Goal16,Up Right,74.9041,72.40393841
+SRB,Serbia,17,yellow,Goal17,Up Right,75.3935,63.38646014
+SSD,South Sudan,1,red,Goal1,Down,0,30.34416279
+SSD,South Sudan,2,red,Goal2,Right,23.3235,51.97774729
+SSD,South Sudan,3,red,Goal3,Right,26.49507143,44.14016211
+SSD,South Sudan,4,red,Goal4,,1.644333333,53.62485676
+SSD,South Sudan,5,orange,Goal5,Right,52.0545,53.01121023
+SSD,South Sudan,6,red,Goal6,Right,40.5728,52.57983636
+SSD,South Sudan,7,red,Goal7,Up Right,26.08933333,37.27658333
+SSD,South Sudan,8,red,Goal8,Right,50.89866667,59.98118523
+SSD,South Sudan,9,red,Goal9,Right,2.121,18.23981667
+SSD,South Sudan,10,red,Goal10,,21.176,37.33420455
+SSD,South Sudan,11,red,Goal11,Right,13.1045,52.72891477
+SSD,South Sudan,12,orange,Goal12,,74.5918,88.02470152
+SSD,South Sudan,13,green,Goal13,Up,99.6115,96.26652652
+SSD,South Sudan,14,grey,Goal14,,,68.01049167
+SSD,South Sudan,15,red,Goal15,Right,74.7202,66.83500341
+SSD,South Sudan,16,red,Goal16,Down,46.154,56.05098259
+SSD,South Sudan,17,red,Goal17,Right,40.73733333,51.65295455
+STP,Sao Tome and Principe,1,red,Goal1,Down,22.431,30.34416279
+STP,Sao Tome and Principe,2,red,Goal2,Right,57.20557143,51.97774729
+STP,Sao Tome and Principe,3,red,Goal3,Up Right,61.75408333,44.14016211
+STP,Sao Tome and Principe,4,orange,Goal4,,83.542,53.62485676
+STP,Sao Tome and Principe,5,red,Goal5,Right,47.1975,53.01121023
+STP,Sao Tome and Principe,6,red,Goal6,Up Right,61.175,52.57983636
+STP,Sao Tome and Principe,7,red,Goal7,Right,41.6045,37.27658333
+STP,Sao Tome and Principe,8,red,Goal8,Right,62.66,59.98118523
+STP,Sao Tome and Principe,9,red,Goal9,Right,19.0398,18.23981667
+STP,Sao Tome and Principe,10,red,Goal10,,26.6805,37.33420455
+STP,Sao Tome and Principe,11,red,Goal11,Right,58.32933333,52.72891477
+STP,Sao Tome and Principe,12,orange,Goal12,,76.92283333,88.02470152
+STP,Sao Tome and Principe,13,green,Goal13,Up,96.67533333,96.26652652
+STP,Sao Tome and Principe,14,orange,Goal14,Up Right,85.27283333,68.01049167
+STP,Sao Tome and Principe,15,orange,Goal15,Down,75.3345,66.83500341
+STP,Sao Tome and Principe,16,orange,Goal16,Right,76.7875,56.05098259
+STP,Sao Tome and Principe,17,red,Goal17,Right,46.841,51.65295455
+SUR,Suriname,1,red,Goal1,Down,52.007,78.88736364
+SUR,Suriname,2,orange,Goal2,Right,62.87328571,57.59063199
+SUR,Suriname,3,red,Goal3,Right,69.66921429,74.52407979
+SUR,Suriname,4,orange,Goal4,Down,68.92866667,84.88684783
+SUR,Suriname,5,orange,Goal5,Right,64.3465,69.22095652
+SUR,Suriname,6,orange,Goal6,Up Right,73.4006,73.03634783
+SUR,Suriname,7,yellow,Goal7,Up,89.45633333,84.79700725
+SUR,Suriname,8,orange,Goal8,Right,72.7744,68.38165797
+SUR,Suriname,9,red,Goal9,Up Right,35.34225,31.41842826
+SUR,Suriname,10,grey,Goal10,,,27.90167647
+SUR,Suriname,11,orange,Goal11,Up Right,85.87125,77.0875942
+SUR,Suriname,12,orange,Goal12,,75.26983333,76.72728261
+SUR,Suriname,13,orange,Goal13,Right,73.949,85.37328261
+SUR,Suriname,14,yellow,Goal14,Right,79.58116667,62.78111429
+SUR,Suriname,15,red,Goal15,Right,77.9608,60.90421739
+SUR,Suriname,16,red,Goal16,Up Right,67.11177778,60.88893442
+SUR,Suriname,17,orange,Goal17,Up,62.20466667,64.2951558
+SVK,Slovak Republic,1,green,Goal1,Up,98.2415,98.69063514
+SVK,Slovak Republic,2,red,Goal2,Right,72.012,66.75572056
+SVK,Slovak Republic,3,yellow,Goal3,Up Right,87.05584615,90.90151376
+SVK,Slovak Republic,4,orange,Goal4,Up Right,94.221375,98.30024837
+SVK,Slovak Republic,5,orange,Goal5,Up Right,71.8605,77.46045721
+SVK,Slovak Republic,6,yellow,Goal6,Up Right,84.921,85.63096757
+SVK,Slovak Republic,7,orange,Goal7,Up Right,92.51466667,92.46802703
+SVK,Slovak Republic,8,yellow,Goal8,Up,80.889,80.68087297
+SVK,Slovak Republic,9,red,Goal9,Up Right,64.2085,81.25941441
+SVK,Slovak Republic,10,yellow,Goal10,Up Right,90.948,74.4752027
+SVK,Slovak Republic,11,yellow,Goal11,Up Right,86.7985,88.91136712
+SVK,Slovak Republic,12,orange,Goal12,,66.99533333,58.05527928
+SVK,Slovak Republic,13,red,Goal13,Right,72.359,64.11272072
+SVK,Slovak Republic,14,grey,Goal14,,,63.36054624
+SVK,Slovak Republic,15,yellow,Goal15,Up,89.6284,74.10277568
+SVK,Slovak Republic,16,orange,Goal16,Up Right,81.22833333,82.31681502
+SVK,Slovak Republic,17,orange,Goal17,Right,55.47525,65.77382432
+SVN,Slovenia,1,green,Goal1,Up,99.838,98.69063514
+SVN,Slovenia,2,red,Goal2,Up Right,59.009625,66.75572056
+SVN,Slovenia,3,yellow,Goal3,Up Right,91.82323077,90.90151376
+SVN,Slovenia,4,yellow,Goal4,Up Right,99.11066667,98.30024837
+SVN,Slovenia,5,yellow,Goal5,Up Right,76.131,77.46045721
+SVN,Slovenia,6,yellow,Goal6,Up Right,92.5566,85.63096757
+SVN,Slovenia,7,yellow,Goal7,Up Right,93.83866667,92.46802703
+SVN,Slovenia,8,green,Goal8,Up,88.142,80.68087297
+SVN,Slovenia,9,orange,Goal9,Up,73.309,81.25941441
+SVN,Slovenia,10,yellow,Goal10,Up Right,100,74.4752027
+SVN,Slovenia,11,yellow,Goal11,Up,90.256,88.91136712
+SVN,Slovenia,12,red,Goal12,,58.0625,58.05527928
+SVN,Slovenia,13,red,Goal13,Right,61.55,64.11272072
+SVN,Slovenia,14,orange,Goal14,Right,64.9228,63.36054624
+SVN,Slovenia,15,yellow,Goal15,Up,88.4566,74.10277568
+SVN,Slovenia,16,green,Goal16,Up,87.9565,82.31681502
+SVN,Slovenia,17,orange,Goal17,Up Right,62.25325,65.77382432
+SWE,Sweden,1,green,Goal1,Up,99.384,98.69063514
+SWE,Sweden,2,red,Goal2,Up Right,62.9285,66.75572056
+SWE,Sweden,3,yellow,Goal3,Up Right,96.46558333,90.90151376
+SWE,Sweden,4,yellow,Goal4,Up Right,99.42004167,98.30024837
+SWE,Sweden,5,green,Goal5,Up,91.36575,77.46045721
+SWE,Sweden,6,yellow,Goal6,Up Right,93.392,85.63096757
+SWE,Sweden,7,green,Goal7,Up,98.887,92.46802703
+SWE,Sweden,8,yellow,Goal8,Up,83.27166667,80.68087297
+SWE,Sweden,9,green,Goal9,Up,97.43533333,81.25941441
+SWE,Sweden,10,yellow,Goal10,Up Right,94.245,74.4752027
+SWE,Sweden,11,yellow,Goal11,Up Right,95.29225,88.91136712
+SWE,Sweden,12,red,Goal12,,56.88266667,58.05527928
+SWE,Sweden,13,red,Goal13,Right,65.29433333,64.11272072
+SWE,Sweden,14,red,Goal14,Right,66.01666667,63.36054624
+SWE,Sweden,15,red,Goal15,Right,79.9036,74.10277568
+SWE,Sweden,16,yellow,Goal16,Up,86.8386,82.31681502
+SWE,Sweden,17,yellow,Goal17,Up,88.40825,65.77382432
+SWZ,Eswatini,1,red,Goal1,Right,29.644,30.34416279
+SWZ,Eswatini,2,red,Goal2,Right,50.396875,51.97774729
+SWZ,Eswatini,3,red,Goal3,Up Right,40.90114286,44.14016211
+SWZ,Eswatini,4,orange,Goal4,Right,66.768,53.62485676
+SWZ,Eswatini,5,orange,Goal5,Up Right,64.27,53.01121023
+SWZ,Eswatini,6,red,Goal6,Right,45.3718,52.57983636
+SWZ,Eswatini,7,red,Goal7,Up Right,61.4125,37.27658333
+SWZ,Eswatini,8,red,Goal8,Up Right,45.432,59.98118523
+SWZ,Eswatini,9,red,Goal9,Up Right,14.065,18.23981667
+SWZ,Eswatini,10,red,Goal10,,0,37.33420455
+SWZ,Eswatini,11,orange,Goal11,Up Right,78.912,52.72891477
+SWZ,Eswatini,12,red,Goal12,,71.15566667,88.02470152
+SWZ,Eswatini,13,orange,Goal13,Up Right,84.13566667,96.26652652
+SWZ,Eswatini,14,grey,Goal14,,,68.01049167
+SWZ,Eswatini,15,orange,Goal15,Right,65.2025,66.83500341
+SWZ,Eswatini,16,red,Goal16,Right,59.82711111,56.05098259
+SWZ,Eswatini,17,orange,Goal17,Right,61.07675,51.65295455
+SYC,Seychelles,1,grey,Goal1,,,
+SYC,Seychelles,2,red,Goal2,Right,,
+SYC,Seychelles,3,orange,Goal3,Up Right,,
+SYC,Seychelles,4,green,Goal4,Up,,
+SYC,Seychelles,5,yellow,Goal5,Down,,
+SYC,Seychelles,6,orange,Goal6,Right,,
+SYC,Seychelles,7,green,Goal7,Up,,
+SYC,Seychelles,8,grey,Goal8,,,
+SYC,Seychelles,9,orange,Goal9,Up Right,,
+SYC,Seychelles,10,red,Goal10,,,
+SYC,Seychelles,11,grey,Goal11,,,
+SYC,Seychelles,12,red,Goal12,,,
+SYC,Seychelles,13,red,Goal13,Right,,
+SYC,Seychelles,14,orange,Goal14,Up Right,,
+SYC,Seychelles,15,red,Goal15,Right,,
+SYC,Seychelles,16,orange,Goal16,Up,,
+SYC,Seychelles,17,orange,Goal17,Up Right,,
+SYR,Syrian Arab Republic,1,grey,Goal1,,,92.3215
+SYR,Syrian Arab Republic,2,red,Goal2,Right,34.12383333,59.18466592
+SYR,Syrian Arab Republic,3,red,Goal3,Up Right,66.59778571,75.86853159
+SYR,Syrian Arab Republic,4,red,Goal4,,56.717,84.10655278
+SYR,Syrian Arab Republic,5,red,Goal5,Right,33.301,44.58975
+SYR,Syrian Arab Republic,6,orange,Goal6,Up Right,66.3554,59.0447
+SYR,Syrian Arab Republic,7,orange,Goal7,Right,86.06366667,88.10620833
+SYR,Syrian Arab Republic,8,orange,Goal8,Right,60.48766667,62.06568854
+SYR,Syrian Arab Republic,9,red,Goal9,Right,14.41083333,47.49391042
+SYR,Syrian Arab Republic,10,red,Goal10,,46.572,66.17809091
+SYR,Syrian Arab Republic,11,red,Goal11,Down,45.39325,58.92827083
+SYR,Syrian Arab Republic,12,yellow,Goal12,,88.17766667,76.84214583
+SYR,Syrian Arab Republic,13,green,Goal13,Up,93.0525,71.47551042
+SYR,Syrian Arab Republic,14,red,Goal14,Right,50.081,62.77661458
+SYR,Syrian Arab Republic,15,red,Goal15,Right,54.688,57.3562125
+SYR,Syrian Arab Republic,16,red,Goal16,Right,48.848,69.0938314
+SYR,Syrian Arab Republic,17,orange,Goal17,Up Right,48.96866667,56.23125521
+TCD,Chad,1,red,Goal1,Down,20.73,30.34416279
+TCD,Chad,2,red,Goal2,Right,32.21628571,51.97774729
+TCD,Chad,3,red,Goal3,Right,21.5365,44.14016211
+TCD,Chad,4,red,Goal4,Down,14.46466667,53.62485676
+TCD,Chad,5,red,Goal5,Right,26.8215,53.01121023
+TCD,Chad,6,red,Goal6,Right,39.9696,52.57983636
+TCD,Chad,7,red,Goal7,Right,2.039,37.27658333
+TCD,Chad,8,red,Goal8,Up Right,55.7796,59.98118523
+TCD,Chad,9,red,Goal9,Right,8.218666667,18.23981667
+TCD,Chad,10,red,Goal10,,35.493,37.33420455
+TCD,Chad,11,red,Goal11,Right,26.78125,52.72891477
+TCD,Chad,12,yellow,Goal12,,90.88866667,88.02470152
+TCD,Chad,13,green,Goal13,Up,99.6815,96.26652652
+TCD,Chad,14,grey,Goal14,,,68.01049167
+TCD,Chad,15,red,Goal15,Right,71.691,66.83500341
+TCD,Chad,16,red,Goal16,Right,34.695,56.05098259
+TCD,Chad,17,red,Goal17,Right,46.35666667,51.65295455
+TGO,Togo,1,red,Goal1,Right,18.113,30.34416279
+TGO,Togo,2,red,Goal2,Right,60.415875,51.97774729
+TGO,Togo,3,red,Goal3,Right,42.29407143,44.14016211
+TGO,Togo,4,red,Goal4,Up Right,69.277,53.62485676
+TGO,Togo,5,red,Goal5,Right,42.45125,53.01121023
+TGO,Togo,6,red,Goal6,Up Right,49.7112,52.57983636
+TGO,Togo,7,red,Goal7,Right,28.49433333,37.27658333
+TGO,Togo,8,red,Goal8,Up,64.1685,59.98118523
+TGO,Togo,9,red,Goal9,Up Right,14.58616667,18.23981667
+TGO,Togo,10,red,Goal10,,29.8485,37.33420455
+TGO,Togo,11,red,Goal11,Down,38.87525,52.72891477
+TGO,Togo,12,green,Goal12,,93.24033333,88.02470152
+TGO,Togo,13,green,Goal13,Up,98.837,96.26652652
+TGO,Togo,14,orange,Goal14,Up Right,71.8615,68.01049167
+TGO,Togo,15,orange,Goal15,Right,73.2015,66.83500341
+TGO,Togo,16,red,Goal16,Right,53.99511111,56.05098259
+TGO,Togo,17,orange,Goal17,Right,55.50425,51.65295455
+THA,Thailand,1,green,Goal1,Up,100,83.55094444
+THA,Thailand,2,red,Goal2,Right,59.772,59.57284944
+THA,Thailand,3,red,Goal3,Up Right,77.8265,68.4056886
+THA,Thailand,4,yellow,Goal4,Up,89.76766667,88.83601754
+THA,Thailand,5,orange,Goal5,Up Right,69.27375,59.05722807
+THA,Thailand,6,orange,Goal6,Up,76.9234,67.25623158
+THA,Thailand,7,orange,Goal7,Up Right,83.43266667,73.47686842
+THA,Thailand,8,orange,Goal8,Up Right,75.45316667,69.19497018
+THA,Thailand,9,orange,Goal9,Up,55.15533333,42.18964211
+THA,Thailand,10,red,Goal10,,61.26,54.78688235
+THA,Thailand,11,orange,Goal11,Up Right,81.67275,71.62332895
+THA,Thailand,12,orange,Goal12,,77.09066667,80.23155263
+THA,Thailand,13,orange,Goal13,Up Right,87.036,83.69120175
+THA,Thailand,14,red,Goal14,Right,68.156,60.66508444
+THA,Thailand,15,red,Goal15,Down,66.5034,54.83643246
+THA,Thailand,16,orange,Goal16,Up Right,70.419,66.075341
+THA,Thailand,17,orange,Goal17,Right,61.47375,53.23046053
+TJK,Tajikistan,1,yellow,Goal1,Up,89.246,91.94543182
+TJK,Tajikistan,2,red,Goal2,Right,59.595,61.73419591
+TJK,Tajikistan,3,red,Goal3,Up Right,69.20892857,77.28263593
+TJK,Tajikistan,4,green,Goal4,,97.99266667,91.68278123
+TJK,Tajikistan,5,orange,Goal5,Right,54.5325,60.84888406
+TJK,Tajikistan,6,orange,Goal6,Up,59.65,71.82457391
+TJK,Tajikistan,7,yellow,Goal7,Up,91.10833333,87.6735
+TJK,Tajikistan,8,red,Goal8,Up Right,69.3806,69.7746442
+TJK,Tajikistan,9,red,Goal9,Right,11.811,40.05858986
+TJK,Tajikistan,10,orange,Goal10,,74.564,72.3627619
+TJK,Tajikistan,11,red,Goal11,Up Right,77.42075,76.44322826
+TJK,Tajikistan,12,yellow,Goal12,,85.7748,77.62934493
+TJK,Tajikistan,13,green,Goal13,Up,94.2645,83.04191304
+TJK,Tajikistan,14,grey,Goal14,,,58.86582121
+TJK,Tajikistan,15,red,Goal15,Right,68.8928,69.49956449
+TJK,Tajikistan,16,red,Goal16,Right,73.445375,72.40393841
+TJK,Tajikistan,17,orange,Goal17,Right,50.11075,63.38646014
+TKM,Turkmenistan,1,red,Goal1,Up Right,29.3735,91.94543182
+TKM,Turkmenistan,2,red,Goal2,Right,53.96257143,61.73419591
+TKM,Turkmenistan,3,red,Goal3,Up Right,68.734,77.28263593
+TKM,Turkmenistan,4,yellow,Goal4,,88.82488333,91.68278123
+TKM,Turkmenistan,5,orange,Goal5,Right,58.354,60.84888406
+TKM,Turkmenistan,6,red,Goal6,Up,58.6298,71.82457391
+TKM,Turkmenistan,7,yellow,Goal7,Up Right,81.33366667,87.6735
+TKM,Turkmenistan,8,red,Goal8,Up,65.3656,69.7746442
+TKM,Turkmenistan,9,red,Goal9,Right,12.4504,40.05858986
+TKM,Turkmenistan,10,grey,Goal10,,,72.3627619
+TKM,Turkmenistan,11,orange,Goal11,Right,80.219,76.44322826
+TKM,Turkmenistan,12,yellow,Goal12,,82.76116667,77.62934493
+TKM,Turkmenistan,13,red,Goal13,Right,48.2465,83.04191304
+TKM,Turkmenistan,14,grey,Goal14,,,58.86582121
+TKM,Turkmenistan,15,red,Goal15,Right,63.8438,69.49956449
+TKM,Turkmenistan,16,red,Goal16,Right,73.254125,72.40393841
+TKM,Turkmenistan,17,red,Goal17,Right,42.769,63.38646014
+TLS,Timor-Leste,1,red,Goal1,Down,,
+TLS,Timor-Leste,2,red,Goal2,Right,,
+TLS,Timor-Leste,3,red,Goal3,Up Right,,
+TLS,Timor-Leste,4,orange,Goal4,Up,,
+TLS,Timor-Leste,5,red,Goal5,Right,,
+TLS,Timor-Leste,6,red,Goal6,Up Right,,
+TLS,Timor-Leste,7,orange,Goal7,Up Right,,
+TLS,Timor-Leste,8,orange,Goal8,Down,,
+TLS,Timor-Leste,9,red,Goal9,Right,,
+TLS,Timor-Leste,10,yellow,Goal10,,,
+TLS,Timor-Leste,11,orange,Goal11,Up,,
+TLS,Timor-Leste,12,grey,Goal12,,,
+TLS,Timor-Leste,13,grey,Goal13,,,
+TLS,Timor-Leste,14,orange,Goal14,Up Right,,
+TLS,Timor-Leste,15,orange,Goal15,Right,,
+TLS,Timor-Leste,16,red,Goal16,Up,,
+TLS,Timor-Leste,17,orange,Goal17,Up Right,,
+TON,Tonga,1,yellow,Goal1,Up Right,,
+TON,Tonga,2,red,Goal2,Right,,
+TON,Tonga,3,red,Goal3,Up Right,,
+TON,Tonga,4,yellow,Goal4,,,
+TON,Tonga,5,red,Goal5,Up Right,,
+TON,Tonga,6,orange,Goal6,Up Right,,
+TON,Tonga,7,yellow,Goal7,Up Right,,
+TON,Tonga,8,grey,Goal8,,,
+TON,Tonga,9,red,Goal9,Right,,
+TON,Tonga,10,red,Goal10,,,
+TON,Tonga,11,yellow,Goal11,Up,,
+TON,Tonga,12,grey,Goal12,,,
+TON,Tonga,13,green,Goal13,Up,,
+TON,Tonga,14,red,Goal14,Right,,
+TON,Tonga,15,grey,Goal15,,,
+TON,Tonga,16,orange,Goal16,Up,,
+TON,Tonga,17,orange,Goal17,Up Right,,
+TTO,Trinidad and Tobago,1,green,Goal1,Up,98.5315,78.88736364
+TTO,Trinidad and Tobago,2,orange,Goal2,Up Right,55.2985,57.59063199
+TTO,Trinidad and Tobago,3,orange,Goal3,Up Right,80.95028571,74.52407979
+TTO,Trinidad and Tobago,4,yellow,Goal4,,91.127,84.88684783
+TTO,Trinidad and Tobago,5,orange,Goal5,Up Right,65.88675,69.22095652
+TTO,Trinidad and Tobago,6,orange,Goal6,Up Right,74.054,73.03634783
+TTO,Trinidad and Tobago,7,yellow,Goal7,Up Right,88.55066667,84.79700725
+TTO,Trinidad and Tobago,8,orange,Goal8,Up Right,75.0885,68.38165797
+TTO,Trinidad and Tobago,9,orange,Goal9,Up Right,29.29233333,31.41842826
+TTO,Trinidad and Tobago,10,grey,Goal10,,,27.90167647
+TTO,Trinidad and Tobago,11,orange,Goal11,Up,76.74733333,77.0875942
+TTO,Trinidad and Tobago,12,red,Goal12,,65.61433333,76.72728261
+TTO,Trinidad and Tobago,13,red,Goal13,Right,29.0625,85.37328261
+TTO,Trinidad and Tobago,14,red,Goal14,Down,51.80416667,62.78111429
+TTO,Trinidad and Tobago,15,red,Goal15,Down,53.686,60.90421739
+TTO,Trinidad and Tobago,16,red,Goal16,Right,60.3826,60.88893442
+TTO,Trinidad and Tobago,17,orange,Goal17,Up Right,55.47333333,64.2951558
+TUN,Tunisia,1,yellow,Goal1,Up Right,97.069,92.3215
+TUN,Tunisia,2,red,Goal2,Right,55.10471429,59.18466592
+TUN,Tunisia,3,red,Goal3,Up Right,76.45278571,75.86853159
+TUN,Tunisia,4,yellow,Goal4,Up,87.77333333,84.10655278
+TUN,Tunisia,5,orange,Goal5,Down,47.431,44.58975
+TUN,Tunisia,6,orange,Goal6,Up,63.3262,59.0447
+TUN,Tunisia,7,yellow,Goal7,Up Right,92.02733333,88.10620833
+TUN,Tunisia,8,red,Goal8,Right,57.96566667,62.06568854
+TUN,Tunisia,9,orange,Goal9,Up Right,42.94366667,47.49391042
+TUN,Tunisia,10,orange,Goal10,,70.704,66.17809091
+TUN,Tunisia,11,orange,Goal11,Right,70.92825,58.92827083
+TUN,Tunisia,12,yellow,Goal12,,86.84383333,76.84214583
+TUN,Tunisia,13,yellow,Goal13,Up Right,90.79866667,71.47551042
+TUN,Tunisia,14,red,Goal14,Up Right,64.3645,62.77661458
+TUN,Tunisia,15,red,Goal15,Right,67.494,57.3562125
+TUN,Tunisia,16,orange,Goal16,Up Right,69.5085,69.0938314
+TUN,Tunisia,17,yellow,Goal17,Up Right,73.8045,56.23125521
+TUR,Turkey,1,orange,Goal1,Up,99.624,98.69063514
+TUR,Turkey,2,orange,Goal2,Up Right,65.068,66.75572056
+TUR,Turkey,3,orange,Goal3,Up Right,82.928,90.90151376
+TUR,Turkey,4,orange,Goal4,Up,96.273,98.30024837
+TUR,Turkey,5,red,Goal5,Right,46.32975,77.46045721
+TUR,Turkey,6,orange,Goal6,Up Right,75.1284,85.63096757
+TUR,Turkey,7,yellow,Goal7,Up Right,89.161,92.46802703
+TUR,Turkey,8,red,Goal8,Right,59.06066667,80.68087297
+TUR,Turkey,9,red,Goal9,Up Right,60.3015,81.25941441
+TUR,Turkey,10,red,Goal10,Down,38.105,74.4752027
+TUR,Turkey,11,orange,Goal11,Up Right,73.9875,88.91136712
+TUR,Turkey,12,orange,Goal12,,79.81083333,58.05527928
+TUR,Turkey,13,red,Goal13,Right,86.96766667,64.11272072
+TUR,Turkey,14,red,Goal14,Right,51.99816667,63.36054624
+TUR,Turkey,15,red,Goal15,Right,53.2594,74.10277568
+TUR,Turkey,16,red,Goal16,Right,66.49644444,82.31681502
+TUR,Turkey,17,orange,Goal17,Up Right,71.96325,65.77382432
+TUV,Tuvalu,1,grey,Goal1,,,
+TUV,Tuvalu,2,red,Goal2,Right,,
+TUV,Tuvalu,3,grey,Goal3,,,
+TUV,Tuvalu,4,orange,Goal4,Down,,
+TUV,Tuvalu,5,red,Goal5,Down,,
+TUV,Tuvalu,6,orange,Goal6,Right,,
+TUV,Tuvalu,7,yellow,Goal7,Up Right,,
+TUV,Tuvalu,8,grey,Goal8,,,
+TUV,Tuvalu,9,red,Goal9,Right,,
+TUV,Tuvalu,10,orange,Goal10,,,
+TUV,Tuvalu,11,yellow,Goal11,Up,,
+TUV,Tuvalu,12,grey,Goal12,,,
+TUV,Tuvalu,13,green,Goal13,Up,,
+TUV,Tuvalu,14,yellow,Goal14,Up Right,,
+TUV,Tuvalu,15,grey,Goal15,,,
+TUV,Tuvalu,16,grey,Goal16,,,
+TUV,Tuvalu,17,grey,Goal17,,,
+TZA,Tanzania,1,red,Goal1,Right,18.7605,30.34416279
+TZA,Tanzania,2,red,Goal2,Right,59.784375,51.97774729
+TZA,Tanzania,3,red,Goal3,Right,44.31878571,44.14016211
+TZA,Tanzania,4,orange,Goal4,Right,53.065,53.62485676
+TZA,Tanzania,5,orange,Goal5,Up Right,72.90475,53.01121023
+TZA,Tanzania,6,red,Goal6,Up Right,50.1018,52.57983636
+TZA,Tanzania,7,red,Goal7,Up Right,34.644,37.27658333
+TZA,Tanzania,8,red,Goal8,Up,66.92,59.98118523
+TZA,Tanzania,9,red,Goal9,Right,22.42516667,18.23981667
+TZA,Tanzania,10,red,Goal10,,46.7915,37.33420455
+TZA,Tanzania,11,red,Goal11,Up Right,63.05,52.72891477
+TZA,Tanzania,12,yellow,Goal12,,92.16433333,88.02470152
+TZA,Tanzania,13,green,Goal13,Up,99.217,96.26652652
+TZA,Tanzania,14,red,Goal14,Up Right,75.2665,68.01049167
+TZA,Tanzania,15,red,Goal15,Down,60.3444,66.83500341
+TZA,Tanzania,16,red,Goal16,Up Right,54.2859,56.05098259
+TZA,Tanzania,17,orange,Goal17,Right,45.30275,51.65295455
+UGA,Uganda,1,red,Goal1,Right,23.664,30.34416279
+UGA,Uganda,2,red,Goal2,Up Right,64.42142857,51.97774729
+UGA,Uganda,3,red,Goal3,Up Right,47.92207143,44.14016211
+UGA,Uganda,4,orange,Goal4,,60.499,53.62485676
+UGA,Uganda,5,red,Goal5,Right,60.57725,53.01121023
+UGA,Uganda,6,red,Goal6,Right,44.9338,52.57983636
+UGA,Uganda,7,red,Goal7,Up Right,18.4545,37.27658333
+UGA,Uganda,8,red,Goal8,Up Right,62.1905,59.98118523
+UGA,Uganda,9,red,Goal9,Right,28.48066667,18.23981667
+UGA,Uganda,10,red,Goal10,,39.458,37.33420455
+UGA,Uganda,11,red,Goal11,Right,43.7795,52.72891477
+UGA,Uganda,12,yellow,Goal12,,88.549,88.02470152
+UGA,Uganda,13,green,Goal13,Up,99.22933333,96.26652652
+UGA,Uganda,14,grey,Goal14,,,68.01049167
+UGA,Uganda,15,red,Goal15,Down,63.533,66.83500341
+UGA,Uganda,16,red,Goal16,Right,47.9806,56.05098259
+UGA,Uganda,17,red,Goal17,Right,47.10025,51.65295455
+UKR,Ukraine,1,green,Goal1,Up,99.774,91.94543182
+UKR,Ukraine,2,orange,Goal2,Up Right,63.821625,61.73419591
+UKR,Ukraine,3,orange,Goal3,Up Right,75.91114286,77.28263593
+UKR,Ukraine,4,yellow,Goal4,,91.91766667,91.68278123
+UKR,Ukraine,5,orange,Goal5,Up Right,67.211,60.84888406
+UKR,Ukraine,6,orange,Goal6,Up Right,78.689,71.82457391
+UKR,Ukraine,7,yellow,Goal7,Up Right,91.71166667,87.6735
+UKR,Ukraine,8,orange,Goal8,Up Right,71.70783333,69.7746442
+UKR,Ukraine,9,orange,Goal9,Up Right,39.0075,40.05858986
+UKR,Ukraine,10,green,Goal10,,98.811,72.3627619
+UKR,Ukraine,11,orange,Goal11,Right,75.47375,76.44322826
+UKR,Ukraine,12,yellow,Goal12,,81.84683333,77.62934493
+UKR,Ukraine,13,orange,Goal13,Up Right,86.464,83.04191304
+UKR,Ukraine,14,red,Goal14,Right,58.00416667,58.86582121
+UKR,Ukraine,15,red,Goal15,Right,63.6828,69.49956449
+UKR,Ukraine,16,red,Goal16,Up Right,65.3853,72.40393841
+UKR,Ukraine,17,yellow,Goal17,Up Right,74.259,63.38646014
+URY,Uruguay,1,green,Goal1,Up,99.932,78.88736364
+URY,Uruguay,2,orange,Goal2,Up Right,67.540875,57.59063199
+URY,Uruguay,3,orange,Goal3,Up Right,82.81946154,74.52407979
+URY,Uruguay,4,yellow,Goal4,Up,88.769,84.88684783
+URY,Uruguay,5,yellow,Goal5,Up Right,73.43975,69.22095652
+URY,Uruguay,6,orange,Goal6,Up,78.3142,73.03634783
+URY,Uruguay,7,green,Goal7,Up,96.89166667,84.79700725
+URY,Uruguay,8,orange,Goal8,Up Right,75.40783333,68.38165797
+URY,Uruguay,9,orange,Goal9,Up Right,45.05583333,31.41842826
+URY,Uruguay,10,red,Goal10,,49.4535,27.90167647
+URY,Uruguay,11,yellow,Goal11,Up,90.04666667,77.0875942
+URY,Uruguay,12,red,Goal12,,61.88366667,76.72728261
+URY,Uruguay,13,yellow,Goal13,Up Right,85.96133333,85.37328261
+URY,Uruguay,14,red,Goal14,Right,61.643,62.78111429
+URY,Uruguay,15,red,Goal15,Right,58.8142,60.90421739
+URY,Uruguay,16,red,Goal16,Up Right,73.2532,60.88893442
+URY,Uruguay,17,yellow,Goal17,Up Right,78.06233333,64.2951558
+USA,United States,1,orange,Goal1,Up Right,99.2335,98.69063514
+USA,United States,2,red,Goal2,Right,69.135375,66.75572056
+USA,United States,3,orange,Goal3,Up Right,88.68164286,90.90151376
+USA,United States,4,yellow,Goal4,Up Right,99.241375,98.30024837
+USA,United States,5,orange,Goal5,Up Right,74.352,77.46045721
+USA,United States,6,yellow,Goal6,Up,84.2718,85.63096757
+USA,United States,7,orange,Goal7,Up Right,93.531,92.46802703
+USA,United States,8,orange,Goal8,Up Right,76.60016667,80.68087297
+USA,United States,9,yellow,Goal9,Up,93.94716667,81.25941441
+USA,United States,10,red,Goal10,Down,46.956,74.4752027
+USA,United States,11,yellow,Goal11,Up,92.593,88.91136712
+USA,United States,12,red,Goal12,,53.5835,58.05527928
+USA,United States,13,red,Goal13,Right,52.66366667,64.11272072
+USA,United States,14,orange,Goal14,Down,64.61866667,63.36054624
+USA,United States,15,red,Goal15,Down,60.5942,74.10277568
+USA,United States,16,red,Goal16,Up Right,73.3457,82.31681502
+USA,United States,17,red,Goal17,Up Right,68.8155,65.77382432
+UZB,Uzbekistan,1,orange,Goal1,Up,75.7845,91.94543182
+UZB,Uzbekistan,2,orange,Goal2,Right,65.38185714,61.73419591
+UZB,Uzbekistan,3,orange,Goal3,Up Right,78.21435714,77.28263593
+UZB,Uzbekistan,4,green,Goal4,Up,97.39933333,91.68278123
+UZB,Uzbekistan,5,yellow,Goal5,Up Right,73.1145,60.84888406
+UZB,Uzbekistan,6,red,Goal6,Up,58.3596,71.82457391
+UZB,Uzbekistan,7,yellow,Goal7,Up Right,87.04733333,87.6735
+UZB,Uzbekistan,8,red,Goal8,Right,62.4245,69.7746442
+UZB,Uzbekistan,9,red,Goal9,Up Right,27.62883333,40.05858986
+UZB,Uzbekistan,10,red,Goal10,,51.166,72.3627619
+UZB,Uzbekistan,11,red,Goal11,Right,75.944,76.44322826
+UZB,Uzbekistan,12,yellow,Goal12,,91.4548,77.62934493
+UZB,Uzbekistan,13,yellow,Goal13,Up Right,93.11466667,83.04191304
+UZB,Uzbekistan,14,grey,Goal14,,,58.86582121
+UZB,Uzbekistan,15,red,Goal15,Right,60.6532,69.49956449
+UZB,Uzbekistan,16,red,Goal16,Up Right,74.368625,72.40393841
+UZB,Uzbekistan,17,orange,Goal17,Right,56.2865,63.38646014
+VCT,St. Vincent and the Grenadines,1,grey,Goal1,,,
+VCT,St. Vincent and the Grenadines,2,orange,Goal2,Up Right,,
+VCT,St. Vincent and the Grenadines,3,orange,Goal3,Up Right,,
+VCT,St. Vincent and the Grenadines,4,green,Goal4,Up,,
+VCT,St. Vincent and the Grenadines,5,orange,Goal5,Up Right,,
+VCT,St. Vincent and the Grenadines,6,orange,Goal6,Right,,
+VCT,St. Vincent and the Grenadines,7,green,Goal7,Up,,
+VCT,St. Vincent and the Grenadines,8,red,Goal8,Down,,
+VCT,St. Vincent and the Grenadines,9,red,Goal9,Right,,
+VCT,St. Vincent and the Grenadines,10,grey,Goal10,,,
+VCT,St. Vincent and the Grenadines,11,grey,Goal11,,,
+VCT,St. Vincent and the Grenadines,12,grey,Goal12,,,
+VCT,St. Vincent and the Grenadines,13,yellow,Goal13,Down,,
+VCT,St. Vincent and the Grenadines,14,red,Goal14,Right,,
+VCT,St. Vincent and the Grenadines,15,red,Goal15,Down,,
+VCT,St. Vincent and the Grenadines,16,orange,Goal16,Up Right,,
+VCT,St. Vincent and the Grenadines,17,orange,Goal17,Up Right,,
+VEN,"Venezuela, RB",1,red,Goal1,Down,13.244,78.88736364
+VEN,"Venezuela, RB",2,red,Goal2,Right,43.22585714,57.59063199
+VEN,"Venezuela, RB",3,red,Goal3,Right,65.28678571,74.52407979
+VEN,"Venezuela, RB",4,orange,Goal4,,82.24466667,84.88684783
+VEN,"Venezuela, RB",5,orange,Goal5,Up Right,66.278,69.22095652
+VEN,"Venezuela, RB",6,orange,Goal6,Right,78.1348,73.03634783
+VEN,"Venezuela, RB",7,yellow,Goal7,Up Right,92.112,84.79700725
+VEN,"Venezuela, RB",8,orange,Goal8,Right,70.7628,68.38165797
+VEN,"Venezuela, RB",9,red,Goal9,Right,32.31733333,31.41842826
+VEN,"Venezuela, RB",10,red,Goal10,,21.608,27.90167647
+VEN,"Venezuela, RB",11,red,Goal11,Right,47.57966667,77.0875942
+VEN,"Venezuela, RB",12,orange,Goal12,,81.5725,76.72728261
+VEN,"Venezuela, RB",13,yellow,Goal13,Up,85.692,85.37328261
+VEN,"Venezuela, RB",14,red,Goal14,Right,64.51166667,62.78111429
+VEN,"Venezuela, RB",15,red,Goal15,Down,69.027,60.90421739
+VEN,"Venezuela, RB",16,red,Goal16,Right,34.13377778,60.88893442
+VEN,"Venezuela, RB",17,orange,Goal17,Down,60.782,64.2951558
+VNM,Vietnam,1,yellow,Goal1,Up,95.1425,83.55094444
+VNM,Vietnam,2,red,Goal2,Up Right,71.032625,59.57284944
+VNM,Vietnam,3,red,Goal3,Up Right,72.46742857,68.4056886
+VNM,Vietnam,4,green,Goal4,Up,97.10766667,88.83601754
+VNM,Vietnam,5,orange,Goal5,Up Right,72.20325,59.05722807
+VNM,Vietnam,6,orange,Goal6,Up,73.138,67.25623158
+VNM,Vietnam,7,yellow,Goal7,Up,83.20033333,73.47686842
+VNM,Vietnam,8,orange,Goal8,Up Right,72.14916667,69.19497018
+VNM,Vietnam,9,red,Goal9,Up Right,43.97566667,42.18964211
+VNM,Vietnam,10,orange,Goal10,,70.4995,54.78688235
+VNM,Vietnam,11,orange,Goal11,Up,80.11625,71.62332895
+VNM,Vietnam,12,green,Goal12,,91.89966667,80.23155263
+VNM,Vietnam,13,yellow,Goal13,Right,93.97,83.69120175
+VNM,Vietnam,14,red,Goal14,Right,49.19216667,60.66508444
+VNM,Vietnam,15,red,Goal15,Down,46.689,54.83643246
+VNM,Vietnam,16,red,Goal16,Up Right,65.96,66.075341
+VNM,Vietnam,17,orange,Goal17,Right,59.68125,53.23046053
+VUT,Vanuatu,1,red,Goal1,Down,52.397,57.553
+VUT,Vanuatu,2,red,Goal2,Right,46.08057143,44.31975714
+VUT,Vanuatu,3,red,Goal3,Up Right,64.41333333,60.50539316
+VUT,Vanuatu,4,orange,Goal4,,73.07333333,77.23033333
+VUT,Vanuatu,5,red,Goal5,Right,37.12266667,47.70455556
+VUT,Vanuatu,6,red,Goal6,Up Right,51.84675,56.52025
+VUT,Vanuatu,7,red,Goal7,Up Right,34.4165,45.539
+VUT,Vanuatu,8,yellow,Goal8,Up,79.15066667,77.72163889
+VUT,Vanuatu,9,red,Goal9,Up Right,31.4705,25.78646667
+VUT,Vanuatu,10,orange,Goal10,,62.2705,44.65183333
+VUT,Vanuatu,11,yellow,Goal11,Right,85.556,84.03016667
+VUT,Vanuatu,12,red,Goal12,,66.10683333,77.65833333
+VUT,Vanuatu,13,green,Goal13,Up,96.003,93.96744444
+VUT,Vanuatu,14,red,Goal14,Right,68.51666667,68.60755556
+VUT,Vanuatu,15,red,Goal15,Down,52.825,53.58511667
+VUT,Vanuatu,16,red,Goal16,Up,68.41616667,69.65130556
+VUT,Vanuatu,17,orange,Goal17,Up Right,59.235,52.52916667
+WSM,Samoa,1,yellow,Goal1,Up Right,,
+WSM,Samoa,2,red,Goal2,Right,,
+WSM,Samoa,3,red,Goal3,Up Right,,
+WSM,Samoa,4,green,Goal4,Up,,
+WSM,Samoa,5,red,Goal5,Right,,
+WSM,Samoa,6,orange,Goal6,Up,,
+WSM,Samoa,7,yellow,Goal7,Up Right,,
+WSM,Samoa,8,orange,Goal8,Right,,
+WSM,Samoa,9,red,Goal9,Right,,
+WSM,Samoa,10,red,Goal10,,,
+WSM,Samoa,11,yellow,Goal11,Up Right,,
+WSM,Samoa,12,red,Goal12,,,
+WSM,Samoa,13,green,Goal13,Up,,
+WSM,Samoa,14,orange,Goal14,Right,,
+WSM,Samoa,15,red,Goal15,Right,,
+WSM,Samoa,16,orange,Goal16,Up,,
+WSM,Samoa,17,orange,Goal17,Right,,
+YEM,"Yemen, Rep.",1,grey,Goal1,,,92.3215
+YEM,"Yemen, Rep.",2,red,Goal2,Right,40.70371429,59.18466592
+YEM,"Yemen, Rep.",3,red,Goal3,Right,44.69642857,75.86853159
+YEM,"Yemen, Rep.",4,red,Goal4,,55.689,84.10655278
+YEM,"Yemen, Rep.",5,red,Goal5,Right,13.44,44.58975
+YEM,"Yemen, Rep.",6,red,Goal6,Up Right,38.4338,59.0447
+YEM,"Yemen, Rep.",7,red,Goal7,Down,60.905,88.10620833
+YEM,"Yemen, Rep.",8,red,Goal8,Right,49.29466667,62.06568854
+YEM,"Yemen, Rep.",9,red,Goal9,Right,8.940166667,47.49391042
+YEM,"Yemen, Rep.",10,red,Goal10,,48.9305,66.17809091
+YEM,"Yemen, Rep.",11,red,Goal11,Right,42.8815,58.92827083
+YEM,"Yemen, Rep.",12,yellow,Goal12,,91.54583333,76.84214583
+YEM,"Yemen, Rep.",13,green,Goal13,Up,97.464,71.47551042
+YEM,"Yemen, Rep.",14,red,Goal14,Right,77.505,62.77661458
+YEM,"Yemen, Rep.",15,red,Goal15,Down,47.748,57.3562125
+YEM,"Yemen, Rep.",16,red,Goal16,Right,37.0585,69.0938314
+YEM,"Yemen, Rep.",17,orange,Goal17,Down,51.11833333,56.23125521
+ZAF,South Africa,1,red,Goal1,Down,44.1865,30.34416279
+ZAF,South Africa,2,red,Goal2,Right,58.5875,51.97774729
+ZAF,South Africa,3,red,Goal3,Up Right,51.88192857,44.14016211
+ZAF,South Africa,4,orange,Goal4,Down,81.09666667,53.62485676
+ZAF,South Africa,5,yellow,Goal5,Up,83.99625,53.01121023
+ZAF,South Africa,6,orange,Goal6,Up Right,64.0194,52.57983636
+ZAF,South Africa,7,orange,Goal7,Up Right,81.32566667,37.27658333
+ZAF,South Africa,8,red,Goal8,Right,60.63966667,59.98118523
+ZAF,South Africa,9,orange,Goal9,Up Right,61.4255,18.23981667
+ZAF,South Africa,10,red,Goal10,,0,37.33420455
+ZAF,South Africa,11,orange,Goal11,Up Right,78.90625,52.72891477
+ZAF,South Africa,12,yellow,Goal12,,81.48433333,88.02470152
+ZAF,South Africa,13,orange,Goal13,Up Right,79.38533333,96.26652652
+ZAF,South Africa,14,red,Goal14,Right,64.6025,68.01049167
+ZAF,South Africa,15,red,Goal15,Right,58.982,66.83500341
+ZAF,South Africa,16,red,Goal16,Right,58.616,56.05098259
+ZAF,South Africa,17,yellow,Goal17,Up Right,74.473,51.65295455
+ZMB,Zambia,1,red,Goal1,Down,9.2975,30.34416279
+ZMB,Zambia,2,red,Goal2,Right,60.96885714,51.97774729
+ZMB,Zambia,3,red,Goal3,Up Right,48.59364286,44.14016211
+ZMB,Zambia,4,orange,Goal4,,66.05566667,53.62485676
+ZMB,Zambia,5,orange,Goal5,Right,59.293,53.01121023
+ZMB,Zambia,6,red,Goal6,Right,51.0242,52.57983636
+ZMB,Zambia,7,red,Goal7,Up Right,47.13666667,37.27658333
+ZMB,Zambia,8,red,Goal8,Up Right,56.784,59.98118523
+ZMB,Zambia,9,red,Goal9,Right,17.203,18.23981667
+ZMB,Zambia,10,red,Goal10,,0.466,37.33420455
+ZMB,Zambia,11,red,Goal11,Right,55.7225,52.72891477
+ZMB,Zambia,12,green,Goal12,,93.2035,88.02470152
+ZMB,Zambia,13,green,Goal13,Up,98.112,96.26652652
+ZMB,Zambia,14,grey,Goal14,,,68.01049167
+ZMB,Zambia,15,red,Goal15,Right,69.193,66.83500341
+ZMB,Zambia,16,red,Goal16,Right,51.4971,56.05098259
+ZMB,Zambia,17,orange,Goal17,Right,55.09225,51.65295455
+ZWE,Zimbabwe,1,grey,Goal1,,,30.34416279
+ZWE,Zimbabwe,2,red,Goal2,Right,47.881,51.97774729
+ZWE,Zimbabwe,3,red,Goal3,Up Right,43.28471429,44.14016211
+ZWE,Zimbabwe,4,orange,Goal4,,82.08966667,53.62485676
+ZWE,Zimbabwe,5,yellow,Goal5,Up Right,78.3705,53.01121023
+ZWE,Zimbabwe,6,red,Goal6,Right,49.407,52.57983636
+ZWE,Zimbabwe,7,red,Goal7,Right,47.02133333,37.27658333
+ZWE,Zimbabwe,8,red,Goal8,Up Right,61.4965,59.98118523
+ZWE,Zimbabwe,9,red,Goal9,Right,17.8178,18.23981667
+ZWE,Zimbabwe,10,red,Goal10,,34.074,37.33420455
+ZWE,Zimbabwe,11,red,Goal11,Down,58.692,52.72891477
+ZWE,Zimbabwe,12,green,Goal12,,94.7485,88.02470152
+ZWE,Zimbabwe,13,green,Goal13,Up,97.18266667,96.26652652
+ZWE,Zimbabwe,14,grey,Goal14,,,68.01049167
+ZWE,Zimbabwe,15,orange,Goal15,Down,77.3994,66.83500341
+ZWE,Zimbabwe,16,red,Goal16,Right,49.2155,56.05098259
+ZWE,Zimbabwe,17,orange,Goal17,Up Right,60.246,51.65295455
